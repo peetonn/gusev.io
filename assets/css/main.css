@@ -585,11 +585,11 @@ img {
   max-width: 80rem; }
 
 .navbar {
-  display: block; }
+  display: block;
+  font-size: 20px; }
 
 .nav-item {
-  display: inline-block;
-  padding: 1rem; }
+  display: inline-block; }
 
 .post-nav {
   text-align: center;
@@ -598,8 +598,15 @@ img {
 .post-title {
   display: block; }
 
-.post-tile {
-  position: relative; }
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 360px); }
+
+.project-tile {
+  border-color: white;
+  position: relative;
+  max-width: 360px;
+  max-height: 360px; }
 
 .post-caption {
   position: absolute;
@@ -616,17 +623,26 @@ img {
   font-size: 20px;
   color: #5EFC8D; }
 
-.column:nth-child(even) {
+.project-tile:nth-child(even) {
   text-align: right; }
 
-.column:nth-child(odd) .post-caption {
+.project-tile:nth-child(odd) .post-caption {
   top: 0;
   margin-top: 17%; }
 
-.column:nth-child(even) .post-caption {
+.project-tile:nth-child(even) .post-caption {
   right: 0;
   bottom: 0;
   margin-bottom: 17%; }
+
+.preview-panel {
+  padding: 3%;
+  box-sizing: border-box; }
+  .preview-panel:hover + .post-caption {
+    opacity: 1; }
+
+.post-tile:hover + .post-caption {
+  opacity: 1; }
 
 .post-inline-title {
   display: inline-block; }
@@ -689,7 +705,7 @@ img {
 /**
  * override column size for mobile
  */
-@media (max-width: 40rem) {
+@media (pointer: coarse) {
   .row .column.column-33, .row .column.column-34 {
     flex: 0 0 100%;
     max-width: 100%; }
@@ -722,15 +738,6 @@ img {
 /**
  * Misc
  */
-.preview-panel {
-  padding: 3%;
-  box-sizing: border-box; }
-  .preview-panel:hover + .post-caption {
-    opacity: 1; }
-
-.post-tile:hover + .post-caption {
-  opacity: 1; }
-
 .site-stub {
   font-size: 30px;
   top: 50%;
@@ -747,47 +754,47 @@ img {
 
 @keyframes noise-anim {
   0% {
-    clip: rect(66px, 9999px, 46px, 0); }
+    clip: rect(93px, 9999px, 16px, 0); }
   5% {
-    clip: rect(87px, 9999px, 94px, 0); }
+    clip: rect(46px, 9999px, 83px, 0); }
   10% {
-    clip: rect(67px, 9999px, 31px, 0); }
+    clip: rect(71px, 9999px, 95px, 0); }
   15% {
-    clip: rect(87px, 9999px, 35px, 0); }
+    clip: rect(14px, 9999px, 50px, 0); }
   20% {
-    clip: rect(6px, 9999px, 9px, 0); }
+    clip: rect(27px, 9999px, 4px, 0); }
   25% {
-    clip: rect(22px, 9999px, 8px, 0); }
+    clip: rect(55px, 9999px, 49px, 0); }
   30% {
-    clip: rect(61px, 9999px, 3px, 0); }
+    clip: rect(43px, 9999px, 39px, 0); }
   35% {
-    clip: rect(47px, 9999px, 68px, 0); }
+    clip: rect(1px, 9999px, 10px, 0); }
   40% {
-    clip: rect(68px, 9999px, 41px, 0); }
+    clip: rect(57px, 9999px, 13px, 0); }
   45% {
-    clip: rect(25px, 9999px, 61px, 0); }
+    clip: rect(30px, 9999px, 47px, 0); }
   50% {
-    clip: rect(96px, 9999px, 65px, 0); }
+    clip: rect(83px, 9999px, 84px, 0); }
   55% {
-    clip: rect(3px, 9999px, 3px, 0); }
+    clip: rect(79px, 9999px, 99px, 0); }
   60% {
-    clip: rect(91px, 9999px, 40px, 0); }
+    clip: rect(5px, 9999px, 84px, 0); }
   65% {
-    clip: rect(65px, 9999px, 43px, 0); }
+    clip: rect(84px, 9999px, 44px, 0); }
   70% {
-    clip: rect(9px, 9999px, 66px, 0); }
+    clip: rect(80px, 9999px, 54px, 0); }
   75% {
-    clip: rect(36px, 9999px, 51px, 0); }
+    clip: rect(53px, 9999px, 2px, 0); }
   80% {
-    clip: rect(81px, 9999px, 37px, 0); }
+    clip: rect(70px, 9999px, 55px, 0); }
   85% {
-    clip: rect(53px, 9999px, 24px, 0); }
+    clip: rect(98px, 9999px, 69px, 0); }
   90% {
-    clip: rect(65px, 9999px, 35px, 0); }
+    clip: rect(81px, 9999px, 52px, 0); }
   95% {
-    clip: rect(4px, 9999px, 95px, 0); }
+    clip: rect(74px, 9999px, 69px, 0); }
   100% {
-    clip: rect(73px, 9999px, 48px, 0); } }
+    clip: rect(88px, 9999px, 78px, 0); } }
 .glitch:after {
   content: attr(data-text);
   position: absolute;
@@ -802,47 +809,47 @@ img {
 
 @keyframes noise-anim-2 {
   0% {
-    clip: rect(80px, 9999px, 26px, 0); }
+    clip: rect(49px, 9999px, 27px, 0); }
   5% {
-    clip: rect(69px, 9999px, 41px, 0); }
+    clip: rect(94px, 9999px, 99px, 0); }
   10% {
-    clip: rect(82px, 9999px, 84px, 0); }
+    clip: rect(32px, 9999px, 45px, 0); }
   15% {
-    clip: rect(11px, 9999px, 46px, 0); }
+    clip: rect(67px, 9999px, 63px, 0); }
   20% {
-    clip: rect(91px, 9999px, 6px, 0); }
+    clip: rect(54px, 9999px, 57px, 0); }
   25% {
-    clip: rect(17px, 9999px, 66px, 0); }
+    clip: rect(18px, 9999px, 71px, 0); }
   30% {
-    clip: rect(68px, 9999px, 38px, 0); }
+    clip: rect(80px, 9999px, 60px, 0); }
   35% {
-    clip: rect(76px, 9999px, 16px, 0); }
+    clip: rect(68px, 9999px, 78px, 0); }
   40% {
-    clip: rect(16px, 9999px, 8px, 0); }
+    clip: rect(24px, 9999px, 37px, 0); }
   45% {
-    clip: rect(74px, 9999px, 57px, 0); }
+    clip: rect(5px, 9999px, 15px, 0); }
   50% {
-    clip: rect(8px, 9999px, 7px, 0); }
+    clip: rect(97px, 9999px, 13px, 0); }
   55% {
-    clip: rect(62px, 9999px, 97px, 0); }
+    clip: rect(16px, 9999px, 69px, 0); }
   60% {
-    clip: rect(83px, 9999px, 35px, 0); }
+    clip: rect(80px, 9999px, 27px, 0); }
   65% {
-    clip: rect(36px, 9999px, 51px, 0); }
+    clip: rect(4px, 9999px, 68px, 0); }
   70% {
-    clip: rect(93px, 9999px, 16px, 0); }
+    clip: rect(13px, 9999px, 24px, 0); }
   75% {
-    clip: rect(81px, 9999px, 33px, 0); }
+    clip: rect(32px, 9999px, 41px, 0); }
   80% {
-    clip: rect(13px, 9999px, 66px, 0); }
+    clip: rect(72px, 9999px, 24px, 0); }
   85% {
-    clip: rect(52px, 9999px, 26px, 0); }
+    clip: rect(45px, 9999px, 44px, 0); }
   90% {
-    clip: rect(18px, 9999px, 46px, 0); }
+    clip: rect(59px, 9999px, 10px, 0); }
   95% {
-    clip: rect(34px, 9999px, 20px, 0); }
+    clip: rect(97px, 9999px, 80px, 0); }
   100% {
-    clip: rect(4px, 9999px, 8px, 0); } }
+    clip: rect(65px, 9999px, 82px, 0); } }
 .glitch:before {
   content: attr(data-text);
   position: absolute;
@@ -857,7 +864,7 @@ img {
 
 .glitch--style-banner {
   --gap-horizontal: 3px;
-  --gap-vertical: 70px;
+  --gap-vertical: 3px;
   --time-anim: 2.25s;
   --blend-mode-1: none;
   --blend-mode-2: none;
@@ -874,7 +881,7 @@ img {
   position: relative;
   background-repeat: no-repeat;
   overflow: hidden;
-  padding-bottom: 56.5%; }
+  padding-bottom: 100%; }
 
 .glitch__img {
   position: absolute;
