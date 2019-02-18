@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1" viewBox="107 133 705 409">
+    <metadata> Produced by OmniGraffle 6.6.2. Hacked by peetonn	ᕕ(⌐■-■)ᕗ</metadata>
+    <defs>
+        <font-face font-family="Courier New" font-size="16" panose-1="2" units-per-em="1000" underline-position="-233" underline-thickness="100" slope="0" x-height="443" cap-height="592" ascent="833" descent="-300" font-weight="bold">
+            <font-face-src>
+                <font-face-name name="CourierNewPS-BoldMT" />
+            </font-face-src>
+        </font-face>
+        <font-face font-family="Helvetica Neue" font-size="16" panose-1="2" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975" descent="-217" font-weight="bold">
+            <font-face-src>
+                <font-face-name name="HelveticaNeue-Bold" />
+            </font-face-src>
+        </font-face>
+        <font-face font-family="Courier New" font-size="10" panose-1="2" units-per-em="1000" underline-position="-233" underline-thickness="100" slope="0" x-height="443" cap-height="592" ascent="833" descent="-300" font-weight="bold">
+            <font-face-src>
+                <font-face-name name="CourierNewPS-BoldMT" />
+            </font-face-src>
+        </font-face>
+        <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="white">
+            <path d="M8 0L0-3 0 3Z" fill="currentColor" stroke="currentColor" stroke-width="1" />
+        </marker>
+        <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#b1001c">
+            <path d="M8 0L0-3 0 3Z" fill="currentColor" stroke="currentColor" stroke-width="1" />
+        </marker>
+        <font-face font-family="Helvetica Neue" font-size="16" panose-1="2" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="952" descent="-213" font-weight="500">
+            <font-face-src>
+                <font-face-name name="HelveticaNeue" />
+            </font-face-src>
+        </font-face>
+    </defs>
+
+      <!-- step 0 -->
+      <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+        <!-- video frame -->
+        <g class="svg-anim-block">
+          <path d="M325 171L342 171 342 225 325 225M224 225L207 225 207 171 224 171" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <text transform="translate(212 189)" fill="white">
+              <tspan font-family="Courier New" font-size="16" font-weight="bold" fill="white" x="10" y="13" textLength="106">video frame</tspan>
+          </text>
+        </g>
+      </g>
+
+      <!-- step 1 -->
+      <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+        <!-- arrows -->
+        <g class="svg-anim-path">
+          <path d="M401 198L401 153 447 153 449 153" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <path d="M401 198L447 198 449 198" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <path d="M342 198L354 198 401 198 401 243 447 243 449 243" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="svg-anim-block">
+          <!-- YOLO1 -->
+          <rect x="459" y="135" width="99" height="36" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <text transform="translate(464 143.267944)" fill="white">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="bold" fill="white" x="18" y="16" textLength="54">YOLO1</tspan>
+          </text>
+          <!-- YOLO2 -->
+          <rect x="459" y="180" width="99" height="36" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <text transform="translate(464 188.26794)" fill="white">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="bold" fill="white" x="18" y="16" textLength="54">YOLO2</tspan>
+          </text>
+          <!-- OpenFace -->
+          <rect x="459" y="225" width="99" height="36" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <text transform="translate(464 233.26794)" fill="white">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="bold" fill="white" x="6" y="16" textLength="78">OpenFace</tspan>
+          </text>
+        </g>
+      </g>
+
+      <!-- step 2 -->
+      <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+        <!-- arrows -->
+        <g class="svg-anim-path">
+          <path d="M558 153L570 153 617 153 617 207" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <path d="M558 198L570 198 617 198 617 207" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <path d="M558 243L570 243 617 243 617 198 663 198 665 198" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+
+        <!-- annotations block -->
+        <g class="svg-anim-block">
+          <path d="M793 171L810 171 810 225 793 225M692 225L675 225 675 171 692 171" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <text transform="translate(680 172.5)" fill="white">
+              <tspan font-family="Courier New" font-size="16" font-weight="bold" fill="white" x="10" y="13" textLength="106">annotations</tspan>
+              <tspan font-family="Courier New" font-size="10" font-weight="bold" fill="white" x="41" y="26" textLength="42">objects</tspan>
+              <tspan font-family="Courier New" font-size="10" font-weight="bold" fill="white" x="47" y="37" textLength="30">props</tspan>
+              <tspan font-family="Courier New" font-size="10" font-weight="bold" fill="white" x="47" y="48" textLength="30">faces</tspan>
+            </text>
+        </g>
+      </g>
+
+      <!-- step 3 -->
+      <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+        <!-- arrows -->
+        <g class="svg-anim-path">
+          <path d="M342 198L354 198 401 198 401 330 447 330 449 330" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <path d="M743 234L743 342 568 342" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="svg-anim-block">
+          <!-- Repo  -->
+          <path d="M459 378L459 306C459 301 481 297 509 297 536 297 558 301 558 306L558 378C558 383 536 387 509 387 481 387 459 383 459 378M459 306C459 311 481 315 509 315 536 315 558 311 558 306" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <text transform="translate(464 336.76794)" fill="white">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="bold" fill="white" x="24" y="16" textLength="40">Repo</tspan>
+          </text>
+        </g>
+      </g>
+
+      <!-- step4 -->
+      <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+        <g class="svg-anim-path">
+          <path d="M743 234L743 246 743 474 743 476" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+
+        <g class="svg-anim-block">
+        <!-- scene segmenter -->
+          <rect x="693" y="486" width="99" height="54" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <text transform="translate(698 493.5359)" fill="white">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="bold" fill="white" x="21" y="16" textLength="52">Scene </tspan>
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="bold" fill="white" x="3" y="35" textLength="84">Segmenter</tspan>
+            </text>
+        </g>
+        <g class="svg-anim-path">
+          <path d="M693 513L681 513 588 513 586 513" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="svg-anim-block">
+          <!-- scene segments block -->
+          <path d="M743 342L570 342 568 342" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <path d="M743 234L743 246 743 474 743 476" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <path d="M559 486L576 486 576 540 559 540M458 540L441 540 441 486 458 486" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <text transform="translate(446 495)" fill="white">
+            <tspan font-family="Courier New" font-size="16" font-weight="bold" fill="white" x="38" y="13" textLength="58">scene </tspan>
+            <tspan font-family="Courier New" font-size="16" font-weight="bold" fill="white" x="24" y="31" textLength="77">segments</tspan>
+          </text>
+        </g>
+        <g class="svg-anim-path">
+          <path d="M509 486L509 474 509 397" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+      </g>
+
+      <!-- step5 -->
+      <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+        <!-- arrows -->
+        <g class="svg-anim-path">
+          <path d="M743 234L743 246 743 437 514 437 514 431 503 431 503 437 372 437 370 437" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+
+        <g class="svg-anim-block">
+          <!-- memory trigger -->
+          <rect x="252" y="405" width="108" height="63" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <text transform="translate(257 417.0359)" fill="white">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="bold" fill="white" x="18" y="16" textLength="67">Memory </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="bold" fill="white" x="22" y="35" textLength="55">Trigger</tspan>
+          </text>
+        </g>
+
+        <!-- arrow -->
+        <g class="svg-anim-path">
+          <path d="M306 405C315 387 335 370 360 360 383 351 422 353 449 354" marker-end="url(#FilledArrow_Marker_2)" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+
+        <!-- arrow label -->
+        <g class="svg-anim-block">
+          <text transform="translate(262.27136 362.058)" fill="#b1001c">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#b1001c" x="0" y="15" textLength="152">top 5 similar scenes?</tspan>
+          </text>
+        </g>
+      </g>
+
+      <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+        <!-- step6 -->
+        <!-- emojify block -->
+        <g class="svg-anim-block">
+          <rect x="110" y="311" width="108" height="63" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <text transform="translate(114.54272 332.26794)" fill="white">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="bold" fill="white" x="21" y="16" textLength="57">Emojify</tspan>
+          </text>
+        </g>
+        <!-- arrows -->
+        <g class="svg-anim-path">
+          <path d="M275 225L275 237 275 321 275 323" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+          <path d="M218 342L229 342 254 342 256 342" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+
+        <!-- plus -->
+        <g class="svg-anim-block">
+          <circle cx="275" cy="342" r="9" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
+          <text transform="translate(267.3 329.33589)" fill="white">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="bold" fill="white" x="2" y="16" textLength="10">+</tspan>
+          </text>
+        </g>
+
+        <!-- arrow -->
+        <g class="svg-anim-path">
+          <path d="M284 342L295 342 447 342 449 342" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+    </g>
+</svg>

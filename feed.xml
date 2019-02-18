@@ -1,4 +1,1185 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2019-02-10T23:39:30-08:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">gusev.io</title><subtitle>Peter Gusev's (a.k.a. peetonn) site.&lt;br/&gt;Immersive interactive experiences.&lt;br/&gt;Real-time distributed systems.</subtitle><entry><title type="html">cheLA residence</title><link href="http://0.0.0.0:4000/2018/10/21/chela-residence.html" rel="alternate" type="text/html" title="cheLA residence" /><published>2018-10-21T03:00:00-07:00</published><updated>2018-10-21T03:00:00-07:00</updated><id>http://0.0.0.0:4000/2018/10/21/chela-residence</id><content type="html" xml:base="http://0.0.0.0:4000/2018/10/21/chela-residence.html">&lt;p&gt;In the beginning of March 2018 &lt;a href=&quot;http://www.remap.ucla.edu/&quot;&gt;REMAP&lt;/a&gt;, where I currently work, and a number of invited interactive media and visual artists moved down to &lt;a href=&quot;http://chela.org.ar/&quot;&gt;cheLA&lt;/a&gt;, Buenos Aires, for two weeks to organize a &lt;a href=&quot;http://chela.org.ar/archives/2172320&quot;&gt;workshop&lt;/a&gt; for local artists and conduct a series of experiments using &lt;a href=&quot;http://openptrack.org/&quot;&gt;OpenPTrack&lt;/a&gt; motion tracking system, computer vision and machine-learning techniques for a live performance. The theme of the workshop was “interactive spaces with memory”.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2019-02-17T22:53:55-08:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">gusev.io</title><subtitle>Peter Gusev's (a.k.a. peetonn) site.&lt;br/&gt;Immersive interactive experiences.&lt;br/&gt;Real-time distributed systems.</subtitle><entry><title type="html">Entropy Bound</title><link href="http://0.0.0.0:4000/projects/2018/12/21/edge-accelerated-machine-learning.html" rel="alternate" type="text/html" title="Entropy Bound" /><published>2018-12-21T00:00:00-08:00</published><updated>2018-12-21T00:00:00-08:00</updated><id>http://0.0.0.0:4000/projects/2018/12/21/edge-accelerated-machine-learning</id><content type="html" xml:base="http://0.0.0.0:4000/projects/2018/12/21/edge-accelerated-machine-learning.html">&lt;p&gt;Entropy Bound is an interactive theatrical performance for humans, artificial intelligence and media.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“The holographic bound defines how much information can be contained in a specified region of space… The universal entropy bound defines how much information can be carried by a mass 𝓂 of diameter 𝑑.”&lt;/em&gt;&lt;br /&gt;
+– Jacob D. Bekenstein, 1972&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A woman, not capable of forming long-term memories due to a brain injury, becomes an early adopter of an AI brain implant device.
+The story evolves around her trying to find a way to relate to and utilize the new technology inside her head, by training it and learning from it at the same time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/1.JPG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/2.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Accompanied by her close ones, who have their own peculiarities, she tries to form new memories with the help of the implant, but inevitably starts to follow triggered associations and falls in a local minima of the old memories she does not remember.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/4.JPG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/5.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Technological experiments were aimed to imagine how such a device might look like.
+A system prototype powering hypothetical brain implant was built during the workshop.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/3.JPG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/7.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The main input for the system is a live video feed, captured by a POV camera, worn by the actress.&lt;/p&gt;
+
+&lt;div class=&quot;scrollable-svg&quot;&gt;
+&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; version=&quot;1&quot; viewBox=&quot;107 133 705 409&quot;&gt;
+    &lt;metadata&gt; Produced by OmniGraffle 6.6.2. Hacked by peetonn	ᕕ(⌐■-■)ᕗ&lt;/metadata&gt;
+    &lt;defs&gt;
+        &lt;font-face font-family=&quot;Courier New&quot; font-size=&quot;16&quot; panose-1=&quot;2&quot; units-per-em=&quot;1000&quot; underline-position=&quot;-233&quot; underline-thickness=&quot;100&quot; slope=&quot;0&quot; x-height=&quot;443&quot; cap-height=&quot;592&quot; ascent=&quot;833&quot; descent=&quot;-300&quot; font-weight=&quot;bold&quot;&gt;
+            &lt;font-face-src&gt;
+                &lt;font-face-name name=&quot;CourierNewPS-BoldMT&quot; /&gt;
+            &lt;/font-face-src&gt;
+        &lt;/font-face&gt;
+        &lt;font-face font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; panose-1=&quot;2&quot; units-per-em=&quot;1000&quot; underline-position=&quot;-100&quot; underline-thickness=&quot;50&quot; slope=&quot;0&quot; x-height=&quot;517&quot; cap-height=&quot;714&quot; ascent=&quot;975&quot; descent=&quot;-217&quot; font-weight=&quot;bold&quot;&gt;
+            &lt;font-face-src&gt;
+                &lt;font-face-name name=&quot;HelveticaNeue-Bold&quot; /&gt;
+            &lt;/font-face-src&gt;
+        &lt;/font-face&gt;
+        &lt;font-face font-family=&quot;Courier New&quot; font-size=&quot;10&quot; panose-1=&quot;2&quot; units-per-em=&quot;1000&quot; underline-position=&quot;-233&quot; underline-thickness=&quot;100&quot; slope=&quot;0&quot; x-height=&quot;443&quot; cap-height=&quot;592&quot; ascent=&quot;833&quot; descent=&quot;-300&quot; font-weight=&quot;bold&quot;&gt;
+            &lt;font-face-src&gt;
+                &lt;font-face-name name=&quot;CourierNewPS-BoldMT&quot; /&gt;
+            &lt;/font-face-src&gt;
+        &lt;/font-face&gt;
+        &lt;marker orient=&quot;auto&quot; overflow=&quot;visible&quot; markerUnits=&quot;strokeWidth&quot; id=&quot;FilledArrow_Marker&quot; viewBox=&quot;-1 -4 10 8&quot; markerWidth=&quot;10&quot; markerHeight=&quot;8&quot; color=&quot;white&quot;&gt;
+            &lt;path d=&quot;M8 0L0-3 0 3Z&quot; fill=&quot;currentColor&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;1&quot; /&gt;
+        &lt;/marker&gt;
+        &lt;marker orient=&quot;auto&quot; overflow=&quot;visible&quot; markerUnits=&quot;strokeWidth&quot; id=&quot;FilledArrow_Marker_2&quot; viewBox=&quot;-1 -4 10 8&quot; markerWidth=&quot;10&quot; markerHeight=&quot;8&quot; color=&quot;#b1001c&quot;&gt;
+            &lt;path d=&quot;M8 0L0-3 0 3Z&quot; fill=&quot;currentColor&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;1&quot; /&gt;
+        &lt;/marker&gt;
+        &lt;font-face font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; panose-1=&quot;2&quot; units-per-em=&quot;1000&quot; underline-position=&quot;-100&quot; underline-thickness=&quot;50&quot; slope=&quot;0&quot; x-height=&quot;517&quot; cap-height=&quot;714&quot; ascent=&quot;952&quot; descent=&quot;-213&quot; font-weight=&quot;500&quot;&gt;
+            &lt;font-face-src&gt;
+                &lt;font-face-name name=&quot;HelveticaNeue&quot; /&gt;
+            &lt;/font-face-src&gt;
+        &lt;/font-face&gt;
+    &lt;/defs&gt;
+
+      &lt;!-- step 0 --&gt;
+      &lt;g stroke=&quot;none&quot; stroke-opacity=&quot;1&quot; stroke-dasharray=&quot;none&quot; fill=&quot;none&quot; fill-opacity=&quot;1&quot;&gt;
+        &lt;!-- video frame --&gt;
+        &lt;g class=&quot;svg-anim-block&quot;&gt;
+          &lt;path d=&quot;M325 171L342 171 342 225 325 225M224 225L207 225 207 171 224 171&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;text transform=&quot;translate(212 189)&quot; fill=&quot;white&quot;&gt;
+              &lt;tspan font-family=&quot;Courier New&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;10&quot; y=&quot;13&quot; textLength=&quot;106&quot;&gt;video frame&lt;/tspan&gt;
+          &lt;/text&gt;
+        &lt;/g&gt;
+      &lt;/g&gt;
+
+      &lt;!-- step 1 --&gt;
+      &lt;g stroke=&quot;none&quot; stroke-opacity=&quot;1&quot; stroke-dasharray=&quot;none&quot; fill=&quot;none&quot; fill-opacity=&quot;1&quot;&gt;
+        &lt;!-- arrows --&gt;
+        &lt;g class=&quot;svg-anim-path&quot;&gt;
+          &lt;path d=&quot;M401 198L401 153 447 153 449 153&quot; marker-end=&quot;url(#FilledArrow_Marker)&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;path d=&quot;M401 198L447 198 449 198&quot; marker-end=&quot;url(#FilledArrow_Marker)&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;path d=&quot;M342 198L354 198 401 198 401 243 447 243 449 243&quot; marker-end=&quot;url(#FilledArrow_Marker)&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+        &lt;/g&gt;
+        &lt;g class=&quot;svg-anim-block&quot;&gt;
+          &lt;!-- YOLO1 --&gt;
+          &lt;rect x=&quot;459&quot; y=&quot;135&quot; width=&quot;99&quot; height=&quot;36&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;text transform=&quot;translate(464 143.267944)&quot; fill=&quot;white&quot;&gt;
+              &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;18&quot; y=&quot;16&quot; textLength=&quot;54&quot;&gt;YOLO1&lt;/tspan&gt;
+          &lt;/text&gt;
+          &lt;!-- YOLO2 --&gt;
+          &lt;rect x=&quot;459&quot; y=&quot;180&quot; width=&quot;99&quot; height=&quot;36&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;text transform=&quot;translate(464 188.26794)&quot; fill=&quot;white&quot;&gt;
+            &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;18&quot; y=&quot;16&quot; textLength=&quot;54&quot;&gt;YOLO2&lt;/tspan&gt;
+          &lt;/text&gt;
+          &lt;!-- OpenFace --&gt;
+          &lt;rect x=&quot;459&quot; y=&quot;225&quot; width=&quot;99&quot; height=&quot;36&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;text transform=&quot;translate(464 233.26794)&quot; fill=&quot;white&quot;&gt;
+            &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;6&quot; y=&quot;16&quot; textLength=&quot;78&quot;&gt;OpenFace&lt;/tspan&gt;
+          &lt;/text&gt;
+        &lt;/g&gt;
+      &lt;/g&gt;
+
+      &lt;!-- step 2 --&gt;
+      &lt;g stroke=&quot;none&quot; stroke-opacity=&quot;1&quot; stroke-dasharray=&quot;none&quot; fill=&quot;none&quot; fill-opacity=&quot;1&quot;&gt;
+        &lt;!-- arrows --&gt;
+        &lt;g class=&quot;svg-anim-path&quot;&gt;
+          &lt;path d=&quot;M558 153L570 153 617 153 617 207&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;path d=&quot;M558 198L570 198 617 198 617 207&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;path d=&quot;M558 243L570 243 617 243 617 198 663 198 665 198&quot; marker-end=&quot;url(#FilledArrow_Marker)&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+        &lt;/g&gt;
+
+        &lt;!-- annotations block --&gt;
+        &lt;g class=&quot;svg-anim-block&quot;&gt;
+          &lt;path d=&quot;M793 171L810 171 810 225 793 225M692 225L675 225 675 171 692 171&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;text transform=&quot;translate(680 172.5)&quot; fill=&quot;white&quot;&gt;
+            &lt;tspan font-family=&quot;Courier New&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;10&quot; y=&quot;13&quot; textLength=&quot;106&quot;&gt;annotations&lt;/tspan&gt;
+            &lt;tspan font-family=&quot;Courier New&quot; font-size=&quot;10&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;41&quot; y=&quot;26&quot; textLength=&quot;42&quot;&gt;objects&lt;/tspan&gt;
+            &lt;tspan font-family=&quot;Courier New&quot; font-size=&quot;10&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;47&quot; y=&quot;37&quot; textLength=&quot;30&quot;&gt;props&lt;/tspan&gt;
+            &lt;tspan font-family=&quot;Courier New&quot; font-size=&quot;10&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;47&quot; y=&quot;48&quot; textLength=&quot;30&quot;&gt;faces&lt;/tspan&gt;
+          &lt;/text&gt;
+        &lt;/g&gt;
+      &lt;/g&gt;
+
+      &lt;!-- step 3 --&gt;
+      &lt;g stroke=&quot;none&quot; stroke-opacity=&quot;1&quot; stroke-dasharray=&quot;none&quot; fill=&quot;none&quot; fill-opacity=&quot;1&quot;&gt;
+        &lt;!-- arrows --&gt;
+        &lt;g class=&quot;svg-anim-path&quot;&gt;
+          &lt;path d=&quot;M342 198L354 198 401 198 401 330 447 330 449 330&quot; marker-end=&quot;url(#FilledArrow_Marker)&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;path d=&quot;M743 234L743 342 568 342&quot; marker-end=&quot;url(#FilledArrow_Marker)&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+        &lt;/g&gt;
+        &lt;g class=&quot;svg-anim-block&quot;&gt;
+          &lt;!-- Repo  --&gt;
+          &lt;path d=&quot;M459 378L459 306C459 301 481 297 509 297 536 297 558 301 558 306L558 378C558 383 536 387 509 387 481 387 459 383 459 378M459 306C459 311 481 315 509 315 536 315 558 311 558 306&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;text transform=&quot;translate(464 336.76794)&quot; fill=&quot;white&quot;&gt;
+            &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;24&quot; y=&quot;16&quot; textLength=&quot;40&quot;&gt;Repo&lt;/tspan&gt;
+          &lt;/text&gt;
+        &lt;/g&gt;
+      &lt;/g&gt;
+
+      &lt;!-- step4 --&gt;
+      &lt;g stroke=&quot;none&quot; stroke-opacity=&quot;1&quot; stroke-dasharray=&quot;none&quot; fill=&quot;none&quot; fill-opacity=&quot;1&quot;&gt;
+        &lt;g class=&quot;svg-anim-path&quot;&gt;
+          &lt;path d=&quot;M743 234L743 246 743 474 743 476&quot; marker-end=&quot;url(#FilledArrow_Marker)&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+        &lt;/g&gt;
+
+        &lt;g class=&quot;svg-anim-block&quot;&gt;
+        &lt;!-- scene segmenter --&gt;
+          &lt;rect x=&quot;693&quot; y=&quot;486&quot; width=&quot;99&quot; height=&quot;54&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;text transform=&quot;translate(698 493.5359)&quot; fill=&quot;white&quot;&gt;
+              &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;21&quot; y=&quot;16&quot; textLength=&quot;52&quot;&gt;Scene &lt;/tspan&gt;
+              &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;3&quot; y=&quot;35&quot; textLength=&quot;84&quot;&gt;Segmenter&lt;/tspan&gt;
+            &lt;/text&gt;
+        &lt;/g&gt;
+        &lt;g class=&quot;svg-anim-path&quot;&gt;
+          &lt;path d=&quot;M693 513L681 513 588 513 586 513&quot; marker-end=&quot;url(#FilledArrow_Marker)&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+        &lt;/g&gt;
+        &lt;g class=&quot;svg-anim-block&quot;&gt;
+          &lt;!-- scene segments block --&gt;
+          &lt;path d=&quot;M743 342L570 342 568 342&quot; marker-end=&quot;url(#FilledArrow_Marker)&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;path d=&quot;M743 234L743 246 743 474 743 476&quot; marker-end=&quot;url(#FilledArrow_Marker)&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;path d=&quot;M559 486L576 486 576 540 559 540M458 540L441 540 441 486 458 486&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;text transform=&quot;translate(446 495)&quot; fill=&quot;white&quot;&gt;
+            &lt;tspan font-family=&quot;Courier New&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;38&quot; y=&quot;13&quot; textLength=&quot;58&quot;&gt;scene &lt;/tspan&gt;
+            &lt;tspan font-family=&quot;Courier New&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;24&quot; y=&quot;31&quot; textLength=&quot;77&quot;&gt;segments&lt;/tspan&gt;
+          &lt;/text&gt;
+        &lt;/g&gt;
+        &lt;g class=&quot;svg-anim-path&quot;&gt;
+          &lt;path d=&quot;M509 486L509 474 509 397&quot; marker-end=&quot;url(#FilledArrow_Marker)&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+        &lt;/g&gt;
+      &lt;/g&gt;
+
+      &lt;!-- step5 --&gt;
+      &lt;g stroke=&quot;none&quot; stroke-opacity=&quot;1&quot; stroke-dasharray=&quot;none&quot; fill=&quot;none&quot; fill-opacity=&quot;1&quot;&gt;
+        &lt;!-- arrows --&gt;
+        &lt;g class=&quot;svg-anim-path&quot;&gt;
+          &lt;path d=&quot;M743 234L743 246 743 437 514 437 514 431 503 431 503 437 372 437 370 437&quot; marker-end=&quot;url(#FilledArrow_Marker)&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+        &lt;/g&gt;
+
+        &lt;g class=&quot;svg-anim-block&quot;&gt;
+          &lt;!-- memory trigger --&gt;
+          &lt;rect x=&quot;252&quot; y=&quot;405&quot; width=&quot;108&quot; height=&quot;63&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;text transform=&quot;translate(257 417.0359)&quot; fill=&quot;white&quot;&gt;
+            &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;18&quot; y=&quot;16&quot; textLength=&quot;67&quot;&gt;Memory &lt;/tspan&gt;
+            &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;22&quot; y=&quot;35&quot; textLength=&quot;55&quot;&gt;Trigger&lt;/tspan&gt;
+          &lt;/text&gt;
+        &lt;/g&gt;
+
+        &lt;!-- arrow --&gt;
+        &lt;g class=&quot;svg-anim-path&quot;&gt;
+          &lt;path d=&quot;M306 405C315 387 335 370 360 360 383 351 422 353 449 354&quot; marker-end=&quot;url(#FilledArrow_Marker_2)&quot; stroke=&quot;#b1001c&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+        &lt;/g&gt;
+
+        &lt;!-- arrow label --&gt;
+        &lt;g class=&quot;svg-anim-block&quot;&gt;
+          &lt;text transform=&quot;translate(262.27136 362.058)&quot; fill=&quot;#b1001c&quot;&gt;
+            &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;500&quot; fill=&quot;#b1001c&quot; x=&quot;0&quot; y=&quot;15&quot; textLength=&quot;152&quot;&gt;top 5 similar scenes?&lt;/tspan&gt;
+          &lt;/text&gt;
+        &lt;/g&gt;
+      &lt;/g&gt;
+
+      &lt;g stroke=&quot;none&quot; stroke-opacity=&quot;1&quot; stroke-dasharray=&quot;none&quot; fill=&quot;none&quot; fill-opacity=&quot;1&quot;&gt;
+        &lt;!-- step6 --&gt;
+        &lt;!-- emojify block --&gt;
+        &lt;g class=&quot;svg-anim-block&quot;&gt;
+          &lt;rect x=&quot;110&quot; y=&quot;311&quot; width=&quot;108&quot; height=&quot;63&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;text transform=&quot;translate(114.54272 332.26794)&quot; fill=&quot;white&quot;&gt;
+            &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;21&quot; y=&quot;16&quot; textLength=&quot;57&quot;&gt;Emojify&lt;/tspan&gt;
+          &lt;/text&gt;
+        &lt;/g&gt;
+        &lt;!-- arrows --&gt;
+        &lt;g class=&quot;svg-anim-path&quot;&gt;
+          &lt;path d=&quot;M275 225L275 237 275 321 275 323&quot; marker-end=&quot;url(#FilledArrow_Marker)&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+          &lt;path d=&quot;M218 342L229 342 254 342 256 342&quot; marker-end=&quot;url(#FilledArrow_Marker)&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+        &lt;/g&gt;
+
+        &lt;!-- plus --&gt;
+        &lt;g class=&quot;svg-anim-block&quot;&gt;
+          &lt;circle cx=&quot;275&quot; cy=&quot;342&quot; r=&quot;9&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot; /&gt;
+          &lt;text transform=&quot;translate(267.3 329.33589)&quot; fill=&quot;white&quot;&gt;
+            &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; fill=&quot;white&quot; x=&quot;2&quot; y=&quot;16&quot; textLength=&quot;10&quot;&gt;+&lt;/tspan&gt;
+          &lt;/text&gt;
+        &lt;/g&gt;
+
+        &lt;!-- arrow --&gt;
+        &lt;g class=&quot;svg-anim-path&quot;&gt;
+          &lt;path d=&quot;M284 342L295 342 447 342 449 342&quot; marker-end=&quot;url(#FilledArrow_Marker)&quot; stroke=&quot;white&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1&quot; /&gt;
+        &lt;/g&gt;
+    &lt;/g&gt;
+&lt;/svg&gt;
+&lt;/div&gt;
+
+&lt;!-- step1 --&gt;
+&lt;p&gt;Video is streamed to a number of real-time ML (Machine Learning) processors for recognizing objects, theatrical props and faces.
+Each processor produces semantic frame annotations, by specifying recognized entities, their position on the frame and recognition confidence levels.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;!-- step2 --&gt;
+&lt;p&gt;Based on these frame annotations, a &lt;em&gt;feature vector&lt;/em&gt;, describing frame contents is built for the future frame comparisons.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;!-- step3 --&gt;
+&lt;p&gt;Video stream and frame annotations are stored in the repo – the brain implant’s memory.
+The repo is designed in a way that any data stored there can be accessed at any time by any other module.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;!-- step4 --&gt;
+&lt;p&gt;A “Scene Segmenter” module detects &lt;em&gt;scene changes&lt;/em&gt; in the video stream in real-time, by utilizing semantic information from generated annotations.
+Scene segments stored in the repo, too.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;!-- step5 --&gt;
+&lt;p&gt;Finally, a separate module, uses calculated feature vectors to query repo for the scenes, that are most closely resemble currently observed frame.
+Therefore, brain implant may ask its’ memory something, like &lt;em&gt;“give me 5 scenes from the past that look similar to what I’m seeing right now”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;!-- step6 --&gt;
+&lt;p&gt;Additionally, a brain implant user is able to add &lt;em&gt;emotional context&lt;/em&gt; (using emoji) to video frames when forming memories.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;When all components are live and operating, the live feed is being semantically annotated frame-by-frame, while being captured for storage and analyzed for scenes based on the semantic context.
+Scenes from the past (how far back we can go and comparison function are configurable), are continuously retrieved from the storage for presentation onstage and act as evoked memories (&lt;em&gt;associations&lt;/em&gt;).
+In story words, brain implant triggers memories from the past that relate in some way to what is being currently observed.
+&lt;br /&gt;&lt;br /&gt;Each system component is a separate module: C++ or Python app, some of them (ML processors) are containerized using Docker.
+For communication and video streaming, we used &lt;a href=&quot;https://named-data.net/&quot;&gt;NDN&lt;/a&gt; over Layer2, thus all machines were connected to the same LAN segment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/11.JPG&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/8.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Video feed from wearable lipstick camera is fed over SDI to the &lt;strong&gt;Capture&lt;/strong&gt; TouchDesigner machine, where it is compressed and published over NDN using &lt;strong&gt;NDN-RTC Out TOP&lt;/strong&gt; built using &lt;a href=&quot;https://github.com/remap/ndnrtc&quot;&gt;NDN-RTC library&lt;/a&gt; specifically for this workshop.
+&lt;strong&gt;Edge&lt;/strong&gt; node and &lt;strong&gt;Repo&lt;/strong&gt; machines are connected over NDN to the same LAN.
+Edge node runs three Dockerized ML processors – OpenFace, YOLO1 and YOLO2 for faces, objects and props recognition respectively.
+&lt;strong&gt;Scene Segmenter&lt;/strong&gt; as well as &lt;strong&gt;Memory Trigger&lt;/strong&gt; are running on the same machine.&lt;/p&gt;
+
+&lt;div class=&quot;scrollable-svg&quot;&gt;
+&lt;svg version=&quot;1.1&quot; viewBox=&quot;142 155 1310 593&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot; xmlns:xl=&quot;http://www.w3.org/1999/xlink&quot;&gt;
+&lt;metadata&gt;Produced by OmniGraffle 6.6.2. Hacked by peetonn	ᕕ(⌐■-■)ᕗ
+&lt;/metadata&gt;
+&lt;defs&gt;
+&lt;marker id=&quot;b&quot; color=&quot;white&quot; overflow=&quot;visible&quot; markerHeight=&quot;8&quot; markerWidth=&quot;8&quot; orient=&quot;auto&quot; viewBox=&quot;-1 -4 8 8&quot;&gt;
+&lt;circle cx=&quot;3&quot; r=&quot;3&quot; fill=&quot;currentColor&quot; stroke=&quot;currentColor&quot; /&gt;
+&lt;/marker&gt;
+&lt;marker id=&quot;a&quot; color=&quot;white&quot; overflow=&quot;visible&quot; markerHeight=&quot;8&quot; markerWidth=&quot;8&quot; orient=&quot;auto&quot; viewBox=&quot;-7 -4 8 8&quot;&gt;
+&lt;circle cx=&quot;-3&quot; r=&quot;3&quot; fill=&quot;currentColor&quot; stroke=&quot;currentColor&quot; /&gt;
+&lt;/marker&gt;
+&lt;marker id=&quot;q&quot; color=&quot;black&quot; overflow=&quot;visible&quot; markerHeight=&quot;8&quot; markerWidth=&quot;10&quot; orient=&quot;auto&quot; viewBox=&quot;-1 -4 10 8&quot;&gt;
+&lt;path d=&quot;m8 0l-8-3v6z&quot; fill=&quot;currentColor&quot; stroke=&quot;currentColor&quot; /&gt;
+&lt;/marker&gt;
+&lt;marker id=&quot;e&quot; color=&quot;white&quot; overflow=&quot;visible&quot; markerHeight=&quot;8&quot; markerWidth=&quot;10&quot; orient=&quot;auto&quot; viewBox=&quot;-1 -4 10 8&quot;&gt;
+&lt;path d=&quot;m8 0l-8-3v6z&quot; fill=&quot;currentColor&quot; stroke=&quot;currentColor&quot; /&gt;
+&lt;/marker&gt;
+&lt;marker id=&quot;p&quot; color=&quot;#e94f37&quot; overflow=&quot;visible&quot; markerHeight=&quot;6&quot; markerWidth=&quot;6&quot; orient=&quot;auto&quot; viewBox=&quot;-1 -3 6 6&quot;&gt;
+&lt;path d=&quot;m3.7333 0l-3.7333-1.4v2.8z&quot; fill=&quot;currentColor&quot; stroke=&quot;currentColor&quot; /&gt;
+&lt;/marker&gt;
+&lt;marker id=&quot;d&quot; color=&quot;#5efc8d&quot; overflow=&quot;visible&quot; markerHeight=&quot;6&quot; markerWidth=&quot;6&quot; orient=&quot;auto&quot; viewBox=&quot;-1 -3 6 6&quot;&gt;
+&lt;path d=&quot;m3.7333 0l-3.7333-1.4v2.8z&quot; fill=&quot;currentColor&quot; stroke=&quot;currentColor&quot; /&gt;
+&lt;/marker&gt;
+&lt;marker id=&quot;c&quot; color=&quot;white&quot; overflow=&quot;visible&quot; markerHeight=&quot;8&quot; markerWidth=&quot;8&quot; orient=&quot;auto&quot; viewBox=&quot;-1 -4 8 8&quot;&gt;
+&lt;path d=&quot;m5.6 0l-5.6-2.1v4.2z&quot; fill=&quot;currentColor&quot; stroke=&quot;currentColor&quot; /&gt;
+&lt;/marker&gt;
+&lt;/defs&gt;
+
+&lt;title&gt;entropy-bound&lt;/title&gt;
+&lt;title&gt;deployment&lt;/title&gt;
+
+&lt;!-- step 0 --&gt;
+&lt;g fill=&quot;none&quot;&gt;
+&lt;!-- &lt;rect x=&quot;144&quot; y=&quot;419.06&quot; width=&quot;1305.6&quot; height=&quot;45&quot; fill=&quot;none&quot;/&gt; --&gt;
+  &lt;path d=&quot;m144 419.06h1305.6m0 45h-1305.6&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+  &lt;text transform=&quot;translate(149 431.83)&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot;&gt;
+  &lt;tspan x=&quot;591.18125&quot; y=&quot;16&quot; textLength=&quot;108.608&quot;&gt;LAN - Ethernet&lt;/tspan&gt;
+  &lt;/text&gt;
+&lt;/g&gt;
+
+&lt;!-- step 1 --&gt;
+&lt;!-- capture node, edge node and repo --&gt;
+&lt;g fill=&quot;none&quot;&gt;
+  &lt;!-- SDI --&gt;
+  &lt;g class=&quot;svg-anim-block&quot;&gt;
+    &lt;text transform=&quot;translate(491.06 685.61)&quot; fill=&quot;black&quot;&gt;
+      &lt;tspan x=&quot;.06&quot; y=&quot;16&quot; font-family=&quot;Helvetica Neue&quot; fill=&quot;white&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; textLength=&quot;80.88&quot;&gt;SDI VIDEO&lt;/tspan&gt;
+    &lt;/text&gt;
+  &lt;/g&gt;
+
+  &lt;g class=&quot;svg-anim-path&quot;&gt;
+    &lt;path d=&quot;m531 680.34l0.28125-31.175 0.28125-41.175v-2&quot; marker-end=&quot;url(#a)&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+  &lt;/g&gt;
+
+  &lt;g class=&quot;svg-anim-block&quot;&gt;
+    &lt;g&gt;&lt;!-- capture node --&gt;
+      &lt;path d=&quot;m453.49 606.09h156.14c2.2398 0 4.0556-1.1888 4.0556-2.6552v-81.315c0-1.4664-1.8157-2.6552-4.0556-2.6552h-156.14c-2.2398 0-4.0556 1.1888-4.0556 2.6552v81.315c0 1.4664 1.8157 2.6552 4.0556 2.6552z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+      &lt;text transform=&quot;translate(525.19 568.61)&quot; fill=&quot;white&quot;&gt;
+        &lt;tspan x=&quot;3.2275608&quot; y=&quot;16&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; textLength=&quot;77.04&quot;&gt;CAPTURE&lt;/tspan&gt;
+      &lt;/text&gt;
+      &lt;rect x=&quot;459.1&quot; y=&quot;519.47&quot; width=&quot;144.93&quot; height=&quot;27&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+      &lt;text transform=&quot;translate(464.1 523.23)&quot; fill=&quot;white&quot;&gt;
+        &lt;tspan x=&quot;50.863235&quot; y=&quot;16&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; textLength=&quot;33.2&quot;&gt;NFD&lt;/tspan&gt;
+      &lt;/text&gt;
+
+      &lt;path d=&quot;m468 581.62h33.188l5.3438 13.5h-44.156z&quot; fill=&quot;#fff&quot; /&gt;
+      &lt;path d=&quot;m468 581.62h33.188l5.3438 13.5h-44.156z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3.5&quot; /&gt;
+      &lt;rect x=&quot;467.72&quot; y=&quot;559.12&quot; width=&quot;33.188&quot; height=&quot;20.812&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3.0947&quot; /&gt;
+      &lt;rect x=&quot;469.17&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;469.17&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;473.11&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;473.11&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;477.05&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;477.05&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;481.17&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;481.17&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;485.11&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;485.11&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;489.05&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;489.05&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;492.98&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;492.98&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;496.92&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;496.92&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;467.86&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;467.86&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;472.14&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;472.14&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;476.41&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;476.41&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;480.89&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;480.89&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;485.17&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;485.17&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;489.44&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;489.44&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;493.72&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;493.72&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;497.99&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;497.99&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;466.39&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;466.39&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;471.05&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;471.05&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;475.7&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;475.7&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;480.57&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;480.57&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;485.23&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;485.23&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;489.88&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;489.88&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;494.54&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;494.54&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;499.19&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;499.19&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;477.93&quot; y=&quot;592.03&quot; width=&quot;12.938&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+      &lt;rect x=&quot;465&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;465&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;469.65&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;469.65&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;495.93&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;495.93&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+      &lt;rect x=&quot;500.59&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;500.59&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;/g&gt;
+  &lt;/g&gt;
+
+  &lt;g class=&quot;svg-anim-block&quot;&gt;
+    &lt;g&gt; &lt;!-- edge node --&gt;
+      &lt;path d=&quot;m366.75 157.5h447.06c4.4183 0 8 3.5817 8 8v200c0 4.4183-3.5817 8-8 8h-447.06c-4.4183 0-8-3.5817-8-8v-200c0-4.4183 3.5817-8 8-8z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+      &lt;text transform=&quot;translate(430.25 178.05)&quot; fill=&quot;white&quot;&gt;
+        &lt;tspan x=&quot;2.2612017&quot; y=&quot;16&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; textLength=&quot;44.736&quot;&gt;EDGE&lt;/tspan&gt;
+      &lt;/text&gt;
+      &lt;!-- &lt;rect x=&quot;366.43&quot; y=&quot;346.5&quot; width=&quot;446.49&quot; height=&quot;27&quot; stroke=&quot;#f00&quot; fill=&quot;none&quot;/&gt; --&gt;
+      &lt;rect x=&quot;366.43&quot; y=&quot;346.5&quot; width=&quot;446.49&quot; height=&quot;27&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+      &lt;text transform=&quot;translate(371.43 350.27)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;201.64699&quot; y=&quot;16&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; textLength=&quot;33.2&quot;&gt;NFD&lt;/tspan&gt;
+      &lt;/text&gt;
+
+      &lt;!-- consumer docker --&gt;
+      &lt;rect x=&quot;371.81&quot; y=&quot;258.64&quot; width=&quot;86.351&quot; height=&quot;34.541&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.63964&quot; /&gt;
+      &lt;text transform=&quot;translate(375.01 263.61)&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;10.234&quot;&gt;
+        &lt;tspan x=&quot;24.053374&quot; y=&quot;10&quot; font-weight=&quot;bold&quot; textLength=&quot;31.848208&quot;&gt;ndnrtc&lt;/tspan&gt;
+        &lt;tspan x=&quot;17.227296&quot; y=&quot;22.296857&quot; font-weight=&quot;500&quot; textLength=&quot;45.500364&quot;&gt;consumer&lt;/tspan&gt;
+      &lt;/text&gt;
+      &lt;!-- &lt;rect id=&quot;j&quot; x=&quot;371.81&quot; y=&quot;259.9&quot; width=&quot;16.67&quot; height=&quot;9.7531&quot;/&gt; --&gt;
+      &lt;clipPath id=&quot;o&quot;&gt;
+      &lt;use xlink:href=&quot;#j&quot; /&gt;
+      &lt;/clipPath&gt;
+      &lt;g clip-path=&quot;url(#o)&quot;&gt;
+      &lt;image transform=&quot;matrix(.026129 0 0 .026954 371.81 259.9)&quot; width=&quot;650&quot; height=&quot;539&quot; xl:href=&quot;/assets/posts/entropy-bound/image2.tiff&quot; /&gt;
+      &lt;/g&gt;
+
+      &lt;!-- openface docker --&gt;
+      &lt;rect x=&quot;493.06&quot; y=&quot;216&quot; width=&quot;86.351&quot; height=&quot;34.541&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.63964&quot; /&gt;
+      &lt;text transform=&quot;translate(496.26 227.12)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;17.23753&quot; y=&quot;10&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;10.234&quot; font-weight=&quot;bold&quot; textLength=&quot;45.479896&quot;&gt;openface&lt;/tspan&gt;
+      &lt;/text&gt;
+      &lt;rect id=&quot;i&quot; x=&quot;493.06&quot; y=&quot;217.27&quot; width=&quot;16.67&quot; height=&quot;9.7531&quot; /&gt;
+      &lt;clipPath id=&quot;n&quot;&gt;
+      &lt;use xlink:href=&quot;#i&quot; /&gt;
+      &lt;/clipPath&gt;
+      &lt;g clip-path=&quot;url(#n)&quot;&gt;
+      &lt;image transform=&quot;matrix(.026129 0 0 .026954 493.06 217.27)&quot; width=&quot;650&quot; height=&quot;539&quot; xl:href=&quot;image2.tiff&quot; /&gt;
+      &lt;/g&gt;
+
+      &lt;!-- yolo1 docker --&gt;
+      &lt;rect x=&quot;493.06&quot; y=&quot;258.64&quot; width=&quot;86.351&quot; height=&quot;34.541&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.63964&quot; /&gt;
+      &lt;text transform=&quot;translate(496.26 269.76)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;26.903543&quot; y=&quot;10&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;10.234&quot; font-weight=&quot;bold&quot; textLength=&quot;26.14787&quot;&gt;yolo1&lt;/tspan&gt;
+      &lt;/text&gt;
+      &lt;rect id=&quot;h&quot; x=&quot;493.06&quot; y=&quot;259.9&quot; width=&quot;16.67&quot; height=&quot;9.7531&quot; /&gt;
+      &lt;clipPath id=&quot;m&quot;&gt;
+      &lt;use xlink:href=&quot;#h&quot; /&gt;
+      &lt;/clipPath&gt;
+      &lt;g clip-path=&quot;url(#m)&quot;&gt;
+      &lt;image transform=&quot;matrix(.026129 0 0 .026954 493.06 259.9)&quot; width=&quot;650&quot; height=&quot;539&quot; xl:href=&quot;image2.tiff&quot; /&gt;
+      &lt;/g&gt;
+
+      &lt;!-- publisher docker --&gt;
+      &lt;rect x=&quot;617.06&quot; y=&quot;258.64&quot; width=&quot;86.351&quot; height=&quot;34.541&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.63964&quot; /&gt;
+      &lt;text transform=&quot;translate(620.26 269.76)&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;10.234&quot;&gt;
+      &lt;tspan x=&quot;8.5079276&quot; y=&quot;10&quot; font-weight=&quot;bold&quot; textLength=&quot;64.01184&quot;&gt;ann publisher&lt;/tspan&gt;
+      &lt;/text&gt;
+      &lt;rect id=&quot;g&quot; x=&quot;617.06&quot; y=&quot;259.9&quot; width=&quot;16.67&quot; height=&quot;9.7531&quot; /&gt;
+      &lt;clipPath id=&quot;l&quot;&gt;
+      &lt;use xlink:href=&quot;#g&quot; /&gt;
+      &lt;/clipPath&gt;
+      &lt;g clip-path=&quot;url(#l)&quot;&gt;
+      &lt;image transform=&quot;matrix(.026129 0 0 .026954 617.06 259.9)&quot; width=&quot;650&quot; height=&quot;539&quot; xl:href=&quot;image2.tiff&quot; /&gt;
+      &lt;/g&gt;
+
+      &lt;!-- yolo2 docker --&gt;
+      &lt;rect x=&quot;493.06&quot; y=&quot;301.27&quot; width=&quot;86.351&quot; height=&quot;34.541&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.63964&quot; /&gt;
+      &lt;text transform=&quot;translate(496.26 312.39)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;26.903543&quot; y=&quot;10&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;10.234&quot; font-weight=&quot;bold&quot; textLength=&quot;26.14787&quot;&gt;yolo2&lt;/tspan&gt;
+      &lt;/text&gt;
+      &lt;rect id=&quot;f&quot; x=&quot;493.06&quot; y=&quot;302.54&quot; width=&quot;16.67&quot; height=&quot;9.7531&quot; /&gt;
+      &lt;clipPath id=&quot;k&quot;&gt;
+      &lt;use xlink:href=&quot;#f&quot; /&gt;
+      &lt;/clipPath&gt;
+      &lt;g clip-path=&quot;url(#k)&quot;&gt;
+      &lt;image transform=&quot;matrix(.026129 0 0 .026954 493.06 302.54)&quot; width=&quot;650&quot; height=&quot;539&quot; xl:href=&quot;image2.tiff&quot; /&gt;
+      &lt;/g&gt;
+
+      &lt;!-- docker connectors --&gt;
+      &lt;path d=&quot;m458.16 275.91h9.5 7.9502 8v-42.636h-0.04982 2&quot; marker-end=&quot;url(#c)&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+      &lt;path d=&quot;m458.16 275.91h9.5 7.9502 7.9502 2&quot; marker-end=&quot;url(#c)&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+      &lt;path d=&quot;m458.16 275.91h9.5 7.9502 8v42.636h-0.04982 2&quot; marker-end=&quot;url(#c)&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+      &lt;path d=&quot;m579.42 233.27h9.5 9.3235v21.318 21.318h9.3235 2&quot; marker-end=&quot;url(#c)&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+      &lt;path d=&quot;m579.42 275.91h9.5 9.3235 9.3235 2&quot; marker-end=&quot;url(#c)&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+      &lt;path d=&quot;m579.42 318.54h9.5 9.3235v-21.318-21.318h9.3235 2&quot; marker-end=&quot;url(#c)&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+
+      &lt;!-- Scene Segmenter --&gt;
+      &lt;rect x=&quot;719.44&quot; y=&quot;216&quot; width=&quot;86.351&quot; height=&quot;34.541&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.63964&quot; /&gt;
+      &lt;text transform=&quot;translate(722.64 220.97)&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;10.234&quot; font-weight=&quot;bold&quot;&gt;
+      &lt;tspan x=&quot;24.81069&quot; y=&quot;10&quot; textLength=&quot;33.178628&quot;&gt;Scene&lt;/tspan&gt;
+      &lt;tspan x=&quot;13.2565036&quot; y=&quot;22.296857&quot; textLength=&quot;53.441948&quot;&gt;Segmenter&lt;/tspan&gt;
+      &lt;/text&gt;
+
+      &lt;!-- Memory Trigger --&gt;
+      &lt;rect x=&quot;719.44&quot; y=&quot;258.64&quot; width=&quot;86.351&quot; height=&quot;34.541&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.63964&quot; /&gt;
+      &lt;text transform=&quot;translate(722.64 269.76)&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;10.234&quot; font-weight=&quot;bold&quot;&gt;
+      &lt;tspan x=&quot;1.4208826&quot; y=&quot;10&quot; textLength=&quot;79.07203&quot;&gt;Memory Trigger&lt;/tspan&gt;
+      &lt;/text&gt;
+
+      &lt;!-- edge status --&gt;
+      &lt;rect x=&quot;719.44&quot; y=&quot;301.27&quot; width=&quot;86.351&quot; height=&quot;34.541&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.63964&quot; /&gt;
+      &lt;text transform=&quot;translate(722.64 312.39)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;10.6980036&quot; y=&quot;10&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;10.234&quot; font-weight=&quot;bold&quot; textLength=&quot;58.558948&quot;&gt;edge-status&lt;/tspan&gt;
+      &lt;/text&gt;
+      &lt;!-- icon --&gt;
+      &lt;path d=&quot;m377.2 166.5h33.813c3.288 0 5.9535 2.6655 5.9535 5.9535v4.8372c0 3.288-2.6655 5.9535-5.9535 5.9535h-33.813c-3.288 0-5.9535-2.6655-5.9535-5.9535v-4.8372c0-3.288 2.6655-5.9535 5.9535-5.9535z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;ellipse cx=&quot;379.77&quot; cy=&quot;174.87&quot; rx=&quot;3.4047&quot; ry=&quot;3.3488&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.9767&quot; /&gt;
+      &lt;rect x=&quot;392.27&quot; y=&quot;171.52&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;396.84&quot; y=&quot;171.52&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;401.4&quot; y=&quot;171.52&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;405.97&quot; y=&quot;171.52&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;410.53&quot; y=&quot;171.52&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;path d=&quot;m377.2 187.43h33.813c3.288 0 5.9535 2.6655 5.9535 5.9535v4.8372c0 3.288-2.6655 5.9535-5.9535 5.9535h-33.813c-3.288 0-5.9535-2.6655-5.9535-5.9535v-4.8372c0-3.288 2.6655-5.9535 5.9535-5.9535z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;ellipse cx=&quot;379.77&quot; cy=&quot;195.8&quot; rx=&quot;3.4047&quot; ry=&quot;3.3488&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.9767&quot; /&gt;
+      &lt;rect x=&quot;392.27&quot; y=&quot;192.45&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;396.84&quot; y=&quot;192.45&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;401.4&quot; y=&quot;192.45&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;405.97&quot; y=&quot;192.45&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;410.53&quot; y=&quot;192.45&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;line x1=&quot;394.11&quot; x2=&quot;394.11&quot; y1=&quot;183.99&quot; y2=&quot;186.69&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.9767&quot; /&gt;
+      &lt;rect x=&quot;372.72&quot; y=&quot;208.88&quot; width=&quot;42.789&quot; height=&quot;.83721&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;391.97&quot; y=&quot;207.1&quot; width=&quot;4.2776&quot; height=&quot;4.3953&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;391.97&quot; y=&quot;207.1&quot; width=&quot;4.2776&quot; height=&quot;4.3953&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;line x1=&quot;394.11&quot; x2=&quot;394.11&quot; y1=&quot;206.36&quot; y2=&quot;204.92&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.2326&quot; /&gt;
+    &lt;/g&gt;
+
+    &lt;g&gt;&lt;!-- repo --&gt;
+      &lt;path d=&quot;m848.81 271.12h137c4.4183 0 8 3.5817 8 8v86.375c0 4.4183-3.5817 8-8 8h-137c-4.4182 0-8-3.5817-8-8v-86.375c0-4.4183 3.5818-8 8-8z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+      &lt;text transform=&quot;translate(913.1 297.39)&quot; fill=&quot;white&quot;&gt;
+        &lt;tspan x=&quot;6.5486307&quot; y=&quot;16&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; textLength=&quot;45.04&quot;&gt;REPO&lt;/tspan&gt;
+      &lt;/text&gt;
+      &lt;rect x=&quot;853.19&quot; y=&quot;346.5&quot; width=&quot;129.38&quot; height=&quot;27&quot; fill=&quot;none&quot; /&gt;
+      &lt;rect x=&quot;853.19&quot; y=&quot;346.5&quot; width=&quot;129.38&quot; height=&quot;27&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+      &lt;text transform=&quot;translate(858.19 350.27)&quot; fill=&quot;white&quot;&gt;
+        &lt;tspan x=&quot;43.0875&quot; y=&quot;16&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; textLength=&quot;33.2&quot;&gt;NFD&lt;/tspan&gt;
+      &lt;/text&gt;
+      &lt;path d=&quot;m864.33 283.5h33.812c3.288 0 5.9535 2.6655 5.9535 5.9535v4.8372c0 3.288-2.6655 5.9535-5.9535 5.9535h-33.812c-3.288 0-5.9535-2.6655-5.9535-5.9535v-4.8372c0-3.288 2.6655-5.9535 5.9535-5.9535z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;ellipse cx=&quot;866.89&quot; cy=&quot;291.87&quot; rx=&quot;3.4047&quot; ry=&quot;3.3488&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.9767&quot; /&gt;
+      &lt;rect x=&quot;879.4&quot; y=&quot;288.52&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;883.96&quot; y=&quot;288.52&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;888.53&quot; y=&quot;288.52&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;893.09&quot; y=&quot;288.52&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;897.66&quot; y=&quot;288.52&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;path d=&quot;m864.33 304.43h33.812c3.288 0 5.9535 2.6655 5.9535 5.9535v4.8372c0 3.288-2.6655 5.9535-5.9535 5.9535h-33.812c-3.288 0-5.9535-2.6655-5.9535-5.9535v-4.8372c0-3.288 2.6655-5.9535 5.9535-5.9535z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;ellipse cx=&quot;866.89&quot; cy=&quot;312.8&quot; rx=&quot;3.4047&quot; ry=&quot;3.3488&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.9767&quot; /&gt;
+      &lt;rect x=&quot;879.4&quot; y=&quot;309.45&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;883.96&quot; y=&quot;309.45&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;888.53&quot; y=&quot;309.45&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;893.09&quot; y=&quot;309.45&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;897.66&quot; y=&quot;309.45&quot; width=&quot;.90178&quot; height=&quot;6.6977&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;line x1=&quot;881.23&quot; x2=&quot;881.23&quot; y1=&quot;300.99&quot; y2=&quot;303.69&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.9767&quot; /&gt;
+      &lt;rect x=&quot;859.84&quot; y=&quot;325.88&quot; width=&quot;42.789&quot; height=&quot;.83721&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;rect x=&quot;879.1&quot; y=&quot;324.1&quot; width=&quot;4.2776&quot; height=&quot;4.3953&quot; fill=&quot;#000&quot; /&gt;
+      &lt;rect x=&quot;879.1&quot; y=&quot;324.1&quot; width=&quot;4.2776&quot; height=&quot;4.3953&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;1.4884&quot; /&gt;
+      &lt;line x1=&quot;881.23&quot; x2=&quot;881.23&quot; y1=&quot;323.36&quot; y2=&quot;321.92&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.2326&quot; /&gt;
+    &lt;/g&gt;
+  &lt;/g&gt;
+
+  &lt;g class=&quot;svg-anim-path&quot;&gt;
+    &lt;!-- capture node connector --&gt;
+    &lt;path d=&quot;m531.56 512.97v-2-23.594-17.094&quot; marker-end=&quot;url(#b)&quot; marker-start=&quot;url(#a)&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;!-- edge node connector --&gt;
+    &lt;path d=&quot;m589.68 380v2 18.531 12.031&quot; marker-end=&quot;url(#b)&quot; marker-start=&quot;url(#a)&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;!-- repo connector --&gt;
+    &lt;path d=&quot;m919.69 380v16 16&quot; marker-end=&quot;url(#b)&quot; marker-start=&quot;url(#a)&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+  &lt;/g&gt;
+&lt;/g&gt;
+
+&lt;!-- step 2 --&gt;
+&lt;g fill=&quot;none&quot;&gt;&lt;!-- NDN-RTC streams --&gt;
+  &lt;g class=&quot;svg-anim-path&quot;&gt;
+    &lt;path d=&quot;m507.41 519.47v-19.9-74.169h-28.623-37.935v-31.997-4&quot; marker-end=&quot;url(#d)&quot; stroke=&quot;#5efc8d&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3&quot; /&gt;
+    &lt;path d=&quot;m555.72 519.47v-19.9-74.243h157.82 161.21v-31.923-4&quot; marker-end=&quot;url(#d)&quot; stroke=&quot;#5efc8d&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3&quot; /&gt;
+  &lt;/g&gt;
+  &lt;g class=&quot;svg-anim-block&quot;&gt;
+    &lt;text transform=&quot;translate(354.88 484.09)&quot; fill=&quot;#5efc8d&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;12&quot; font-weight=&quot;bold&quot;&gt;
+      &lt;tspan x=&quot;.274&quot; y=&quot;12&quot; textLength=&quot;118.02&quot;&gt;[NDN] ndnrtc stream&lt;/tspan&gt;
+    &lt;/text&gt;
+  &lt;/g&gt;
+&lt;/g&gt;
+
+&lt;!-- step 3 --&gt;
+&lt;g fill=&quot;none&quot;&gt;
+  &lt;!-- NDN-RTC streams 2--&gt;
+  &lt;g class=&quot;svg-anim-path&quot;&gt;
+    &lt;path d=&quot;m483.25 519.47v-19.9-44.514h-100.06-99.83v-61.652-4&quot; marker-end=&quot;url(#d)&quot; stroke=&quot;#5efc8d&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3&quot; /&gt;
+    &lt;path d=&quot;m579.87 519.47v-19.9-48.132h10.051 67.808v48.132 4&quot; marker-end=&quot;url(#d)&quot; stroke=&quot;#5efc8d&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3&quot; /&gt;
+    &lt;!-- master node connector --&gt;
+    &lt;path d=&quot;m257.62 380v2 18.531 12.031&quot; marker-end=&quot;url(#b)&quot; marker-start=&quot;url(#a)&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;!-- viz connector --&gt;
+    &lt;path d=&quot;m688.49 512.97v-2l0.2881-24.296 0.21105-17.796&quot; marker-end=&quot;url(#b)&quot; marker-start=&quot;url(#a)&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+  &lt;/g&gt;
+
+  &lt;g class=&quot;svg-anim-block&quot;&gt;&lt;!-- master node --&gt;
+    &lt;!-- master node --&gt;
+    &lt;path d=&quot;m179.56 286.88h156.14c2.2398 0 4.0556 1.1888 4.0556 2.6552v81.315c0 1.4664-1.8157 2.6552-4.0556 2.6552h-156.14c-2.2398 0-4.0556-1.1888-4.0556-2.6552v-81.315c0-1.4664 1.8157-2.6552 4.0556-2.6552z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;text transform=&quot;translate(245.75 306.39)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;7.412595&quot; y=&quot;16&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; textLength=&quot;67.552&quot;&gt;MASTER&lt;/tspan&gt;
+    &lt;/text&gt;
+    &lt;rect x=&quot;180.4&quot; y=&quot;346.5&quot; width=&quot;154.46&quot; height=&quot;27&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;text transform=&quot;translate(185.4 350.27)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;55.628106&quot; y=&quot;16&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; textLength=&quot;33.2&quot;&gt;NFD&lt;/tspan&gt;
+    &lt;/text&gt;
+
+    &lt;!-- wifi icon --&gt;
+    &lt;path d=&quot;m311.31 297.39c3.0379-5.5275 10.132-7.6258 15.846-4.6868 2.123 1.0921 3.8473 2.7896 4.9389 4.8623&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.034&quot; /&gt;
+    &lt;path d=&quot;m314.25 299.37c1.9066-3.9557 6.7669-5.6671 10.856-3.8225 1.6076 0.72525 2.9276 1.937 3.7603 3.4522&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.034&quot; /&gt;
+    &lt;path d=&quot;m317.16 301.03c1.5511-2.4014 4.8207-3.1317 7.303-1.6312 0.62986 0.38077 1.17 0.88536 1.5853 1.4811&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.034&quot; /&gt;
+    &lt;circle cx=&quot;321.65&quot; cy=&quot;303.75&quot; r=&quot;2.0975&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;circle cx=&quot;321.65&quot; cy=&quot;303.75&quot; r=&quot;2.0975&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.339&quot; /&gt;
+    &lt;path d=&quot;m194.62 319.5h33.188l5.3438 13.5h-44.156z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;path d=&quot;m194.62 319.5h33.188l5.3438 13.5h-44.156z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3.5&quot; /&gt;
+
+    &lt;!-- laptop icon --&gt;
+    &lt;rect x=&quot;194.34&quot; y=&quot;297&quot; width=&quot;33.188&quot; height=&quot;20.812&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3.0947&quot; /&gt;
+    &lt;rect x=&quot;195.8&quot; y=&quot;320.62&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;195.8&quot; y=&quot;320.62&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;199.73&quot; y=&quot;320.62&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;199.73&quot; y=&quot;320.62&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;203.67&quot; y=&quot;320.62&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;203.67&quot; y=&quot;320.62&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;207.8&quot; y=&quot;320.62&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;207.8&quot; y=&quot;320.62&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;211.73&quot; y=&quot;320.62&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;211.73&quot; y=&quot;320.62&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;215.67&quot; y=&quot;320.62&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;215.67&quot; y=&quot;320.62&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;219.61&quot; y=&quot;320.62&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;219.61&quot; y=&quot;320.62&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;223.55&quot; y=&quot;320.62&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;223.55&quot; y=&quot;320.62&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;194.48&quot; y=&quot;323.72&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;194.48&quot; y=&quot;323.72&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;198.76&quot; y=&quot;323.72&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;198.76&quot; y=&quot;323.72&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;203.04&quot; y=&quot;323.72&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;203.04&quot; y=&quot;323.72&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;207.52&quot; y=&quot;323.72&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;207.52&quot; y=&quot;323.72&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;211.79&quot; y=&quot;323.72&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;211.79&quot; y=&quot;323.72&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;216.07&quot; y=&quot;323.72&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;216.07&quot; y=&quot;323.72&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;220.34&quot; y=&quot;323.72&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;220.34&quot; y=&quot;323.72&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;224.62&quot; y=&quot;323.72&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;224.62&quot; y=&quot;323.72&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;193.02&quot; y=&quot;326.81&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;193.02&quot; y=&quot;326.81&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;197.67&quot; y=&quot;326.81&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;197.67&quot; y=&quot;326.81&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;202.32&quot; y=&quot;326.81&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;202.32&quot; y=&quot;326.81&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;207.2&quot; y=&quot;326.81&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;207.2&quot; y=&quot;326.81&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;211.85&quot; y=&quot;326.81&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;211.85&quot; y=&quot;326.81&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;216.51&quot; y=&quot;326.81&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;216.51&quot; y=&quot;326.81&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;221.16&quot; y=&quot;326.81&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;221.16&quot; y=&quot;326.81&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;225.82&quot; y=&quot;326.81&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;225.82&quot; y=&quot;326.81&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;204.56&quot; y=&quot;329.91&quot; width=&quot;12.938&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;rect x=&quot;191.62&quot; y=&quot;329.91&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;191.62&quot; y=&quot;329.91&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;196.27&quot; y=&quot;329.91&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;196.27&quot; y=&quot;329.91&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;222.56&quot; y=&quot;329.91&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;222.56&quot; y=&quot;329.91&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;227.21&quot; y=&quot;329.91&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;227.21&quot; y=&quot;329.91&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+
+    &lt;!-- VIZ node --&gt;
+    &lt;path d=&quot;m636.74 606.09h156.14c2.2398 0 4.0556-1.1888 4.0556-2.6552v-81.315c0-1.4664-1.8158-2.6552-4.0556-2.6552h-156.14c-2.2398 0-4.0556 1.1888-4.0556 2.6552v81.315c0 1.4664 1.8158 2.6552 4.0556 2.6552z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;text transform=&quot;translate(700.41 568.61)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;1.477625&quot; y=&quot;16&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; textLength=&quot;88.576&quot;&gt;VIZ: TRACE&lt;/tspan&gt;
+    &lt;/text&gt;
+    &lt;rect x=&quot;642.35&quot; y=&quot;519.47&quot; width=&quot;92.274&quot; height=&quot;27&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;text transform=&quot;translate(647.35 523.23)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;24.536891&quot; y=&quot;16&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; textLength=&quot;33.2&quot;&gt;NFD&lt;/tspan&gt;
+    &lt;/text&gt;
+    &lt;path d=&quot;m650.13 581.62h33.188l5.3438 13.5h-44.156z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;path d=&quot;m650.13 581.62h33.188l5.3438 13.5h-44.156z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3.5&quot; /&gt;
+    &lt;rect x=&quot;649.84&quot; y=&quot;559.12&quot; width=&quot;33.188&quot; height=&quot;20.812&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3.0947&quot; /&gt;
+    &lt;rect x=&quot;651.3&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;651.3&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;655.23&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;655.23&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;659.17&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;659.17&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;663.3&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;663.3&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;667.23&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;667.23&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;671.17&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;671.17&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;675.11&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;675.11&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;679.05&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;679.05&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;649.98&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;649.98&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;654.26&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;654.26&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;658.54&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;658.54&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;663.02&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;663.02&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;667.29&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;667.29&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;671.57&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;671.57&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;675.84&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;675.84&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;680.12&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;680.12&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;648.52&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;648.52&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;653.17&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;653.17&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;657.82&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;657.82&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;662.7&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;662.7&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;667.35&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;667.35&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;672.01&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;672.01&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;676.66&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;676.66&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;681.32&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;681.32&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;660.06&quot; y=&quot;592.03&quot; width=&quot;12.938&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;rect x=&quot;647.12&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;647.12&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;651.77&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;651.77&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;678.06&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;678.06&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;682.71&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;682.71&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+  &lt;/g&gt;
+&lt;/g&gt;
+
+&lt;!-- step 4 --&gt;
+&lt;g fill=&quot;none&quot;&gt;
+  &lt;!-- monitor node --&gt;
+  &lt;g class=&quot;svg-anim-block&quot;&gt;
+    &lt;!-- monitor connector --&gt;
+    &lt;path d=&quot;m867.46 512.97v-2-22.729-16.229&quot; marker-end=&quot;url(#b)&quot; marker-start=&quot;url(#a)&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+
+    &lt;path d=&quot;m814.7 606.09h156.14c2.2398 0 4.0556-1.1888 4.0556-2.6552v-81.315c0-1.4664-1.8157-2.6552-4.0556-2.6552h-156.14c-2.2398 0-4.0556 1.1888-4.0556 2.6552v81.315c0 1.4664 1.8157 2.6552 4.0556 2.6552z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;text transform=&quot;translate(886.4 568.61)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;3.0915608&quot; y=&quot;16&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; textLength=&quot;77.312&quot;&gt;MONITOR&lt;/tspan&gt;
+    &lt;/text&gt;
+    &lt;rect x=&quot;820.3&quot; y=&quot;519.47&quot; width=&quot;94.322&quot; height=&quot;27&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;text transform=&quot;translate(825.3 523.23)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;25.560817&quot; y=&quot;16&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; textLength=&quot;33.2&quot;&gt;NFD&lt;/tspan&gt;
+    &lt;/text&gt;
+    &lt;path d=&quot;m947.52 540.59l-14.146-7.2768c4.1541-7.5584 13.855-10.428 21.668-6.4089 2.9031 1.4934 5.2609 3.8146 6.7536 6.6488z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;path d=&quot;m933.38 533.31c4.1541-7.5584 13.855-10.428 21.668-6.4089 2.9031 1.4934 5.2609 3.8146 6.7536 6.6488&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.7813&quot; /&gt;
+    &lt;path d=&quot;m947.52 540.59l-10.124-4.567c2.6072-5.4091 9.2532-7.7493 14.844-5.227 2.1983 0.99173 4.0032 2.6488 5.1419 4.7207z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;path d=&quot;m937.4 536.02c2.6072-5.4091 9.2532-7.7493 14.844-5.227 2.1983 0.99173 4.0032 2.6488 5.1419 4.7207&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.7813&quot; /&gt;
+    &lt;path d=&quot;m947.52 542.01l-6.1459-3.7154c2.121-3.2838 6.592-4.2824 9.9863-2.2305 0.86126 0.52067 1.5998 1.2107 2.1677 2.0252z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;path d=&quot;m941.38 538.3c2.121-3.2838 6.592-4.2824 9.9863-2.2305 0.86126 0.52067 1.5998 1.2107 2.1677 2.0252&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.7813&quot; /&gt;
+    &lt;circle cx=&quot;947.52&quot; cy=&quot;542.01&quot; r=&quot;2.8682&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;circle cx=&quot;947.52&quot; cy=&quot;542.01&quot; r=&quot;2.8682&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot; /&gt;
+    &lt;path d=&quot;m830.25 581.62h33.188l5.3438 13.5h-44.156z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;path d=&quot;m830.25 581.62h33.188l5.3438 13.5h-44.156z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3.5&quot; /&gt;
+    &lt;rect x=&quot;829.97&quot; y=&quot;559.12&quot; width=&quot;33.188&quot; height=&quot;20.812&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3.0947&quot; /&gt;
+    &lt;rect x=&quot;831.42&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;831.42&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;835.36&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;835.36&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;839.3&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;839.3&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;843.42&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;843.42&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;847.36&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;847.36&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;851.3&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;851.3&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;855.24&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;855.24&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;859.17&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;859.17&quot; y=&quot;582.75&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;830.11&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;830.11&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;834.39&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;834.39&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;838.66&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;838.66&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;843.14&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;843.14&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;847.42&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;847.42&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;851.69&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;851.69&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;855.97&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;855.97&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;860.24&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;860.24&quot; y=&quot;585.84&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;828.64&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;828.64&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;833.3&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;833.3&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;837.95&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;837.95&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;842.83&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;842.83&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;847.48&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;847.48&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;852.13&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;852.13&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;856.79&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;856.79&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;861.44&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;861.44&quot; y=&quot;588.94&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;840.18&quot; y=&quot;592.03&quot; width=&quot;12.938&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;rect x=&quot;827.25&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;827.25&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;831.9&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;831.9&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;858.18&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;858.18&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;862.84&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;862.84&quot; y=&quot;592.03&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+  &lt;/g&gt;
+&lt;/g&gt;
+
+&lt;!-- step 5 --&gt;
+&lt;g fill=&quot;none&quot;&gt;&lt;!-- info node --&gt;
+  &lt;g class=&quot;svg-anim-block&quot;&gt;
+    &lt;text transform=&quot;translate(201.31 686.12)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;.46&quot; y=&quot;15&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;500&quot; textLength=&quot;162.08&quot;&gt;CEILING PROJECTOR&lt;/tspan&gt;
+    &lt;/text&gt;
+    &lt;path d=&quot;m230.16 639.09h105.31c2.7614 0 5 2.2386 5 5v27.5c0 2.7614-2.2386 5-5 5h-105.31c-2.7614 0-5-2.2386-5-5v-27.5c0-2.7614 2.2386-5 5-5z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot; /&gt;
+    &lt;circle cx=&quot;282.81&quot; cy=&quot;657.84&quot; r=&quot;15&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot; /&gt;
+    &lt;circle cx=&quot;282.81&quot; cy=&quot;657.84&quot; r=&quot;10.313&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;circle cx=&quot;282.81&quot; cy=&quot;657.84&quot; r=&quot;10.313&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot; /&gt;
+    &lt;path d=&quot;m232.38 651.23h16.982c0.90235 0 1.6338 0.7315 1.6338 1.6338 0 0.90237-0.7315 1.6339-1.6338 1.6339h-16.982c-0.90235 0-1.6338-0.7315-1.6338-1.6339 0-0.90235 0.7315-1.6338 1.6338-1.6338z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;path d=&quot;m232.38 656.21h16.982c0.90235 0 1.6338 0.7315 1.6338 1.6338 0 0.90237-0.7315 1.6339-1.6338 1.6339h-16.982c-0.90235 0-1.6338-0.7315-1.6338-1.6339 0-0.90233 0.7315-1.6338 1.6338-1.6338z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;path d=&quot;m232.38 661.19h16.982c0.90235 0 1.6338 0.7315 1.6338 1.6338 0 0.90236-0.7315 1.6339-1.6338 1.6339h-16.982c-0.90235 0-1.6338-0.7315-1.6338-1.6339 0-0.90234 0.7315-1.6338 1.6338-1.6338z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;line x1=&quot;282.81&quot; x2=&quot;282.81&quot; y1=&quot;606.09&quot; y2=&quot;638.09&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+
+    &lt;path d=&quot;m204.74 519.47h156.14c2.2398 0 4.0556 1.1888 4.0556 2.6552v81.315c0 1.4664-1.8157 2.6552-4.0556 2.6552h-156.14c-2.2398 0-4.0556-1.1888-4.0556-2.6552v-81.315c0-1.4664 1.8157-2.6552 4.0556-2.6552z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;text transform=&quot;translate(262.37 543.31)&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot;&gt;
+      &lt;tspan x=&quot;21.214595&quot; y=&quot;16&quot; textLength=&quot;44.448&quot;&gt;INFO/&lt;/tspan&gt;
+      &lt;tspan x=&quot;17.518595&quot; y=&quot;35.464111&quot; textLength=&quot;51.84&quot;&gt;AUDIO&lt;/tspan&gt;
+    &lt;/text&gt;
+    &lt;path d=&quot;m329.81 532.18c4.1541-7.5584 13.855-10.428 21.668-6.4089 2.9031 1.4934 5.2609 3.8146 6.7536 6.6488&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.7813&quot; /&gt;
+    &lt;path d=&quot;m333.84 534.89c2.6072-5.4091 9.2532-7.7493 14.844-5.227 2.1983 0.99172 4.0032 2.6488 5.1419 4.7207&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.7813&quot; /&gt;
+    &lt;path d=&quot;m337.81 537.16c2.121-3.2838 6.592-4.2824 9.9863-2.2305 0.86128 0.52068 1.5998 1.2107 2.1677 2.0252&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2.7813&quot; /&gt;
+    &lt;circle cx=&quot;343.96&quot; cy=&quot;540.87&quot; r=&quot;2.8682&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;circle cx=&quot;343.96&quot; cy=&quot;540.87&quot; r=&quot;2.8682&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.46355&quot; /&gt;
+    &lt;path d=&quot;m220.5 567.28h33.188l5.3438 13.5h-44.156z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;path d=&quot;m220.5 567.28h33.188l5.3438 13.5h-44.156z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3.5&quot; /&gt;
+    &lt;rect x=&quot;220.22&quot; y=&quot;544.78&quot; width=&quot;33.188&quot; height=&quot;20.812&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3.0947&quot; /&gt;
+    &lt;rect x=&quot;221.67&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;221.67&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;225.61&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;225.61&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;229.55&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;229.55&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;233.67&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;233.67&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;237.61&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;237.61&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;241.55&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;241.55&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;245.48&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;245.48&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;249.42&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;249.42&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;220.36&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;220.36&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;224.64&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;224.64&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;228.91&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;228.91&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;233.39&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;233.39&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;237.67&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;237.67&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;241.94&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;241.94&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;246.22&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;246.22&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;250.49&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;250.49&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;218.89&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;218.89&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;223.55&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;223.55&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;228.2&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;228.2&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;233.07&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;233.07&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;237.73&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;237.73&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;242.38&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;242.38&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;247.04&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;247.04&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;251.69&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;251.69&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;230.43&quot; y=&quot;577.68&quot; width=&quot;12.938&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;rect x=&quot;217.5&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;217.5&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;222.15&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;222.15&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;248.43&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;248.43&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;253.09&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;253.09&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+  &lt;/g&gt;
+  &lt;g class=&quot;svg-anim-path&quot;&gt;&lt;!-- wifi data --&gt;
+    &lt;!-- master to info wifi --&gt;
+    &lt;path d=&quot;m227.54 373.5c-10.948 21.26-19.96 48.616-16.772 78.052 2.4606 22.722 11.792 43 22.962 59.817&quot; marker-end=&quot;url(#e)&quot; stroke=&quot;#fff&quot; stroke-dasharray=&quot;1,4&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+
+    &lt;!-- monitor to info wifi --&gt;
+    &lt;path d=&quot;m856.64 606.09c-48.832 52.347-143.41 133.5-260.48 133.5-112.07 0-210.58-74.374-265.97-126.65&quot; marker-end=&quot;url(#e)&quot; stroke=&quot;#fff&quot; stroke-dasharray=&quot;1,4&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+  &lt;/g&gt;
+  &lt;g class=&quot;svg-anim-block&quot;&gt;
+    &lt;text transform=&quot;translate(146.92 478.27)&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;12&quot; font-weight=&quot;bold&quot;&gt;
+      &lt;tspan x=&quot;.436&quot; y=&quot;12&quot; textLength=&quot;144&quot;&gt;[touchOut] repo previews&lt;/tspan&gt;
+    &lt;/text&gt;
+    &lt;text transform=&quot;translate(503.66 731.92)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;1.726&quot; y=&quot;12&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;12&quot; font-weight=&quot;bold&quot; textLength=&quot;184.884&quot;&gt;[OSC] ML labels, SceneSeg info&lt;/tspan&gt;
+    &lt;/text&gt;
+  &lt;/g&gt;
+&lt;/g&gt;
+
+&lt;!-- step 6 --&gt;
+&lt;g fill=&quot;none&quot;&gt;
+  &lt;g class=&quot;svg-anim-path&quot;&gt;
+    &lt;path d=&quot;m766.86 519.47v-19.9-41.566h195.14 56.672v41.566 4&quot; marker-end=&quot;url(#p)&quot; stroke=&quot;#e94f37&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3&quot; /&gt;
+    &lt;!-- project1 connector --&gt;
+    &lt;path d=&quot;m1070.7 512.97v-2-23.594-17.094&quot; marker-end=&quot;url(#b)&quot; marker-start=&quot;url(#a)&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+  &lt;/g&gt;
+  &lt;g class=&quot;svg-anim-block&quot;&gt;
+    &lt;text transform=&quot;translate(919.69 478.27)&quot; fill=&quot;#e94f37&quot;&gt;
+      &lt;tspan x=&quot;.008&quot; y=&quot;12&quot; fill=&quot;#e94f37&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;12&quot; font-weight=&quot;bold&quot; textLength=&quot;93.984&quot;&gt;[NDI] trace, feed&lt;/tspan&gt;
+    &lt;/text&gt;
+  &lt;!-- project1 node --&gt;
+    &lt;path d=&quot;m992.65 606.09h156.14c2.2398 0 4.0556-1.1888 4.0556-2.6552v-81.315c0-1.4664-1.8158-2.6552-4.0556-2.6552h-156.14c-2.2398 0-4.0556 1.1888-4.0556 2.6552v81.315c0 1.4664 1.8158 2.6552 4.0556 2.6552z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;text transform=&quot;translate(1059.1 554.55)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;2.127375&quot; y=&quot;16&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; textLength=&quot;84.464&quot;&gt;PROJECT1&lt;/tspan&gt;
+    &lt;/text&gt;
+    &lt;path d=&quot;m1006.8 567.28h33.188l5.3438 13.5h-44.156z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;path d=&quot;m1006.8 567.28h33.188l5.3438 13.5h-44.156z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3.5&quot; /&gt;
+    &lt;rect x=&quot;1006.6&quot; y=&quot;544.78&quot; width=&quot;33.188&quot; height=&quot;20.812&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3.0947&quot; /&gt;
+    &lt;rect x=&quot;1008&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1008&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1012&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1012&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1015.9&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1015.9&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1020&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1020&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1024&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1024&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1027.9&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1027.9&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1031.8&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1031.8&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1035.8&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1035.8&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1006.7&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1006.7&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1011&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1011&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1015.3&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1015.3&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1019.7&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1019.7&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1024&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1024&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1028.3&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1028.3&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1032.6&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1032.6&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1036.8&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1036.8&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1005.2&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1005.2&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1009.9&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1009.9&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1014.5&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1014.5&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1019.4&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1019.4&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1024.1&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1024.1&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1028.7&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1028.7&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1033.4&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1033.4&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1038&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1038&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1016.8&quot; y=&quot;577.68&quot; width=&quot;12.938&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;rect x=&quot;1003.8&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1003.8&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1008.5&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1008.5&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1034.8&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1034.8&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1039.4&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1039.4&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+  &lt;/g&gt;
+
+  &lt;g class=&quot;svg-anim-path&quot;&gt;
+    &lt;path d=&quot;m1070.7 606.09v7 27.034&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+  &lt;/g&gt;
+
+  &lt;g class=&quot;svg-anim-block&quot;&gt;&lt;!-- 10K projector --&gt;
+    &lt;path d=&quot;m1018.1 646.88h105.31c2.7614 0 5 2.2386 5 5v46.25c0 2.7614-2.2386 5-5 5h-105.31c-2.7614 0-5-2.2386-5-5v-46.25c0-2.7614 2.2386-5 5-5z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;path d=&quot;m1018.1 646.88h105.31c2.7614 0 5 2.2386 5 5v46.25c0 2.7614-2.2386 5-5 5h-105.31c-2.7614 0-5-2.2386-5-5v-46.25c0-2.7614 2.2386-5 5-5z&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;circle cx=&quot;1070.7&quot; cy=&quot;675&quot; r=&quot;34.875&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;circle cx=&quot;1070.7&quot; cy=&quot;675&quot; r=&quot;34.875&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;circle cx=&quot;1070.7&quot; cy=&quot;675&quot; r=&quot;23.978&quot; fill=&quot;#000&quot; /&gt;
+    &lt;circle cx=&quot;1070.7&quot; cy=&quot;675&quot; r=&quot;23.978&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;text transform=&quot;translate(1006.2 715.65)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;.332&quot; y=&quot;15&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;500&quot; textLength=&quot;128.336&quot;&gt;10K PROJECTOR&lt;/tspan&gt;
+    &lt;/text&gt;
+  &lt;/g&gt;
+&lt;/g&gt;
+
+&lt;!-- step 7 --&gt;
+&lt;g fill=&quot;none&quot;&gt;
+  &lt;g class=&quot;svg-anim-block&quot;&gt;&lt;!-- project2 node --&gt;
+    &lt;!-- project2 connector --&gt;
+    &lt;line x1=&quot;1303.9&quot; x2=&quot;1303.9&quot; y1=&quot;512.97&quot; y2=&quot;470.28&quot; marker-end=&quot;url(#b)&quot; marker-start=&quot;url(#a)&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;path d=&quot;m1225.8 606.09h156.14c2.2399 0 4.0556-1.1888 4.0556-2.6552v-81.315c0-1.4664-1.8157-2.6552-4.0556-2.6552h-156.14c-2.2399 0-4.0556 1.1888-4.0556 2.6552v81.315c0 1.4664 1.8157 2.6552 4.0556 2.6552z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;text transform=&quot;translate(1289.8 554.55)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;3.393&quot; y=&quot;16&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;bold&quot; textLength=&quot;84.464&quot;&gt;PROJECT2&lt;/tspan&gt;
+    &lt;/text&gt;
+    &lt;path d=&quot;m1239.8 567.28h33.188l5.3438 13.5h-44.156z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;path d=&quot;m1239.8 567.28h33.188l5.3438 13.5h-44.156z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3.5&quot; /&gt;
+    &lt;rect x=&quot;1239.5&quot; y=&quot;544.78&quot; width=&quot;33.188&quot; height=&quot;20.812&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;3.0947&quot; /&gt;
+    &lt;rect x=&quot;1240.9&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1240.9&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1244.9&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1244.9&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1248.8&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1248.8&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1252.9&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1252.9&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1256.9&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1256.9&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1260.8&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1260.8&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1264.7&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1264.7&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1268.7&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1268.7&quot; y=&quot;568.4&quot; width=&quot;2.8125&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1239.6&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1239.6&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1243.9&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1243.9&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1248.2&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1248.2&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1252.6&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1252.6&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1256.9&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1256.9&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1261.2&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1261.2&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1265.5&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1265.5&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1269.7&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1269.7&quot; y=&quot;571.5&quot; width=&quot;3.0541&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1238.1&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1238.1&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1242.8&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1242.8&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1247.4&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1247.4&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1252.3&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1252.3&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1257&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1257&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1261.6&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1261.6&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1266.3&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1266.3&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1270.9&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1270.9&quot; y=&quot;574.59&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1249.7&quot; y=&quot;577.68&quot; width=&quot;12.938&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;rect x=&quot;1236.7&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1236.7&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1241.4&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1241.4&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1267.7&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1267.7&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+    &lt;rect x=&quot;1272.3&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; fill=&quot;#000&quot; /&gt;
+    &lt;rect x=&quot;1272.3&quot; y=&quot;577.68&quot; width=&quot;3.3242&quot; height=&quot;.74591&quot; stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; /&gt;
+  &lt;/g&gt;
+
+  &lt;g class=&quot;svg-anim-path&quot;&gt;
+  &lt;!-- 4k projectors connectors --&gt;
+    &lt;path d=&quot;m1303.9 627.87h-34.657-33.937v27&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;path d=&quot;m1303.9 606.09v21.772h32.742 35.851v27.012&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+  &lt;/g&gt;
+
+  &lt;g class=&quot;svg-anim-block&quot;&gt;&lt;!-- left 4k projector --&gt;
+    &lt;path d=&quot;m1182.6 655.88h105.31c2.7614 0 5 2.2386 5 5v27.5c0 2.7614-2.2386 5-5 5h-105.31c-2.7614 0-5-2.2386-5-5v-27.5c0-2.7614 2.2386-5 5-5z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot; /&gt;
+    &lt;circle cx=&quot;1235.3&quot; cy=&quot;674.62&quot; r=&quot;15&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot; /&gt;
+    &lt;circle cx=&quot;1235.3&quot; cy=&quot;674.62&quot; r=&quot;10.313&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;circle cx=&quot;1235.3&quot; cy=&quot;674.62&quot; r=&quot;10.313&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot; /&gt;
+    &lt;path d=&quot;m1184.9 668.01h16.982c0.90235 0 1.6338 0.7315 1.6338 1.6338 0 0.90236-0.7315 1.6339-1.6338 1.6339h-16.982c-0.90235 0-1.6338-0.7315-1.6338-1.6339 0-0.90234 0.7315-1.6338 1.6338-1.6338z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;path d=&quot;m1184.9 672.99h16.982c0.90235 0 1.6338 0.7315 1.6338 1.6338s-0.7315 1.6338-1.6338 1.6338h-16.982c-0.90235 0-1.6338-0.7315-1.6338-1.6338s0.7315-1.6338 1.6338-1.6338z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;path d=&quot;m1184.9 677.97h16.982c0.90235 0 1.6338 0.7315 1.6338 1.6339 0 0.90234-0.7315 1.6338-1.6338 1.6338h-16.982c-0.90235 0-1.6338-0.7315-1.6338-1.6338 0-0.90236 0.7315-1.6339 1.6338-1.6339z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;text transform=&quot;translate(1175.3 715.65)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;.28&quot; y=&quot;15&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;500&quot; textLength=&quot;119.44&quot;&gt;4K PROJECTOR&lt;/tspan&gt;
+    &lt;/text&gt;
+
+  &lt;!-- right 4k projector --&gt;
+    &lt;path d=&quot;m1319.8 655.88h105.31c2.7614 0 5 2.2386 5 5v27.5c0 2.7614-2.2386 5-5 5h-105.31c-2.7614 0-5-2.2386-5-5v-27.5c0-2.7614 2.2386-5 5-5z&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot; /&gt;
+    &lt;circle cx=&quot;1372.5&quot; cy=&quot;674.62&quot; r=&quot;15&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot; /&gt;
+    &lt;circle cx=&quot;1372.5&quot; cy=&quot;674.62&quot; r=&quot;10.313&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;circle cx=&quot;1372.5&quot; cy=&quot;674.62&quot; r=&quot;10.313&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;2&quot; /&gt;
+    &lt;path d=&quot;m1322 668.01h16.982c0.90235 0 1.6338 0.7315 1.6338 1.6338 0 0.90236-0.7315 1.6339-1.6338 1.6339h-16.982c-0.90235 0-1.6338-0.7315-1.6338-1.6339 0-0.90234 0.7315-1.6338 1.6338-1.6338z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;path d=&quot;m1322 672.99h16.982c0.90235 0 1.6338 0.7315 1.6338 1.6338s-0.7315 1.6338-1.6338 1.6338h-16.982c-0.90235 0-1.6338-0.7315-1.6338-1.6338s0.7315-1.6338 1.6338-1.6338z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;path d=&quot;m1322 677.97h16.982c0.90235 0 1.6338 0.7315 1.6338 1.6339 0 0.90234-0.7315 1.6338-1.6338 1.6338h-16.982c-0.90235 0-1.6338-0.7315-1.6338-1.6338 0-0.90236 0.7315-1.6339 1.6338-1.6339z&quot; fill=&quot;#fff&quot; /&gt;
+    &lt;text transform=&quot;translate(1312.5 715.65)&quot; fill=&quot;white&quot;&gt;
+      &lt;tspan x=&quot;.28&quot; y=&quot;15&quot; fill=&quot;white&quot; font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;500&quot; textLength=&quot;119.44&quot;&gt;4K PROJECTOR&lt;/tspan&gt;
+    &lt;/text&gt;
+  &lt;/g&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Edge node and Repo fetch NDN-RTC stream from the Capture machine.
+Repo stores video frames and makes them available immediately for historical fetching.
+Frame annotations published over NDN by &lt;strong&gt;ann publisher&lt;/strong&gt; module.
+Annotations are fetched by the Repo, Scene Segmenter, Memory Trigger, as well as by other modules.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Video stream is also consumed by &lt;strong&gt;Master&lt;/strong&gt; and &lt;strong&gt;Viz&lt;/strong&gt; machines.
+The former allows for real-time monitoring and control of the whole system: Edge node and Repo statuses, detected scenes and triggered memories.
+Viz machine performs compositing of the visuals (&lt;strong&gt;TRACE&lt;/strong&gt;) that are being projected in space.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;An additional &lt;strong&gt;Monitor&lt;/strong&gt; machine is fetching ML annotations and detected scenes information.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;This data is then being sent over to the “debug” &lt;strong&gt;Info&lt;/strong&gt; laptop, connected over WiFi.
+Info machine is connected to ceiling projector, this way it is always easy to monitor how the system performs by looking up at the projection.
+Master node also sends start and end frames for detected scene segments to the Info machine for display.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Projection system includes a 10K projector and two 4K projectors.
+Composited and rendered visuals are streamed over NDI from the Viz node to the projection machine.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;10K was projecting on the back wall, while two 4Ks covered left-stage and right-stage decorations (cubes).&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;The workshop allowed us to experiment and explore limits of the technologies used.
+Using NDN as main communication network turned out to be successful.
+Connection-less, data-centric nature of NDN allowed us to avoid many problems with low-latency data dissemination across multiple agents.
+Since every data packet has unique name, implementing Repo was rather straightforward (&lt;a href=&quot;https://rocksdb.org/&quot;&gt;RocksDB&lt;/a&gt; as a backend storage).
+&lt;br /&gt;Some additional work needs to be done for ML part of the system, specifically scene detection and comparison.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;TouchDesigner UI for the Master Node →&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/10.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ceiling projection of the Info node →&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/9.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="future-internet" /><category term="machine-learning" /><category term="edge-computing" /><category term="immersive-theater" /><category term="workshop" /><summary type="html">Entropy Bound is an interactive theatrical performance for humans, artificial intelligence and media.</summary></entry><entry><title type="html">cheLA residence</title><link href="http://0.0.0.0:4000/2018/10/21/chela-residence.html" rel="alternate" type="text/html" title="cheLA residence" /><published>2018-10-21T03:00:00-07:00</published><updated>2018-10-21T03:00:00-07:00</updated><id>http://0.0.0.0:4000/2018/10/21/chela-residence</id><content type="html" xml:base="http://0.0.0.0:4000/2018/10/21/chela-residence.html">&lt;p&gt;In the beginning of March 2018 &lt;a href=&quot;http://www.remap.ucla.edu/&quot;&gt;REMAP&lt;/a&gt;, where I currently work, and a number of invited interactive media and visual artists moved down to &lt;a href=&quot;http://chela.org.ar/&quot;&gt;cheLA&lt;/a&gt;, Buenos Aires, for two weeks to organize a &lt;a href=&quot;http://chela.org.ar/archives/2172320&quot;&gt;workshop&lt;/a&gt; for local artists and conduct a series of experiments using &lt;a href=&quot;http://openptrack.org/&quot;&gt;OpenPTrack&lt;/a&gt; motion tracking system, computer vision and machine-learning techniques for a live performance. The theme of the workshop was “interactive spaces with memory”.&lt;/p&gt;
 
 &lt;p&gt;A lot was built during these two weeks, which deserves a separate post I’ll write some time later, but I’m glad I had a chance to work back to back with artists, engineers and professionals. It was a valuable experience and I gained knowledge that helped me to understand better my relationship with the emerging world defined by intersection of technology, art and performance.
 Due to unforeseen reasons, I couldn’t return back to Los Angeles after the project was over and had to stay few more months in Buenos Aires. Looking back now, I can say that this unexpectedly turned out to be a very productive time for me to submerge deeper into art, meet local and international artists, as well as learn new skills and apply them in practice. cheLA staff were kind enough to allow me to continue my stay in the space and use it’s facilities for my experimentations.&lt;/p&gt;

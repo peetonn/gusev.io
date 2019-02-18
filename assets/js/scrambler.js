@@ -62,11 +62,10 @@ class TextScramble {
 // ——————————————————————————————————————————————————
 
 const phrases = [
-  'interactive systems',
+  'interactive distributed systems',
   'immersive experiences',
-  'distributed systems',
   'multi-media installations',
-  'real-time systems',
+  'real-time responsive computing',
   'navigable media',
   'creative coding',
   'future internet',
@@ -77,10 +76,10 @@ const phrases = [
 const el = document.querySelector('.scrambler')
 const fx = new TextScramble(el)
 
-let counter = 0
+var counter = Math.floor(Math.random() * phrases.length);
 const next = () => {
   fx.setText(phrases[counter]).then(() => {
-    setTimeout(next, 3000)
+    setTimeout(next, 1700)
   })
   counter = (counter + 1) % phrases.length
 }
