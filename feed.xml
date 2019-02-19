@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2019-02-17T22:53:55-08:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">gusev.io</title><subtitle>Peter Gusev's (a.k.a. peetonn) site.&lt;br/&gt;Immersive interactive experiences.&lt;br/&gt;Real-time distributed systems.</subtitle><entry><title type="html">Entropy Bound</title><link href="http://0.0.0.0:4000/projects/2018/12/21/edge-accelerated-machine-learning.html" rel="alternate" type="text/html" title="Entropy Bound" /><published>2018-12-21T00:00:00-08:00</published><updated>2018-12-21T00:00:00-08:00</updated><id>http://0.0.0.0:4000/projects/2018/12/21/edge-accelerated-machine-learning</id><content type="html" xml:base="http://0.0.0.0:4000/projects/2018/12/21/edge-accelerated-machine-learning.html">&lt;p&gt;Entropy Bound is an interactive theatrical performance for humans, artificial intelligence and media.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2019-02-18T23:55:09-08:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">gusev.io</title><subtitle>Peter Gusev's (a.k.a. peetonn) site.&lt;br/&gt;Immersive interactive experiences.&lt;br/&gt;Real-time distributed systems.</subtitle><entry><title type="html">Entropy Bound</title><link href="http://0.0.0.0:4000/projects/2018/12/21/edge-accelerated-machine-learning.html" rel="alternate" type="text/html" title="Entropy Bound" /><published>2018-12-21T00:00:00-08:00</published><updated>2018-12-21T00:00:00-08:00</updated><id>http://0.0.0.0:4000/projects/2018/12/21/edge-accelerated-machine-learning</id><content type="html" xml:base="http://0.0.0.0:4000/projects/2018/12/21/edge-accelerated-machine-learning.html">&lt;p&gt;Entropy Bound is an interactive theatrical performance for humans, artificial intelligence and media.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;“The holographic bound defines how much information can be contained in a specified region of space… The universal entropy bound defines how much information can be carried by a mass 𝓂 of diameter 𝑑.”&lt;/em&gt;&lt;br /&gt;
@@ -1231,4 +1231,317 @@ Interface was implemented in such a way, so that anyone can add modules in plug-
 &lt;p&gt;&lt;img src=&quot;/assets/posts/chela-residence/main.png&quot; alt=&quot;linterna lights TouchDesigner UI&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Looking back now, unexpectedly extended stay at cheLA offered me an opportunity, at the right time and the right place. I seen all cycles of cheLA: full of people running projects, visitors attending workshops, art events and parties, art residencies and open studios, emptiness and silence. And it guided me through my own cycles of working, learning, thinking, absorbing community, reflecting back, re-thinking…
-I’ll be glad to come back to cheLA one day again, as an artist, collaborator or just a visitor.&lt;/p&gt;</content><author><name></name></author><category term="touchdesigner" /><category term="cheLA" /><category term="projection-mapping" /><summary type="html">In the beginning of March 2018 REMAP, where I currently work, and a number of invited interactive media and visual artists moved down to cheLA, Buenos Aires, for two weeks to organize a workshop for local artists and conduct a series of experiments using OpenPTrack motion tracking system, computer vision and machine-learning techniques for a live performance. The theme of the workshop was “interactive spaces with memory”.</summary></entry></feed>
+I’ll be glad to come back to cheLA one day again, as an artist, collaborator or just a visitor.&lt;/p&gt;</content><author><name></name></author><category term="touchdesigner" /><category term="cheLA" /><category term="projection-mapping" /><summary type="html">In the beginning of March 2018 REMAP, where I currently work, and a number of invited interactive media and visual artists moved down to cheLA, Buenos Aires, for two weeks to organize a workshop for local artists and conduct a series of experiments using OpenPTrack motion tracking system, computer vision and machine-learning techniques for a live performance. The theme of the workshop was “interactive spaces with memory”.</summary></entry><entry><title type="html">Grace Plains</title><link href="http://0.0.0.0:4000/projects/2014/06/30/grace-plains.html" rel="alternate" type="text/html" title="Grace Plains" /><published>2014-06-30T00:00:00-07:00</published><updated>2014-06-30T00:00:00-07:00</updated><id>http://0.0.0.0:4000/projects/2014/06/30/grace-plains</id><content type="html" xml:base="http://0.0.0.0:4000/projects/2014/06/30/grace-plains.html">&lt;p&gt;Grace Plains is an interactive immersive theater piece, where public audience is involved in live action role-playing.
+It is a result of students’ work in &lt;em&gt;Location-Based and Audience-Aware Storytelling&lt;/em&gt; class at TFT UCLA, partially funded by Google’s “Future of Storytelling” multi-year research initiative.
+The show ran for open public for three consecutive days at YouTube Space LA.&lt;/p&gt;
+
+&lt;div id=&quot;embed_video&quot; class=&quot;h_video&quot;&gt;
+  &lt;iframe src=&quot;https://www.youtube.com/embed/hZg9M_gC594&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;There are six audience members who are handed out a Google Glass device during the show onboarding.
+Each device is assiociated with one of the story characters.
+They are assigned to audience members randomly.&lt;/p&gt;
+
+&lt;div class=&quot;scrollable-svg&quot;&gt;
+&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;73 70 1114 756&quot;&gt;
+  &lt;metadata&gt; Produced by OmniGraffle 6.6.2. Hacked by peetonn	ᕕ(⌐■-■)ᕗ&lt;/metadata&gt;
+    &lt;defs&gt;
+        &lt;marker orient=&quot;auto&quot; overflow=&quot;visible&quot; id=&quot;a&quot; viewBox=&quot;-1 -3 6 6&quot; markerWidth=&quot;6&quot; markerHeight=&quot;6&quot; color=&quot;#5efc8d&quot;&gt;
+            &lt;path d=&quot;M3.2 0L0-1.2v2.4z&quot; fill=&quot;currentColor&quot; stroke=&quot;currentColor&quot; /&gt;
+        &lt;/marker&gt;
+        &lt;marker orient=&quot;auto&quot; overflow=&quot;visible&quot; id=&quot;b&quot; viewBox=&quot;-1 -3 6 6&quot; markerWidth=&quot;6&quot; markerHeight=&quot;6&quot; color=&quot;#5efc8d&quot;&gt;
+            &lt;path d=&quot;M3.2 0L0-1.2v2.4z&quot; fill=&quot;currentColor&quot; stroke=&quot;currentColor&quot; /&gt;
+        &lt;/marker&gt;
+        &lt;marker orient=&quot;auto&quot; overflow=&quot;visible&quot; id=&quot;c&quot; viewBox=&quot;-1 -4 10 8&quot; markerWidth=&quot;10&quot; markerHeight=&quot;8&quot; color=&quot;#e94f37&quot;&gt;
+            &lt;path d=&quot;M8 0L0-3v6z&quot; fill=&quot;currentColor&quot; stroke=&quot;currentColor&quot; /&gt;
+        &lt;/marker&gt;
+    &lt;/defs&gt;
+
+    &lt;!-- step 0 --&gt;
+
+&lt;g&gt;
+&lt;/g&gt;
+
+&lt;!-- step 0.5 --&gt;
+    &lt;g fill=&quot;none&quot;&gt;
+&lt;g class=&quot;svg-anim-block&quot;&gt;
+        &lt;circle cx=&quot;333.244&quot; cy=&quot;606.646&quot; r=&quot;25.022&quot; fill=&quot;#fff&quot; /&gt;
+        &lt;path d=&quot;M333.244 640.886v84.283l-31.606 84.283M333.244 640.886l-42.141 63.213M333.244 640.886l42.142 63.213M333.244 725.169l31.606 84.283&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;15&quot; /&gt;
+&lt;/g&gt;
+&lt;g class=&quot;svg-anim-block&quot;&gt;
+        &lt;circle cx=&quot;808.186&quot; cy=&quot;606.646&quot; r=&quot;25.022&quot; fill=&quot;#fff&quot; /&gt;
+        &lt;path d=&quot;M808.186 640.886v84.283l-31.606 84.283M808.186 640.886l-42.142 63.213M808.186 640.886l42.141 63.213M808.186 725.169l31.606 84.283&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;15&quot; /&gt;
+        &lt;path d=&quot;M855.595 771.262l-47.41-126.425-47.408 126.425z&quot; fill=&quot;#fff&quot; /&gt;
+&lt;/g&gt;
+
+&lt;g class=&quot;svg-anim-block&quot;&gt;
+        &lt;circle cx=&quot;453.296&quot; cy=&quot;606.646&quot; r=&quot;25.022&quot; fill=&quot;#fff&quot; /&gt;
+        &lt;path d=&quot;M453.296 640.886v84.283l-31.606 84.283M453.296 640.886l-42.141 63.213M453.296 640.886l42.142 63.213M453.296 725.169l31.607 84.283&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;15&quot; /&gt;
+&lt;/g&gt;
+&lt;g class=&quot;svg-anim-block&quot;&gt;
+        &lt;circle cx=&quot;573.349&quot; cy=&quot;606.646&quot; r=&quot;25.022&quot; fill=&quot;#fff&quot; /&gt;
+        &lt;path d=&quot;M573.349 640.886v84.283l-31.606 84.283M573.349 640.886l-42.142 63.213M573.349 640.886l42.141 63.213M573.349 725.169l31.606 84.283&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;15&quot; /&gt;
+&lt;/g&gt;
+
+&lt;g class=&quot;svg-anim-block&quot;&gt;
+        &lt;circle cx=&quot;688.134&quot; cy=&quot;606.646&quot; r=&quot;25.022&quot; fill=&quot;#fff&quot; /&gt;
+        &lt;path d=&quot;M688.134 640.886v84.283l-31.607 84.283M688.134 640.886l-42.142 63.213M688.134 640.886l42.141 63.213M688.134 725.169l31.606 84.283&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;15&quot; /&gt;
+        &lt;path d=&quot;M735.543 771.262l-47.41-126.425-47.409 126.425z&quot; fill=&quot;#fff&quot; /&gt;
+&lt;/g&gt;
+
+&lt;g class=&quot;svg-anim-block&quot;&gt;
+        &lt;circle cx=&quot;928.238&quot; cy=&quot;606.646&quot; r=&quot;25.022&quot; fill=&quot;#fff&quot; /&gt;
+        &lt;path d=&quot;M928.238 640.886v84.283l-31.606 84.283M928.238 640.886l-42.141 63.213M928.238 640.886l42.142 63.213M928.238 725.169l31.606 84.283&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;15&quot; /&gt;
+        &lt;path d=&quot;M975.647 771.262l-47.409-126.425-47.409 126.425z&quot; fill=&quot;#fff&quot; /&gt;
+&lt;/g&gt;
+
+&lt;g class=&quot;svg-anim-block&quot;&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; d=&quot;M333.244 606.646&quot; /&gt;
+        &lt;path fill=&quot;#dadada&quot; d=&quot;M314.682 598.625h9.563v4.938h-9.563z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M314.682 598.625h9.563v4.938h-9.563z&quot; /&gt;
+        &lt;path fill=&quot;#000&quot; d=&quot;M311.307 598.625h3.375v4.938h-3.375z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M311.307 598.625h3.375v4.938h-3.375z&quot; /&gt;
+        &lt;path fill=&quot;#dadada&quot; d=&quot;M308.494 598.5h49.5v.125h-49.5z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M308.494 598.5h49.5v.125h-49.5z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; d=&quot;M333.234 598.625l-.854 5.444M334.932 599.063l.931 5.001&quot; /&gt;
+&lt;/g&gt;
+
+&lt;g class=&quot;svg-anim-block&quot;&gt;
+        &lt;path fill=&quot;#dadada&quot; d=&quot;M434.734 598.625h9.563v4.938h-9.563z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M434.734 598.625h9.563v4.938h-9.563z&quot; /&gt;
+        &lt;path fill=&quot;#000&quot; d=&quot;M431.359 598.625h3.375v4.938h-3.375z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M431.359 598.625h3.375v4.938h-3.375z&quot; /&gt;
+        &lt;path fill=&quot;#dadada&quot; d=&quot;M428.546 598.5h49.5v.125h-49.5z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M428.546 598.5h49.5v.125h-49.5z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; d=&quot;M453.287 598.625l-.854 5.444M454.984 599.063l.931 5.001&quot; /&gt;
+&lt;/g&gt;
+
+&lt;g class=&quot;svg-anim-block&quot;&gt;
+        &lt;path fill=&quot;#dadada&quot; d=&quot;M554.786 598.625h9.563v4.938h-9.563z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M554.786 598.625h9.563v4.938h-9.563z&quot; /&gt;
+        &lt;path fill=&quot;#000&quot; d=&quot;M551.411 598.625h3.375v4.938h-3.375z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M551.411 598.625h3.375v4.938h-3.375z&quot; /&gt;
+        &lt;path fill=&quot;#dadada&quot; d=&quot;M548.599 598.5h49.5v.125h-49.5z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M548.599 598.5h49.5v.125h-49.5z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; d=&quot;M573.339 598.625l-.854 5.444M575.036 599.063l.932 5.001&quot; /&gt;
+&lt;/g&gt;
+
+&lt;g class=&quot;svg-anim-block&quot;&gt;
+        &lt;path fill=&quot;#dadada&quot; d=&quot;M669.571 598.625h9.563v4.938h-9.563z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M669.571 598.625h9.563v4.938h-9.563z&quot; /&gt;
+        &lt;path fill=&quot;#000&quot; d=&quot;M666.196 598.625h3.375v4.938h-3.375z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M666.196 598.625h3.375v4.938h-3.375z&quot; /&gt;
+        &lt;path fill=&quot;#dadada&quot; d=&quot;M663.384 598.5h49.5v.125h-49.5z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M663.384 598.5h49.5v.125h-49.5z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; d=&quot;M688.124 598.625l-.854 5.444M689.821 599.063l.931 5.001&quot; /&gt;
+&lt;/g&gt;
+
+&lt;g class=&quot;svg-anim-block&quot;&gt;
+        &lt;path fill=&quot;#dadada&quot; d=&quot;M789.623 598.625h9.563v4.938h-9.563z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M789.623 598.625h9.563v4.938h-9.563z&quot; /&gt;
+        &lt;path fill=&quot;#000&quot; d=&quot;M786.248 598.625h3.375v4.938h-3.375z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M786.248 598.625h3.375v4.938h-3.375z&quot; /&gt;
+        &lt;path fill=&quot;#dadada&quot; d=&quot;M783.436 598.5h49.5v.125h-49.5z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M783.436 598.5h49.5v.125h-49.5z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; d=&quot;M808.176 598.625l-.854 5.444M809.873 599.063l.932 5.001&quot; /&gt;
+&lt;/g&gt;
+
+&lt;g class=&quot;svg-anim-block&quot;&gt;
+        &lt;path fill=&quot;#dadada&quot; d=&quot;M909.676 598.625h9.563v4.938h-9.563z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M909.676 598.625h9.563v4.938h-9.563z&quot; /&gt;
+        &lt;path fill=&quot;#000&quot; d=&quot;M906.301 598.625h3.375v4.938h-3.375z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M906.301 598.625h3.375v4.938h-3.375z&quot; /&gt;
+        &lt;path fill=&quot;#dadada&quot; d=&quot;M903.488 598.5h49.5v.125h-49.5z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M903.488 598.5h49.5v.125h-49.5z&quot; /&gt;
+        &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; d=&quot;M928.228 598.625l-.853 5.444M929.926 599.063l.931 5.001&quot; /&gt;
+&lt;/g&gt;
+      &lt;/g&gt;
+&amp;lt;/g&amp;gt;
+
+&lt;!-- step 2 --&gt;
+&lt;g fill=&quot;none&quot;&gt;
+  &lt;g class=&quot;svg-anim-block&quot;&gt;&lt;!-- actor1&amp;2 --&gt;
+    &lt;circle cx=&quot;1048.291&quot; cy=&quot;606.646&quot; r=&quot;25.022&quot; fill=&quot;#aaa&quot; /&gt;
+    &lt;circle cx=&quot;1048.291&quot; cy=&quot;606.646&quot; r=&quot;25.022&quot; stroke=&quot;#aaa&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;path d=&quot;M1048.29 640.886v84.283l-31.605 84.283M1048.291 640.886l-42.142 63.213M1048.291 640.886l42.141 63.213M1048.291 725.169l31.606 84.283&quot; stroke=&quot;#aaa&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;15&quot; /&gt;
+    &lt;path d=&quot;M1095.7 771.262l-47.41-126.425-47.409 126.425z&quot; fill=&quot;#aaa&quot; /&gt;
+    &lt;circle cx=&quot;223.727&quot; cy=&quot;606.646&quot; r=&quot;25.022&quot; fill=&quot;#aaa&quot; /&gt;
+    &lt;path d=&quot;M223.727 640.886v84.283l-31.606 84.283M223.727 640.886l-42.141 63.213M223.727 640.886l42.142 63.213M223.727 725.169l31.606 84.283&quot; stroke=&quot;#aaa&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;15&quot; /&gt;
+    &lt;path fill=&quot;#dadada&quot; d=&quot;M205.165 598.625h9.563v4.938h-9.563z&quot; /&gt;
+    &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M205.165 598.625h9.563v4.938h-9.563z&quot; /&gt;
+    &lt;path fill=&quot;#000&quot; d=&quot;M201.79 598.625h3.375v4.938h-3.375z&quot; /&gt;
+    &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M201.79 598.625h3.375v4.938h-3.375z&quot; /&gt;
+    &lt;path fill=&quot;#dadada&quot; d=&quot;M198.977 598.5h49.5v.125h-49.5z&quot; /&gt;
+    &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M198.977 598.5h49.5v.125h-49.5z&quot; /&gt;
+    &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; d=&quot;M223.717 598.625l-.854 5.444M225.415 599.063l.931 5.001&quot; /&gt;
+    &lt;path fill=&quot;#dadada&quot; d=&quot;M1029.938 598.625h9.563v4.938h-9.563z&quot; /&gt;
+    &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M1029.938 598.625h9.563v4.938h-9.563z&quot; /&gt;
+    &lt;path fill=&quot;#000&quot; d=&quot;M1026.563 598.625h3.375v4.938h-3.375z&quot; /&gt;
+    &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M1026.563 598.625h3.375v4.938h-3.375z&quot; /&gt;
+    &lt;path fill=&quot;#dadada&quot; d=&quot;M1023.75 598.5h49.5v.125h-49.5z&quot; /&gt;
+    &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M1023.75 598.5h49.5v.125h-49.5z&quot; /&gt;
+    &lt;path stroke=&quot;#000&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.5&quot; d=&quot;M1048.49 598.625l-.854 5.444M1050.188 599.063l.931 5.001&quot; /&gt;
+  &lt;/g&gt;
+&lt;/g&gt;
+
+&lt;!-- step 2 --&gt;
+&lt;g fill=&quot;none&quot;&gt;
+  &lt;g class=&quot;svg-anim-path&quot;&gt;&lt;!-- video streams --&gt;
+    &lt;path d=&quot;M333.244 581.625V441H630V199.125H458.775&quot; marker-end=&quot;url(#a)&quot; stroke=&quot;#5efc8d&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;4&quot; /&gt;
+    &lt;path d=&quot;M453.296 581.625V441H630V199.125H458.775&quot; marker-end=&quot;url(#a)&quot; stroke=&quot;#5efc8d&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;4&quot; /&gt;
+    &lt;path d=&quot;M573.349 581.625V441H630V199.125H458.775M688.134 581.625V441H630V199.125h171.225&quot; marker-end=&quot;url(#a)&quot; stroke=&quot;#5efc8d&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;4&quot; /&gt;
+    &lt;path d=&quot;M808.186 581.625V441H630V199.125h171.225&quot; marker-end=&quot;url(#a)&quot; stroke=&quot;#5efc8d&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;4&quot; /&gt;
+    &lt;path d=&quot;M928.238 581.625V441H630V199.125h171.225&quot; marker-end=&quot;url(#a)&quot; stroke=&quot;#5efc8d&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;4&quot; /&gt;
+    &lt;path d=&quot;M223.727 581.625V441H630V199.125H458.775M1048.29 581.625V441H630V199.143h171.225&quot; marker-end=&quot;url(#b)&quot; stroke=&quot;#5efc8d&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;4&quot; /&gt;
+    &lt;path d=&quot;M223.727 581.625V441H630V199.125H458.775M1048.29 581.625V441H630V199.143h171.225&quot; marker-end=&quot;url(#b)&quot; stroke=&quot;#5efc8d&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;4&quot; /&gt;
+  &lt;/g&gt;
+
+  &lt;g class=&quot;svg-anim-block&quot;&gt;&lt;!-- witer's room --&gt;
+    &lt;path stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M75.375 72h364.5v254.25h-364.5z&quot; /&gt;
+    &lt;text transform=&quot;translate(80.375 77)&quot; fill=&quot;#fff&quot;&gt;
+        &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;20&quot; font-weight=&quot;bold&quot; x=&quot;93.93&quot; y=&quot;20&quot; textLength=&quot;166.64&quot;&gt;WRITERS’ ROOM&lt;/tspan&gt;
+      &lt;/text&gt;
+
+      &lt;circle cx=&quot;120.176&quot; cy=&quot;130.402&quot; r=&quot;7.23&quot; fill=&quot;#aaa&quot; /&gt;
+      &lt;circle cx=&quot;120.176&quot; cy=&quot;130.402&quot; r=&quot;7.23&quot; stroke=&quot;#aaa&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.289&quot; /&gt;
+      &lt;path d=&quot;M120.176 140.295v24.353L111.044 189M120.176 140.295L108 158.56M120.176 140.295l12.176 18.265M120.176 164.648L129.308 189&quot; stroke=&quot;#aaa&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;4.334&quot; /&gt;
+      &lt;circle cx=&quot;156.176&quot; cy=&quot;151.23&quot; r=&quot;7.23&quot; fill=&quot;#aaa&quot; /&gt;
+      &lt;circle cx=&quot;156.176&quot; cy=&quot;151.23&quot; r=&quot;7.23&quot; stroke=&quot;#aaa&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.289&quot; /&gt;
+      &lt;path d=&quot;M156.176 161.123v24.352l-9.132 24.352M156.176 161.123L144 179.387M156.176 161.123l12.176 18.264M156.176 185.475l9.132 24.352&quot; stroke=&quot;#aaa&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;4.334&quot; /&gt;
+      &lt;circle cx=&quot;131.824&quot; cy=&quot;214.23&quot; r=&quot;7.23&quot; fill=&quot;#aaa&quot; /&gt;
+      &lt;circle cx=&quot;131.824&quot; cy=&quot;214.23&quot; r=&quot;7.23&quot; stroke=&quot;#aaa&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.289&quot; /&gt;
+      &lt;path d=&quot;M131.824 224.123v24.352l-9.132 24.352M131.824 224.123l-12.176 18.264M131.824 224.123L144 242.387M131.824 248.475l9.132 24.352&quot; stroke=&quot;#aaa&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;4.334&quot; /&gt;
+    &lt;/g&gt;
+
+        &lt;g class=&quot;svg-anim-block&quot;&gt;&lt;!-- camop room --&gt;
+          &lt;path stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M820.125 72h364.5v254.25h-364.5z&quot; /&gt;
+          &lt;text transform=&quot;translate(825.125 77)&quot; fill=&quot;#fff&quot;&gt;
+              &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;20&quot; font-weight=&quot;bold&quot; x=&quot;31.5&quot; y=&quot;20&quot; textLength=&quot;163.32&quot;&gt;CAMERA OPERA&lt;/tspan&gt;
+              &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;20&quot; font-weight=&quot;bold&quot; x=&quot;192.98&quot; y=&quot;20&quot; textLength=&quot;130.02&quot;&gt;TORS’ ROOM&lt;/tspan&gt;
+          &lt;/text&gt;
+          &lt;path stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M828 117h63v36h-63z&quot; /&gt;
+          &lt;text transform=&quot;translate(833 125.776)&quot; fill=&quot;#fff&quot;&gt;
+              &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;500&quot; x=&quot;2.98&quot; y=&quot;15&quot; textLength=&quot;47.04&quot;&gt;● LIVE&lt;/tspan&gt;
+          &lt;/text&gt;
+          &lt;path stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M891 117h63v36h-63z&quot; /&gt;
+          &lt;text transform=&quot;translate(896 125.776)&quot; fill=&quot;#fff&quot;&gt;
+              &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;500&quot; x=&quot;2.98&quot; y=&quot;15&quot; textLength=&quot;47.04&quot;&gt;● LIVE&lt;/tspan&gt;
+          &lt;/text&gt;
+          &lt;path stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M954 117h63v36h-63z&quot; /&gt;
+          &lt;text transform=&quot;translate(959 125.776)&quot; fill=&quot;#fff&quot;&gt;
+              &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;500&quot; x=&quot;2.98&quot; y=&quot;15&quot; textLength=&quot;47.04&quot;&gt;● LIVE&lt;/tspan&gt;
+          &lt;/text&gt;
+          &lt;path stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M1017 117h63v36h-63z&quot; /&gt;
+          &lt;text transform=&quot;translate(1022 125.776)&quot; fill=&quot;#fff&quot;&gt;
+              &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;500&quot; x=&quot;2.98&quot; y=&quot;15&quot; textLength=&quot;47.04&quot;&gt;● LIVE&lt;/tspan&gt;
+          &lt;/text&gt;
+          &lt;path stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M828 153h63v36h-63z&quot; /&gt;
+          &lt;text transform=&quot;translate(833 161.776)&quot; fill=&quot;#fff&quot;&gt;
+              &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;500&quot; x=&quot;2.98&quot; y=&quot;15&quot; textLength=&quot;47.04&quot;&gt;● LIVE&lt;/tspan&gt;
+          &lt;/text&gt;
+          &lt;path stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M891 153h63v36h-63z&quot; /&gt;
+          &lt;text transform=&quot;translate(896 161.776)&quot; fill=&quot;#fff&quot;&gt;
+              &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;500&quot; x=&quot;2.98&quot; y=&quot;15&quot; textLength=&quot;47.04&quot;&gt;● LIVE&lt;/tspan&gt;
+          &lt;/text&gt;
+          &lt;path stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M954 153h63v36h-63z&quot; /&gt;
+          &lt;text transform=&quot;translate(959 161.776)&quot; fill=&quot;#fff&quot;&gt;
+              &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;500&quot; x=&quot;2.98&quot; y=&quot;15&quot; textLength=&quot;47.04&quot;&gt;● LIVE&lt;/tspan&gt;
+          &lt;/text&gt;
+          &lt;path stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M1017 153h63v36h-63z&quot; /&gt;
+          &lt;text transform=&quot;translate(1022 161.776)&quot; fill=&quot;#fff&quot;&gt;
+              &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;500&quot; x=&quot;2.98&quot; y=&quot;15&quot; textLength=&quot;47.04&quot;&gt;● LIVE&lt;/tspan&gt;
+          &lt;/text&gt;
+
+          &lt;circle cx=&quot;1155.176&quot; cy=&quot;136.575&quot; r=&quot;7.23&quot; fill=&quot;#aaa&quot; /&gt;
+          &lt;circle cx=&quot;1155.176&quot; cy=&quot;136.575&quot; r=&quot;7.23&quot; stroke=&quot;#aaa&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.289&quot; /&gt;
+          &lt;path d=&quot;M1155.176 146.468v24.352l9.132 24.353M1155.176 146.468l12.176 18.264M1155.176 146.468L1143 164.732M1155.176 170.82l-9.132 24.353&quot; stroke=&quot;#aaa&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;4.334&quot; /&gt;
+          &lt;circle cx=&quot;1119.176&quot; cy=&quot;157.402&quot; r=&quot;7.23&quot; fill=&quot;#aaa&quot; /&gt;
+          &lt;circle cx=&quot;1119.176&quot; cy=&quot;157.402&quot; r=&quot;7.23&quot; stroke=&quot;#aaa&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.289&quot; /&gt;
+          &lt;path d=&quot;M1119.176 167.295v24.353l9.132 24.352M1119.176 167.295l12.176 18.265M1119.176 167.295L1107 185.56M1119.176 191.648L1110.044 216&quot; stroke=&quot;#aaa&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;4.334&quot; /&gt;
+          &lt;circle cx=&quot;1143.528&quot; cy=&quot;220.402&quot; r=&quot;7.23&quot; fill=&quot;#aaa&quot; /&gt;
+          &lt;circle cx=&quot;1143.528&quot; cy=&quot;220.402&quot; r=&quot;7.23&quot; stroke=&quot;#aaa&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;.289&quot; /&gt;
+          &lt;path d=&quot;M1143.528 230.295v24.353l9.133 24.352M1143.528 230.295l12.177 18.265M1143.528 230.295l-12.176 18.265M1143.528 254.648L1134.396 279&quot; stroke=&quot;#aaa&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-width=&quot;4.334&quot; /&gt;
+        &lt;/g&gt;
+&lt;/g&gt;
+
+&lt;!-- step 3 --&gt;
+&lt;g fill=&quot;none&quot;&gt;
+  &lt;g class=&quot;svg-anim-block&quot;&gt;
+    &lt;path d=&quot;M243 234.9v-64.8c0-4.471 24.192-8.1 54-8.1s54 3.629 54 8.1v64.8c0 4.471-24.192 8.1-54 8.1s-54-3.629-54-8.1m0-64.8c0 4.471 24.192 8.1 54 8.1s54-3.629 54-8.1&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+    &lt;text transform=&quot;translate(248 188.102)&quot; fill=&quot;#fff&quot;&gt;
+      &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;500&quot; x=&quot;19.52&quot; y=&quot;15&quot; textLength=&quot;63.408&quot;&gt;ACTION &lt;/tspan&gt;
+      &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;16&quot; font-weight=&quot;500&quot; x=&quot;4.12&quot; y=&quot;33.448&quot; textLength=&quot;89.76&quot;&gt;“SNIPPETS”&lt;/tspan&gt;
+    &lt;/text&gt;
+  &lt;/g&gt;
+  &lt;g class=&quot;svg-anim-path&quot;&gt;&lt;!-- snippets go! --&gt;
+          &lt;path d=&quot;M312.689 242.652C323.29 274.461 336.349 323.994 342 387c6.672 74.4.976 144.854-3.832 185.075M321.199 242.142C343.802 280.928 378.012 344.215 405 414c26.614 68.817 38.683 124.503 44.077 157.983M331.734 241.1C363.365 277.463 412.153 336.489 459 405c49.81 72.844 82.525 134.62 99.736 169.925M342.45 239.274C385.893 275.467 454.573 335.328 522 405c72.519 74.931 121.273 138.15 146.308 172.894M351 233.618c59.502 35.41 159.115 97.947 252 171.382 95.948 75.857 154.824 139.71 183.635  174.169M351 223.575C426.714 254.347 569.063 316.65 693 396c120.207 76.962 185.099 145.634 214.726 182.388&quot; marker-end=&quot;url(#c)&quot; stroke=&quot;#e94f37&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; stroke-dasharray=&quot;4,4&quot; /&gt;
+        &lt;/g&gt;
+&lt;/g&gt;
+
+&lt;!-- step 4 --&gt;
+&lt;g fill=&quot;none&quot;&gt;
+  &lt;g class=&quot;svg-anim-path&quot;&gt;&lt;!-- yt live go! --&gt;
+          &lt;path d=&quot;M985.5 189v36h-27v18M859.5 189v36h99v18&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+          &lt;path d=&quot;M922.5 189v36h36v18M1048.5 189v36h-90v18&quot; stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; /&gt;
+        &lt;/g&gt;
+        &lt;g class=&quot;svg-anim-block&quot;&gt;
+          &lt;path stroke=&quot;#fff&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot; d=&quot;M892.5 243h132v72h-132z&quot; /&gt;
+          &lt;text transform=&quot;translate(897.5 252.384)&quot; fill=&quot;#fff&quot;&gt;
+            &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;22&quot; font-weight=&quot;500&quot; x=&quot;18.815&quot; y=&quot;21&quot; textLength=&quot;14.256&quot;&gt;Y&lt;/tspan&gt;
+            &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;22&quot; font-weight=&quot;500&quot; x=&quot;30.629&quot; y=&quot;21&quot; textLength=&quot;37.488&quot;&gt;ouT&lt;/tspan&gt;
+            &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;22&quot; font-weight=&quot;500&quot; x=&quot;66.093&quot; y=&quot;21&quot; textLength=&quot;37.092&quot;&gt;ube&lt;/tspan&gt;
+            &lt;tspan font-family=&quot;Helvetica Neue&quot; font-size=&quot;22&quot; font-weight=&quot;500&quot; x=&quot;41.035&quot; y=&quot;47.616&quot; textLength=&quot;39.93&quot;&gt;Live&lt;/tspan&gt;
+          &lt;/text&gt;
+        &lt;/g&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Audience is accompanied by two actors, also wearing Google Glass devices.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Each device streams live video feed to control rooms: &lt;strong&gt;writers’ room&lt;/strong&gt; and &lt;strong&gt;camera operators’ room&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;While writers monitor action development, they send &lt;em&gt;action “snippets”&lt;/em&gt; – plot points, action prompts, motivations, character thoughts and dialogues – back to devices.
+Currently active snippets are visible to them on the monitors in the room.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Simultaneously, camera operators perform cuts between video feeds and cameras installed in the space and stream live action to YouTube for online viewers.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Recordings of each run are available on the project’s &lt;a href=&quot;https://www.youtube.com/channel/UCwclyJlfQXG-VUMq52IjMcg&quot;&gt;YouTube channel page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Press coverage:&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://newsroom.ucla.edu/stories/an-eye-on-the-future-of-storytelling&quot;&gt;UCLA Newsroom&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.adafruit.com/2014/06/18/epic-class-uses-google-glass-for-storytelling-wearablewednesday/&quot;&gt;Google Glass for Storytelling by Adafruit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://streamdaily.tv/2014/09/05/film-schools-feeding-the-hunger-for-online-content/&quot;&gt;Stream Daily&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/grace-plains/1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/posts/grace-plains/2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/posts/grace-plains/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Writer’s room →&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/grace-plains/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Camera operators’ room →&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/grace-plains/5.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/posts/grace-plains/6.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/posts/grace-plains/7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The show was also streamed to the video wall of YouTube Space LA’s reception.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/grace-plains/8.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/posts/grace-plains/9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="google-glass" /><category term="distributed" /><category term="immersive-theater" /><category term="nonlinear-storytelling" /><category term="live-streaming" /><summary type="html">Grace Plains is an interactive immersive theater piece, where public audience is involved in live action role-playing. It is a result of students’ work in Location-Based and Audience-Aware Storytelling class at TFT UCLA, partially funded by Google’s “Future of Storytelling” multi-year research initiative. The show ran for open public for three consecutive days at YouTube Space LA.</summary></entry></feed>
