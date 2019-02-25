@@ -95,26 +95,26 @@
   </header>
 
   <article class="project-content">
-    <p>Entropy Bound is an interactive theatrical performance for humans, artificial intelligence and media.</p>
+    <p>Entropy Bound is an interactive theatrical performance uniting humans, artificial intelligence and media.</p>
 
 <blockquote>
   <p><em>“The holographic bound defines how much information can be contained in a specified region of space… The universal entropy bound defines how much information can be carried by a mass 𝓂 of diameter 𝑑.”</em><br />
 – Jacob D. Bekenstein, 1972</p>
 </blockquote>
 
-<p>A woman, not capable of forming long-term memories due to a brain injury, becomes an early adopter of an AI brain implant device.
-The story evolves around her trying to find a way to relate to and utilize the new technology inside her head, by training it and learning from it at the same time.</p>
+<p>A woman incapable of forming long-term memories due to a brain injury becomes an early adopter of an AI brain implant device.
+The story evolves around her trying to find a way to relate to, and utilize the new technology inside her head by training it, and learning from it at the same time.</p>
 
 <p><img src="/assets/posts/edge-accelerated-machine-learning/1.JPG" alt="" />
 <img src="/assets/posts/edge-accelerated-machine-learning/2.JPG" alt="" /></p>
 
-<p>Accompanied by her close ones, who have their own peculiarities, she tries to form new memories with the help of the implant, but inevitably starts to follow triggered associations and falls in a local minima of the old memories she does not remember.</p>
+<p>Accompanied by her family and friends, who have their own peculiarities, she tries to form new memories with the help of the implant, but inevitably starts to follow triggered associations and falls in a local minima of her unremembered memories.</p>
 
 <p><img src="/assets/posts/edge-accelerated-machine-learning/4.JPG" alt="" />
 <img src="/assets/posts/edge-accelerated-machine-learning/5.JPG" alt="" /></p>
 
-<p>Technological experiments were aimed to imagine how such a device might look like.
-A system prototype powering hypothetical brain implant was built during the workshop.</p>
+<p>Technological experiments aimed to imagine how such a device might look.
+A system prototype powering a hypothetical brain implant was built during the workshop.</p>
 
 <p><img src="/assets/posts/edge-accelerated-machine-learning/3.JPG" alt="" />
 <img src="/assets/posts/edge-accelerated-machine-learning/7.JPG" alt="" /></p>
@@ -321,13 +321,13 @@ A system prototype powering hypothetical brain implant was built during the work
 </div>
 
 <!-- step1 -->
-<p>Video is streamed to a number of real-time ML (Machine Learning) processors for recognizing objects, theatrical props and faces.
-Each processor produces semantic frame annotations, by specifying recognized entities, their position on the frame and recognition confidence levels.</p>
+<p>Video is streamed to a number of real-time ML (Machine Learning) processors with the goal of recognizing objects, theatrical props and faces.
+Each processor produces semantic frame annotations by specifying recognized entities, their position on the frame, and recognition confidence levels.</p>
 
 <p class="svg-scroll-step"></p>
 
 <!-- step2 -->
-<p>Based on these frame annotations, a <em>feature vector</em>, describing frame contents is built for the future frame comparisons.</p>
+<p>Based on these frame annotations, a <em>feature vector</em>, describing frame contents is built for future frame comparisons.</p>
 
 <p class="svg-scroll-step"></p>
 
@@ -339,13 +339,13 @@ The repo is designed in a way that any data stored there can be accessed at any 
 
 <!-- step4 -->
 <p>A “Scene Segmenter” module detects <em>scene changes</em> in the video stream in real-time, by utilizing semantic information from generated annotations.
-Scene segments stored in the repo, too.</p>
+Scene segments are stored in the repo as well.</p>
 
 <p class="svg-scroll-step"></p>
 
 <!-- step5 -->
-<p>Finally, a separate module, uses calculated feature vectors to query repo for the scenes, that are most closely resemble currently observed frame.
-Therefore, brain implant may ask its’ memory something, like <em>“give me 5 scenes from the past that look similar to what I’m seeing right now”</em>.</p>
+<p>Finally, a separate module uses calculated feature vectors to query the repo for the scenes that most closely resemble the current frame.
+Therefore, the brain implant may ask its memory something like <em>“give me 5 scenes from the past that look similar to what I’m seeing right now”</em>.</p>
 
 <p class="svg-scroll-step"></p>
 
@@ -354,19 +354,19 @@ Therefore, brain implant may ask its’ memory something, like <em>“give me 5 
 
 <p class="svg-scroll-step"></p>
 
-<p>When all components are live and operating, the live feed is being semantically annotated frame-by-frame, while being captured for storage and analyzed for scenes based on the semantic context.
-Scenes from the past (how far back we can go and comparison function are configurable), are continuously retrieved from the storage for presentation onstage and act as evoked memories (<em>associations</em>).
-In story words, brain implant triggers memories from the past that relate in some way to what is being currently observed.
-<br /><br />Each system component is a separate module: C++ or Python app, some of them (ML processors) are containerized using Docker.
-For communication and video streaming, we used <a href="https://named-data.net/">NDN</a> over Layer2, thus all machines were connected to the same LAN segment.</p>
+<p>When all components are live and operating, the live feed is being semantically annotated frame-by-frame, while being captured for storage, and analyzed for scenes based on the semantic context.
+Scenes from the past are continuously retrieved from the storage for presentation onstage and act as evoked memories (<em>associations</em>). How far back we can go, and the comparison function, are both configurable.
+In the words of the story, the brain implant triggers memories from the past that relate in some way to what is being currently observed.
+<br /><br />Each system component is a separate module: a C++ or a Python app, some of them (the ML processors) are containerized using Docker.
+For communication and video streaming, we used <a href="https://named-data.net/">NDN</a> over Layer2, thus all the machines were connected to the same LAN segment.</p>
 
 <p><img src="/assets/posts/edge-accelerated-machine-learning/11.JPG" alt="" />
 <img src="/assets/posts/edge-accelerated-machine-learning/8.JPG" alt="" /></p>
 
-<p>Video feed from wearable lipstick camera is fed over SDI to the <strong>Capture</strong> TouchDesigner machine, where it is compressed and published over NDN using <strong>NDN-RTC Out TOP</strong> built using <a href="https://github.com/remap/ndnrtc">NDN-RTC library</a> specifically for this workshop.
-<strong>Edge</strong> node and <strong>Repo</strong> machines are connected over NDN to the same LAN.
-Edge node runs three Dockerized ML processors – OpenFace, YOLO1 and YOLO2 for faces, objects and props recognition respectively.
-<strong>Scene Segmenter</strong> as well as <strong>Memory Trigger</strong> are running on the same machine.</p>
+<p>Video feed from the wearable lipstick camera is fed over SDI to the <strong>Capture</strong> TouchDesigner machine, where it is compressed and published over NDN using an <strong>NDN-RTC Out TOP</strong> built using <a href="https://github.com/remap/ndnrtc">NDN-RTC library</a> specifically for this workshop.
+The <strong>Edge</strong> node and <strong>Repo</strong> machines are connected over NDN to the same LAN.
+The Edge node runs three Dockerized ML processors – OpenFace, YOLO1 and YOLO2 for faces, objects, and props recognition respectively.
+The <strong>Scene Segmenter</strong> as well as the <strong>Memory Trigger</strong> are running on the same machine.</p>
 
 <div class="scrollable-svg">
 <svg version="1.1" viewBox="142 155 1310 593" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink">
@@ -1230,42 +1230,42 @@ Edge node runs three Dockerized ML processors – OpenFace, YOLO1 and YOLO2 for 
 </svg>
 </div>
 
-<p>Edge node and Repo fetch NDN-RTC stream from the Capture machine.
-Repo stores video frames and makes them available immediately for historical fetching.
-Frame annotations published over NDN by <strong>ann publisher</strong> module.
+<p>The Edge node and the Repo fetch the NDN-RTC stream from the Capture machine.
+The Repo stores video frames and makes them available immediately for historical fetching.
+Frame annotations are published over NDN by the <strong>ann publisher</strong> module.
 Annotations are fetched by the Repo, Scene Segmenter, Memory Trigger, as well as by other modules.</p>
 
 <p class="svg-scroll-step"></p>
 
-<p>Video stream is also consumed by <strong>Master</strong> and <strong>Viz</strong> machines.
-The former allows for real-time monitoring and control of the whole system: Edge node and Repo statuses, detected scenes and triggered memories.
-Viz machine performs compositing of the visuals (<strong>TRACE</strong>) that are being projected in space.</p>
+<p>The video stream is also consumed by the <strong>Master</strong> and <strong>Viz</strong> machines.
+The former allows for real-time monitoring and control of the whole system: the Edge node and Repo statuses, detected scenes and triggered memories.
+The Viz machine performs compositing of the visuals (<strong>TRACE</strong>) that are being projected in space.</p>
 
 <p class="svg-scroll-step"></p>
 
-<p>An additional <strong>Monitor</strong> machine is fetching ML annotations and detected scenes information.</p>
+<p>An additional <strong>Monitor</strong> machine is fetching ML annotations and detected scenes’ information.</p>
 
 <p class="svg-scroll-step"></p>
 
-<p>This data is then being sent over to the “debug” <strong>Info</strong> laptop, connected over WiFi.
-Info machine is connected to ceiling projector, this way it is always easy to monitor how the system performs by looking up at the projection.
-Master node also sends start and end frames for detected scene segments to the Info machine for display.</p>
+<p>This data is then being sent over WiFi to the “debug” <strong>Info</strong> laptop.
+The Info machine is outputting to a ceiling projection, in order that system performance may always be monitored by simply looking up at the sky.
+The Master node also sends start and end frames for detected scene segments to the Info machine for display.</p>
 
 <p class="svg-scroll-step"></p>
 
-<p>Projection system includes a 10K projector and two 4K projectors.
+<p>The projection system includes a 10K projector and two 4K projectors.
 Composited and rendered visuals are streamed over NDI from the Viz node to the projection machine.</p>
 
 <p class="svg-scroll-step"></p>
 
-<p>10K was projecting on the back wall, while two 4Ks covered left-stage and right-stage decorations (cubes).</p>
+<p>The 10K is focused to the upstage wall, while the two 4Ks cover two set pieces by the proscenium.</p>
 
 <p class="svg-scroll-step"></p>
 
-<p>The workshop allowed us to experiment and explore limits of the technologies used.
-Using NDN as main communication network turned out to be successful.
-Connection-less, data-centric nature of NDN allowed us to avoid many problems with low-latency data dissemination across multiple agents.
-Since every data packet has unique name, implementing Repo was rather straightforward (<a href="https://rocksdb.org/">RocksDB</a> as a backend storage).
+<p>The workshop allowed us to experiment with, and explore the limits of, the technologies used.
+Using NDN as the main communication network turned out to be successful.
+The connection-less, data-centric nature of NDN allowed us to avoid many problems with low-latency data dissemination across multiple agents.
+Since every data packet has a unique name, implementing the Repo was straightforward (<a href="https://rocksdb.org/">RocksDB</a> was used as a backend storage).
 <br />Some additional work needs to be done for ML part of the system, specifically scene detection and comparison.</p>
 
 <p class="svg-scroll-step"></p>

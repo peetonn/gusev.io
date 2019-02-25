@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2019-02-18T23:55:09-08:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">gusev.io</title><subtitle>Peter Gusev's (a.k.a. peetonn) site.&lt;br/&gt;Immersive interactive experiences.&lt;br/&gt;Real-time distributed systems.</subtitle><entry><title type="html">Entropy Bound</title><link href="http://0.0.0.0:4000/projects/2018/12/21/edge-accelerated-machine-learning.html" rel="alternate" type="text/html" title="Entropy Bound" /><published>2018-12-21T00:00:00-08:00</published><updated>2018-12-21T00:00:00-08:00</updated><id>http://0.0.0.0:4000/projects/2018/12/21/edge-accelerated-machine-learning</id><content type="html" xml:base="http://0.0.0.0:4000/projects/2018/12/21/edge-accelerated-machine-learning.html">&lt;p&gt;Entropy Bound is an interactive theatrical performance for humans, artificial intelligence and media.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2019-02-24T19:58:09-08:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">gusev.io</title><subtitle>Peter Gusev's (a.k.a. peetonn) site.&lt;br/&gt;Immersive interactive experiences.&lt;br/&gt;Real-time distributed systems.</subtitle><entry><title type="html">Entropy Bound</title><link href="http://0.0.0.0:4000/projects/2018/12/21/edge-accelerated-machine-learning.html" rel="alternate" type="text/html" title="Entropy Bound" /><published>2018-12-21T00:00:00-08:00</published><updated>2018-12-21T00:00:00-08:00</updated><id>http://0.0.0.0:4000/projects/2018/12/21/edge-accelerated-machine-learning</id><content type="html" xml:base="http://0.0.0.0:4000/projects/2018/12/21/edge-accelerated-machine-learning.html">&lt;p&gt;Entropy Bound is an interactive theatrical performance uniting humans, artificial intelligence and media.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;“The holographic bound defines how much information can be contained in a specified region of space… The universal entropy bound defines how much information can be carried by a mass 𝓂 of diameter 𝑑.”&lt;/em&gt;&lt;br /&gt;
 – Jacob D. Bekenstein, 1972&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;A woman, not capable of forming long-term memories due to a brain injury, becomes an early adopter of an AI brain implant device.
-The story evolves around her trying to find a way to relate to and utilize the new technology inside her head, by training it and learning from it at the same time.&lt;/p&gt;
+&lt;p&gt;A woman incapable of forming long-term memories due to a brain injury becomes an early adopter of an AI brain implant device.
+The story evolves around her trying to find a way to relate to, and utilize the new technology inside her head by training it, and learning from it at the same time.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/1.JPG&quot; alt=&quot;&quot; /&gt;
 &lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/2.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Accompanied by her close ones, who have their own peculiarities, she tries to form new memories with the help of the implant, but inevitably starts to follow triggered associations and falls in a local minima of the old memories she does not remember.&lt;/p&gt;
+&lt;p&gt;Accompanied by her family and friends, who have their own peculiarities, she tries to form new memories with the help of the implant, but inevitably starts to follow triggered associations and falls in a local minima of her unremembered memories.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/4.JPG&quot; alt=&quot;&quot; /&gt;
 &lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/5.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Technological experiments were aimed to imagine how such a device might look like.
-A system prototype powering hypothetical brain implant was built during the workshop.&lt;/p&gt;
+&lt;p&gt;Technological experiments aimed to imagine how such a device might look.
+A system prototype powering a hypothetical brain implant was built during the workshop.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/3.JPG&quot; alt=&quot;&quot; /&gt;
 &lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/7.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -224,13 +224,13 @@ A system prototype powering hypothetical brain implant was built during the work
 &lt;/div&gt;
 
 &lt;!-- step1 --&gt;
-&lt;p&gt;Video is streamed to a number of real-time ML (Machine Learning) processors for recognizing objects, theatrical props and faces.
-Each processor produces semantic frame annotations, by specifying recognized entities, their position on the frame and recognition confidence levels.&lt;/p&gt;
+&lt;p&gt;Video is streamed to a number of real-time ML (Machine Learning) processors with the goal of recognizing objects, theatrical props and faces.
+Each processor produces semantic frame annotations by specifying recognized entities, their position on the frame, and recognition confidence levels.&lt;/p&gt;
 
 &lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
 
 &lt;!-- step2 --&gt;
-&lt;p&gt;Based on these frame annotations, a &lt;em&gt;feature vector&lt;/em&gt;, describing frame contents is built for the future frame comparisons.&lt;/p&gt;
+&lt;p&gt;Based on these frame annotations, a &lt;em&gt;feature vector&lt;/em&gt;, describing frame contents is built for future frame comparisons.&lt;/p&gt;
 
 &lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
 
@@ -242,13 +242,13 @@ The repo is designed in a way that any data stored there can be accessed at any 
 
 &lt;!-- step4 --&gt;
 &lt;p&gt;A “Scene Segmenter” module detects &lt;em&gt;scene changes&lt;/em&gt; in the video stream in real-time, by utilizing semantic information from generated annotations.
-Scene segments stored in the repo, too.&lt;/p&gt;
+Scene segments are stored in the repo as well.&lt;/p&gt;
 
 &lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
 
 &lt;!-- step5 --&gt;
-&lt;p&gt;Finally, a separate module, uses calculated feature vectors to query repo for the scenes, that are most closely resemble currently observed frame.
-Therefore, brain implant may ask its’ memory something, like &lt;em&gt;“give me 5 scenes from the past that look similar to what I’m seeing right now”&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Finally, a separate module uses calculated feature vectors to query the repo for the scenes that most closely resemble the current frame.
+Therefore, the brain implant may ask its memory something like &lt;em&gt;“give me 5 scenes from the past that look similar to what I’m seeing right now”&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
 
@@ -257,19 +257,19 @@ Therefore, brain implant may ask its’ memory something, like &lt;em&gt;“give
 
 &lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;When all components are live and operating, the live feed is being semantically annotated frame-by-frame, while being captured for storage and analyzed for scenes based on the semantic context.
-Scenes from the past (how far back we can go and comparison function are configurable), are continuously retrieved from the storage for presentation onstage and act as evoked memories (&lt;em&gt;associations&lt;/em&gt;).
-In story words, brain implant triggers memories from the past that relate in some way to what is being currently observed.
-&lt;br /&gt;&lt;br /&gt;Each system component is a separate module: C++ or Python app, some of them (ML processors) are containerized using Docker.
-For communication and video streaming, we used &lt;a href=&quot;https://named-data.net/&quot;&gt;NDN&lt;/a&gt; over Layer2, thus all machines were connected to the same LAN segment.&lt;/p&gt;
+&lt;p&gt;When all components are live and operating, the live feed is being semantically annotated frame-by-frame, while being captured for storage, and analyzed for scenes based on the semantic context.
+Scenes from the past are continuously retrieved from the storage for presentation onstage and act as evoked memories (&lt;em&gt;associations&lt;/em&gt;). How far back we can go, and the comparison function, are both configurable.
+In the words of the story, the brain implant triggers memories from the past that relate in some way to what is being currently observed.
+&lt;br /&gt;&lt;br /&gt;Each system component is a separate module: a C++ or a Python app, some of them (the ML processors) are containerized using Docker.
+For communication and video streaming, we used &lt;a href=&quot;https://named-data.net/&quot;&gt;NDN&lt;/a&gt; over Layer2, thus all the machines were connected to the same LAN segment.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/11.JPG&quot; alt=&quot;&quot; /&gt;
 &lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/8.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Video feed from wearable lipstick camera is fed over SDI to the &lt;strong&gt;Capture&lt;/strong&gt; TouchDesigner machine, where it is compressed and published over NDN using &lt;strong&gt;NDN-RTC Out TOP&lt;/strong&gt; built using &lt;a href=&quot;https://github.com/remap/ndnrtc&quot;&gt;NDN-RTC library&lt;/a&gt; specifically for this workshop.
-&lt;strong&gt;Edge&lt;/strong&gt; node and &lt;strong&gt;Repo&lt;/strong&gt; machines are connected over NDN to the same LAN.
-Edge node runs three Dockerized ML processors – OpenFace, YOLO1 and YOLO2 for faces, objects and props recognition respectively.
-&lt;strong&gt;Scene Segmenter&lt;/strong&gt; as well as &lt;strong&gt;Memory Trigger&lt;/strong&gt; are running on the same machine.&lt;/p&gt;
+&lt;p&gt;Video feed from the wearable lipstick camera is fed over SDI to the &lt;strong&gt;Capture&lt;/strong&gt; TouchDesigner machine, where it is compressed and published over NDN using an &lt;strong&gt;NDN-RTC Out TOP&lt;/strong&gt; built using &lt;a href=&quot;https://github.com/remap/ndnrtc&quot;&gt;NDN-RTC library&lt;/a&gt; specifically for this workshop.
+The &lt;strong&gt;Edge&lt;/strong&gt; node and &lt;strong&gt;Repo&lt;/strong&gt; machines are connected over NDN to the same LAN.
+The Edge node runs three Dockerized ML processors – OpenFace, YOLO1 and YOLO2 for faces, objects, and props recognition respectively.
+The &lt;strong&gt;Scene Segmenter&lt;/strong&gt; as well as the &lt;strong&gt;Memory Trigger&lt;/strong&gt; are running on the same machine.&lt;/p&gt;
 
 &lt;div class=&quot;scrollable-svg&quot;&gt;
 &lt;svg version=&quot;1.1&quot; viewBox=&quot;142 155 1310 593&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot; xmlns:xl=&quot;http://www.w3.org/1999/xlink&quot;&gt;
@@ -1133,42 +1133,42 @@ Edge node runs three Dockerized ML processors – OpenFace, YOLO1 and YOLO2 for 
 &lt;/svg&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Edge node and Repo fetch NDN-RTC stream from the Capture machine.
-Repo stores video frames and makes them available immediately for historical fetching.
-Frame annotations published over NDN by &lt;strong&gt;ann publisher&lt;/strong&gt; module.
+&lt;p&gt;The Edge node and the Repo fetch the NDN-RTC stream from the Capture machine.
+The Repo stores video frames and makes them available immediately for historical fetching.
+Frame annotations are published over NDN by the &lt;strong&gt;ann publisher&lt;/strong&gt; module.
 Annotations are fetched by the Repo, Scene Segmenter, Memory Trigger, as well as by other modules.&lt;/p&gt;
 
 &lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Video stream is also consumed by &lt;strong&gt;Master&lt;/strong&gt; and &lt;strong&gt;Viz&lt;/strong&gt; machines.
-The former allows for real-time monitoring and control of the whole system: Edge node and Repo statuses, detected scenes and triggered memories.
-Viz machine performs compositing of the visuals (&lt;strong&gt;TRACE&lt;/strong&gt;) that are being projected in space.&lt;/p&gt;
+&lt;p&gt;The video stream is also consumed by the &lt;strong&gt;Master&lt;/strong&gt; and &lt;strong&gt;Viz&lt;/strong&gt; machines.
+The former allows for real-time monitoring and control of the whole system: the Edge node and Repo statuses, detected scenes and triggered memories.
+The Viz machine performs compositing of the visuals (&lt;strong&gt;TRACE&lt;/strong&gt;) that are being projected in space.&lt;/p&gt;
 
 &lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;An additional &lt;strong&gt;Monitor&lt;/strong&gt; machine is fetching ML annotations and detected scenes information.&lt;/p&gt;
+&lt;p&gt;An additional &lt;strong&gt;Monitor&lt;/strong&gt; machine is fetching ML annotations and detected scenes’ information.&lt;/p&gt;
 
 &lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;This data is then being sent over to the “debug” &lt;strong&gt;Info&lt;/strong&gt; laptop, connected over WiFi.
-Info machine is connected to ceiling projector, this way it is always easy to monitor how the system performs by looking up at the projection.
-Master node also sends start and end frames for detected scene segments to the Info machine for display.&lt;/p&gt;
+&lt;p&gt;This data is then being sent over WiFi to the “debug” &lt;strong&gt;Info&lt;/strong&gt; laptop.
+The Info machine is outputting to a ceiling projection, in order that system performance may always be monitored by simply looking up at the sky.
+The Master node also sends start and end frames for detected scene segments to the Info machine for display.&lt;/p&gt;
 
 &lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Projection system includes a 10K projector and two 4K projectors.
+&lt;p&gt;The projection system includes a 10K projector and two 4K projectors.
 Composited and rendered visuals are streamed over NDI from the Viz node to the projection machine.&lt;/p&gt;
 
 &lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;10K was projecting on the back wall, while two 4Ks covered left-stage and right-stage decorations (cubes).&lt;/p&gt;
+&lt;p&gt;The 10K is focused to the upstage wall, while the two 4Ks cover two set pieces by the proscenium.&lt;/p&gt;
 
 &lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;The workshop allowed us to experiment and explore limits of the technologies used.
-Using NDN as main communication network turned out to be successful.
-Connection-less, data-centric nature of NDN allowed us to avoid many problems with low-latency data dissemination across multiple agents.
-Since every data packet has unique name, implementing Repo was rather straightforward (&lt;a href=&quot;https://rocksdb.org/&quot;&gt;RocksDB&lt;/a&gt; as a backend storage).
+&lt;p&gt;The workshop allowed us to experiment with, and explore the limits of, the technologies used.
+Using NDN as the main communication network turned out to be successful.
+The connection-less, data-centric nature of NDN allowed us to avoid many problems with low-latency data dissemination across multiple agents.
+Since every data packet has a unique name, implementing the Repo was straightforward (&lt;a href=&quot;https://rocksdb.org/&quot;&gt;RocksDB&lt;/a&gt; was used as a backend storage).
 &lt;br /&gt;Some additional work needs to be done for ML part of the system, specifically scene detection and comparison.&lt;/p&gt;
 
 &lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
@@ -1179,7 +1179,7 @@ Since every data packet has unique name, implementing Repo was rather straightfo
 
 &lt;p&gt;Ceiling projection of the Info node →&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/9.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="future-internet" /><category term="machine-learning" /><category term="edge-computing" /><category term="immersive-theater" /><category term="workshop" /><summary type="html">Entropy Bound is an interactive theatrical performance for humans, artificial intelligence and media.</summary></entry><entry><title type="html">cheLA residence</title><link href="http://0.0.0.0:4000/2018/10/21/chela-residence.html" rel="alternate" type="text/html" title="cheLA residence" /><published>2018-10-21T03:00:00-07:00</published><updated>2018-10-21T03:00:00-07:00</updated><id>http://0.0.0.0:4000/2018/10/21/chela-residence</id><content type="html" xml:base="http://0.0.0.0:4000/2018/10/21/chela-residence.html">&lt;p&gt;In the beginning of March 2018 &lt;a href=&quot;http://www.remap.ucla.edu/&quot;&gt;REMAP&lt;/a&gt;, where I currently work, and a number of invited interactive media and visual artists moved down to &lt;a href=&quot;http://chela.org.ar/&quot;&gt;cheLA&lt;/a&gt;, Buenos Aires, for two weeks to organize a &lt;a href=&quot;http://chela.org.ar/archives/2172320&quot;&gt;workshop&lt;/a&gt; for local artists and conduct a series of experiments using &lt;a href=&quot;http://openptrack.org/&quot;&gt;OpenPTrack&lt;/a&gt; motion tracking system, computer vision and machine-learning techniques for a live performance. The theme of the workshop was “interactive spaces with memory”.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/posts/edge-accelerated-machine-learning/9.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="future-internet" /><category term="machine-learning" /><category term="edge-computing" /><category term="immersive-theater" /><category term="workshop" /><summary type="html">Entropy Bound is an interactive theatrical performance uniting humans, artificial intelligence and media.</summary></entry><entry><title type="html">cheLA residence</title><link href="http://0.0.0.0:4000/2018/10/21/chela-residence.html" rel="alternate" type="text/html" title="cheLA residence" /><published>2018-10-21T03:00:00-07:00</published><updated>2018-10-21T03:00:00-07:00</updated><id>http://0.0.0.0:4000/2018/10/21/chela-residence</id><content type="html" xml:base="http://0.0.0.0:4000/2018/10/21/chela-residence.html">&lt;p&gt;In the beginning of March 2018 &lt;a href=&quot;http://www.remap.ucla.edu/&quot;&gt;REMAP&lt;/a&gt;, where I currently work, and a number of invited interactive media and visual artists moved down to &lt;a href=&quot;http://chela.org.ar/&quot;&gt;cheLA&lt;/a&gt;, Buenos Aires, for two weeks to organize a &lt;a href=&quot;http://chela.org.ar/archives/2172320&quot;&gt;workshop&lt;/a&gt; for local artists and conduct a series of experiments using &lt;a href=&quot;http://openptrack.org/&quot;&gt;OpenPTrack&lt;/a&gt; motion tracking system, computer vision and machine-learning techniques for a live performance. The theme of the workshop was “interactive spaces with memory”.&lt;/p&gt;
 
 &lt;p&gt;A lot was built during these two weeks, which deserves a separate post I’ll write some time later, but I’m glad I had a chance to work back to back with artists, engineers and professionals. It was a valuable experience and I gained knowledge that helped me to understand better my relationship with the emerging world defined by intersection of technology, art and performance.
 Due to unforeseen reasons, I couldn’t return back to Los Angeles after the project was over and had to stay few more months in Buenos Aires. Looking back now, I can say that this unexpectedly turned out to be a very productive time for me to submerge deeper into art, meet local and international artists, as well as learn new skills and apply them in practice. cheLA staff were kind enough to allow me to continue my stay in the space and use it’s facilities for my experimentations.&lt;/p&gt;
@@ -1231,17 +1231,16 @@ Interface was implemented in such a way, so that anyone can add modules in plug-
 &lt;p&gt;&lt;img src=&quot;/assets/posts/chela-residence/main.png&quot; alt=&quot;linterna lights TouchDesigner UI&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Looking back now, unexpectedly extended stay at cheLA offered me an opportunity, at the right time and the right place. I seen all cycles of cheLA: full of people running projects, visitors attending workshops, art events and parties, art residencies and open studios, emptiness and silence. And it guided me through my own cycles of working, learning, thinking, absorbing community, reflecting back, re-thinking…
-I’ll be glad to come back to cheLA one day again, as an artist, collaborator or just a visitor.&lt;/p&gt;</content><author><name></name></author><category term="touchdesigner" /><category term="cheLA" /><category term="projection-mapping" /><summary type="html">In the beginning of March 2018 REMAP, where I currently work, and a number of invited interactive media and visual artists moved down to cheLA, Buenos Aires, for two weeks to organize a workshop for local artists and conduct a series of experiments using OpenPTrack motion tracking system, computer vision and machine-learning techniques for a live performance. The theme of the workshop was “interactive spaces with memory”.</summary></entry><entry><title type="html">Grace Plains</title><link href="http://0.0.0.0:4000/projects/2014/06/30/grace-plains.html" rel="alternate" type="text/html" title="Grace Plains" /><published>2014-06-30T00:00:00-07:00</published><updated>2014-06-30T00:00:00-07:00</updated><id>http://0.0.0.0:4000/projects/2014/06/30/grace-plains</id><content type="html" xml:base="http://0.0.0.0:4000/projects/2014/06/30/grace-plains.html">&lt;p&gt;Grace Plains is an interactive immersive theater piece, where public audience is involved in live action role-playing.
-It is a result of students’ work in &lt;em&gt;Location-Based and Audience-Aware Storytelling&lt;/em&gt; class at TFT UCLA, partially funded by Google’s “Future of Storytelling” multi-year research initiative.
-The show ran for open public for three consecutive days at YouTube Space LA.&lt;/p&gt;
+I’ll be glad to come back to cheLA one day again, as an artist, collaborator or just a visitor.&lt;/p&gt;</content><author><name></name></author><category term="touchdesigner" /><category term="cheLA" /><category term="projection-mapping" /><summary type="html">In the beginning of March 2018 REMAP, where I currently work, and a number of invited interactive media and visual artists moved down to cheLA, Buenos Aires, for two weeks to organize a workshop for local artists and conduct a series of experiments using OpenPTrack motion tracking system, computer vision and machine-learning techniques for a live performance. The theme of the workshop was “interactive spaces with memory”.</summary></entry><entry><title type="html">Grace Plains</title><link href="http://0.0.0.0:4000/projects/2014/06/30/grace-plains.html" rel="alternate" type="text/html" title="Grace Plains" /><published>2014-06-30T00:00:00-07:00</published><updated>2014-06-30T00:00:00-07:00</updated><id>http://0.0.0.0:4000/projects/2014/06/30/grace-plains</id><content type="html" xml:base="http://0.0.0.0:4000/projects/2014/06/30/grace-plains.html">&lt;p&gt;Grace Plains is an interactive immersive theater piece where a public audience is involved in live action role-playing.
+It was produced by the UCLA School of Theater, Film, and Television as part of a class on &lt;a href=&quot;https://remap.ucla.edu/location-based-and-audience-aware-storytelling/&quot;&gt;Location-Based and Audience-Aware Storytelling&lt;/a&gt;, and partially funded by Google’s “Future of Storytelling” multi-year research initiative.
+The show was open to the public for three consecutive days at YouTube Space LA.&lt;/p&gt;
 
 &lt;div id=&quot;embed_video&quot; class=&quot;h_video&quot;&gt;
   &lt;iframe src=&quot;https://www.youtube.com/embed/hZg9M_gC594&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;There are six audience members who are handed out a Google Glass device during the show onboarding.
-Each device is assiociated with one of the story characters.
-They are assigned to audience members randomly.&lt;/p&gt;
+&lt;p&gt;Six Google Glass devices are randomly assigned to six audience members during the show onboarding.
+Each device is associated with one of the story characters.&lt;/p&gt;
 
 &lt;div class=&quot;scrollable-svg&quot;&gt;
 &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;73 70 1114 756&quot;&gt;
@@ -1499,20 +1498,20 @@ They are assigned to audience members randomly.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;p&gt;Audience is accompanied by two actors, also wearing Google Glass devices.&lt;/p&gt;
+&lt;p&gt;Two actors, also wearing Google Glass devices, accompany the audience.&lt;/p&gt;
 
 &lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Each device streams live video feed to control rooms: &lt;strong&gt;writers’ room&lt;/strong&gt; and &lt;strong&gt;camera operators’ room&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Each device streams a live video feed to control rooms: the &lt;strong&gt;writers’ room&lt;/strong&gt; and the &lt;strong&gt;camera operators’ room&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;While writers monitor action development, they send &lt;em&gt;action “snippets”&lt;/em&gt; – plot points, action prompts, motivations, character thoughts and dialogues – back to devices.
-Currently active snippets are visible to them on the monitors in the room.&lt;/p&gt;
+&lt;p&gt;In the writers’ room, writers monitor action development, they send &lt;em&gt;action “snippets”&lt;/em&gt; – plot points, action prompts, motivations, character thoughts and dialogues – back to audience’s devices.
+Currently active snippets are visible to the writers on the monitors in the room.&lt;/p&gt;
 
 &lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Simultaneously, camera operators perform cuts between video feeds and cameras installed in the space and stream live action to YouTube for online viewers.&lt;/p&gt;
+&lt;p&gt;Simultaneously, in the camera operators’ room, camera operators perform live cuts between video feeds and cameras installed in the space, livestreaming the action to YouTube for online viewers.&lt;/p&gt;
 
 &lt;p class=&quot;svg-scroll-step&quot;&gt;&lt;/p&gt;
 
@@ -1544,4 +1543,4 @@ Currently active snippets are visible to them on the monitors in the room.&lt;/p
 &lt;p&gt;The show was also streamed to the video wall of YouTube Space LA’s reception.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/posts/grace-plains/8.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/assets/posts/grace-plains/9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="google-glass" /><category term="distributed" /><category term="immersive-theater" /><category term="nonlinear-storytelling" /><category term="live-streaming" /><summary type="html">Grace Plains is an interactive immersive theater piece, where public audience is involved in live action role-playing. It is a result of students’ work in Location-Based and Audience-Aware Storytelling class at TFT UCLA, partially funded by Google’s “Future of Storytelling” multi-year research initiative. The show ran for open public for three consecutive days at YouTube Space LA.</summary></entry></feed>
+&lt;img src=&quot;/assets/posts/grace-plains/9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="google-glass" /><category term="distributed" /><category term="immersive-theater" /><category term="nonlinear-storytelling" /><category term="live-streaming" /><summary type="html">Grace Plains is an interactive immersive theater piece where a public audience is involved in live action role-playing. It was produced by the UCLA School of Theater, Film, and Television as part of a class on Location-Based and Audience-Aware Storytelling, and partially funded by Google’s “Future of Storytelling” multi-year research initiative. The show was open to the public for three consecutive days at YouTube Space LA.</summary></entry></feed>
