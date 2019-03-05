@@ -5,11 +5,19 @@ var group = null;
 function setupPathAnimation(svgGroup, duration)
 {
   var allPaths = $(svgGroup).find('path');
+  var allLines = $(svgGroup).find('line');
+
+  if (allPaths.length == 0)
+    allPaths = allLines;
+  else
+    allPaths.add(allLines);
   // console.log('will animate '+allPaths.length+' paths');
 
   var pathsTween = [];
   allPaths.each(function(idx, p){
     var pLen = p.getTotalLength();
+    var originalDashArray = $(p).attr('stroke-dasharray') ? $(p).attr('stroke-dasharray') : '';
+    var originalDashOffset = $(p).attr('stroke-dashoffset') ? $(p).attr('stroke-dashoffset') : '';
 
     var tween = TweenMax.fromTo(p,duration,
       {
@@ -37,6 +45,9 @@ function setupPathAnimation(svgGroup, duration)
     // trigger at the end of path drawing
     tween.eventCallback('onComplete', function(){
       $(p).attr('marker-end',markerEnd);
+      // TODO: debug this
+      $(p).attr('stroke-dasharray',originalDashArray);
+      $(p).attr('stroke-dashoffset',originalDashOffset);
     });
     tween.eventCallback('onReverseComplete', function(){
       $(p).attr('marker-end','');
