@@ -1,0 +1,593 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="153 101 1124 547" width="1124pt" height="547pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <metadata> Produced by OmniGraffle 6.6.2. Hacked by peetonn ᕕ(⌐■-■)ᕗ</metadata>
+    <defs>
+        <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.99585" descent="-212.99744" font-weight="500">
+            <font-face-src>
+                <font-face-name name="HelveticaNeue" />
+            </font-face-src>
+        </font-face>
+        <font-face font-family="Helvetica Neue" font-size="10" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.99585" descent="-212.99744" font-weight="500">
+            <font-face-src>
+                <font-face-name name="HelveticaNeue" />
+            </font-face-src>
+        </font-face>
+        <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="white">
+            <g>
+                <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1" />
+            </g>
+        </marker>
+        <font-face font-family="Helvetica Neue" font-size="14" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.99585" descent="-212.99744" font-weight="500">
+            <font-face-src>
+                <font-face-name name="HelveticaNeue" />
+            </font-face-src>
+        </font-face>
+        <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#ea5037">
+            <g>
+                <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1" />
+            </g>
+        </marker>
+        <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#54ff7a">
+            <g>
+                <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1" />
+            </g>
+        </marker>
+        <g id="writer" fill="white">
+            <!-- writer by Nhor from the Noun Project -->
+            <path d="M39,21H34a2,2,0,0,0-2,2v4H31a1,1,0,0,0,0,2h1a2,2,0,0,0,2-2V23h5a1,1,0,0,0,0-2Z" />
+            <path d="M29,21H25a1,1,0,0,0,0,2h4a1,1,0,0,0,0-2Z" />
+            <path d="M33,35H31a1,1,0,0,0,0,2h2a1,1,0,0,0,0-2Z" />
+            <circle cx="27" cy="25" r="1" />
+            <circle cx="37" cy="25" r="1" />
+            <rect x="35" y="50" width="2" height="2" />
+            <rect x="35" y="54" width="2" height="2" />
+            <rect x="35" y="58" width="2" height="2" />
+            <path d="M43.289,36.509A12.1,12.1,0,0,0,46,28.891V28a4,4,0,0,0,0-8V15.311A8.492,8.492,0,0,0,39,2a8.4,8.4,0,0,0-4.559,1.331A6.454,6.454,0,0,0,30.5,2a6.534,6.534,0,0,0-5.906,3.788A6.494,6.494,0,0,0,18,16.968V20a4,4,0,0,0,0,8v.891a12.106,12.106,0,0,0,2.711,7.618A11.046,11.046,0,0,0,13,47V62h2V56h4v6h2V48H19v6H15V47a9.028,9.028,0,0,1,7.346-8.839,12.051,12.051,0,0,0,1.589,1.146l-.921,5.529a1,1,0,0,0,1.228,1.134l3.451-.863L31,48.414V62h2V48.414l3.307-3.307,3.451.863a1,1,0,0,0,1.228-1.134l-.921-5.529a11.986,11.986,0,0,0,1.589-1.146A9.027,9.027,0,0,1,49,47v7H45V48H43V62h2V56h4v6h2V47A11.045,11.045,0,0,0,43.289,36.509ZM42,18.443a8.5,8.5,0,0,0,2-1.085V21l-2-1.5ZM48,24a2,2,0,0,1-2,2V22A2,2,0,0,1,48,24ZM21.5,7a4.485,4.485,0,0,1,2.959,1.117A1,1,0,0,0,26.1,7.57a4.5,4.5,0,0,1,7.577-2.259A1,1,0,0,0,35,5.388,6.421,6.421,0,0,1,39,4a6.5,6.5,0,1,1-5.864,9.287,1,1,0,0,0-.9-.57.969.969,0,0,0-.316.052,4.516,4.516,0,0,1-4.375-.886,1,1,0,0,0-1.638.547A4.5,4.5,0,1,1,21.5,7Zm0,11c.169,0,.333-.024.5-.037V19.5L20,21V17.818A6.45,6.45,0,0,0,21.5,18ZM16,24a2,2,0,0,1,2-2v4A2,2,0,0,1,16,24Zm9.814,16.2A12.13,12.13,0,0,0,27,40.578V43.22l-1.763.44ZM32,46.586l-3-3V40.94c.368.034.737.06,1.109.06h3.782c.372,0,.741-.026,1.109-.06v2.646Zm6.763-2.926L37,43.22V40.578a12.13,12.13,0,0,0,1.186-.381ZM33.891,39H30.109A10.111,10.111,0,0,1,20,28.891V23.5l3.6-2.7A1,1,0,0,0,24,20V17.482a6.541,6.541,0,0,0,3.406-3.27,6.516,6.516,0,0,0,4.32.67A8.419,8.419,0,0,0,40,18.936V20a1,1,0,0,0,.4.8L44,23.5v5.391A10.111,10.111,0,0,1,33.891,39Z" />
+        </g>
+        <g id="dev" fill=white>
+            <!-- developer by Creative Stall from the Noun Project -->
+            <polygon points="58,49.8 56.9,50.9 59.3,53.2 56.9,55.6 58,56.7 61.5,53.2  " />
+            <polygon points="48.3,49.8 44.9,53.2 48.3,56.7 49.4,55.6 47,53.2 49.4,50.9  " />
+            <rect x="52.4" y="46.8" transform="matrix(-0.8962 -0.4436 0.4436 -0.8962 77.1895 124.5212)" width="1.5" height="12.8" />
+            <path d="M53.2,41.2c-0.9,0-1.7,0.1-2.6,0.3c-1.9-1.9-4.2-3.2-6.8-4c0.5-2.3,0.3-4.1-0.9-5.4c-1.5-1.7-4-2-5.7-1.9   c1.9-2.1,3.3-4.8,3.4-7.9c0.9-0.8,3.4-3,3.3-5.4c-0.1-2.4-1.7-2.5-2.1-2.5c0,0-0.1,0-0.1,0l0.4-3.6c0.2-4.3-1.7-5.9-3.1-6.5   C40.4,2.3,40,1,40,0.9l-0.3-0.9l-0.8,0.6c-0.9,0.6-1.8,0.9-2.7,0.9c-0.6,0-1-0.2-1-0.2c-2.7-1.2-8.4-1.5-8.7-1.5   c-5.9,0-7.7,3-8.1,4.2c-5,0.6-4.8,5.6-4.7,8c0,0.4,0,0.8,0,1.1c0,0.5,0,1,0.1,1.5c-0.7,0-2,0.4-2,2.5c-0.1,2.4,2.4,4.7,3.3,5.4   c0.1,2.9,1.4,5.5,3.2,7.6c-1.7,0-4.4,0.2-5.9,1.9c-1.1,1.3-1.4,3.1-0.8,5.5c-7,2.3-11.8,9-11.8,16.4v3.2h42   c1.6,4.7,6.1,8.1,11.3,8.1c6.6,0,12-5.4,12-12C65.2,46.6,59.8,41.2,53.2,41.2z M41.8,33.1c0.9,1,1,2.6,0.3,4.8   c-0.1,0.2-2.1,4.5-8.1,6.1c-0.4-1.1-1.2-2-2.3-2.5c0.9-0.5,1.6-1.1,2.2-1.8c2.3-2.7,2.4-6.4,2.4-7.9C37.7,31.6,40.5,31.6,41.8,33.1   z M33.6,48.4c0.7,0,1.2,0.6,1.2,1.2c0,0.7-0.6,1.2-1.2,1.2c-0.7,0-1.3-0.6-1.3-1.2C32.4,49,32.9,48.4,33.6,48.4z M27.4,41   c-2.1-0.2-3.8-1-4.9-2.3c-1.7-2-2-4.9-2.1-6.4c2.3,1.8,4.9,2.9,7.4,2.9c2.1,0,4.8-1,7.1-2.8c0,1.6-0.4,4.4-2.1,6.4   C31.7,40,30,40.8,27.9,41H27.4z M19,5.4l0.6,0l0.1-0.6c0,0,0.7-3.6,6.8-3.6c0.1,0,5.6,0.3,8.1,1.4c0.1,0,0.7,0.3,1.6,0.3   c0.7,0,1.4-0.1,2-0.4C38,2.9,37.6,3.4,37.1,4L36,5.2l1.6,0.1c0.1,0,3.3,0.3,3,5.3l-0.4,3.6l-1.7,0.7c-0.4-0.5-1-0.7-1.3-0.8   C36.4,14,35.6,14,34.6,14c-1.7,0-3.3,0.2-3.4,0.2c-1.3,0.2-2.2,0.6-2.6,1.4c0,0.1,0,0.1-0.1,0.2h-1.3c0-0.1,0-0.1-0.1-0.2   c-0.4-0.8-1.3-1.3-2.6-1.4c-0.1,0-1.7-0.2-3.4-0.2c-1,0-1.9,0.1-2.5,0.2c-0.3,0.1-0.9,0.3-1.3,0.8l-2-0.8c0-0.4-0.1-0.7-0.1-1   c0-0.3,0-0.7,0-1.2C15,8.6,15.2,5.6,19,5.4z M37.5,17.3L37.4,18c-0.3,1.8-0.4,2.1-1.3,2.3c0,0-1,0.2-2.2,0.2   c-1.3,0-2.2-0.3-2.7-0.7c-0.2-0.3-0.8-1.4-1.3-2.7c0,0-0.2-0.5,0-0.8c0.2-0.3,0.7-0.5,1.4-0.6c0,0,1.6-0.2,3.3-0.2   c0.9,0,1.7,0.1,2.2,0.2C36.9,15.6,37.8,15.8,37.5,17.3z M25.7,17.2c-0.5,1.3-1.1,2.4-1.3,2.6c-0.5,0.5-1.4,0.7-2.7,0.7   c-1.1,0-2.1-0.2-2.1-0.2c0,0,0,0,0,0c-0.9-0.3-1-0.6-1.3-2.4l-0.1-0.7c-0.2-1.4,0.5-1.6,0.7-1.7c0.5-0.1,1.3-0.2,2.2-0.2   c1.6,0,3.2,0.2,3.2,0.2c0.8,0.1,1.3,0.3,1.4,0.6C26,16.6,25.8,17.1,25.7,17.2z M16.6,21.8l-0.3-0.2c-0.9-0.7-3.1-2.7-3-4.4   c0-1.1,0.4-1.1,0.7-1.1c0.4,0,0.8-0.2,1-0.4l1.7,0.7c-0.1,0.4-0.1,0.8,0,1.3l0.1,0.7c0.3,1.8,0.5,3,2.4,3.6c0,0,1.2,0.2,2.5,0.2   c1.8,0,3.1-0.4,3.9-1.3l0.1-0.1c0-0.1,0.9-1.4,1.5-2.9c0,0,0.1-0.3,0.2-0.6h1.1c0.1,0.3,0.2,0.5,0.2,0.5c0.6,1.6,1.5,2.9,1.5,3   l0.1,0.1c0.8,0.8,2.1,1.3,3.9,1.3c1.3,0,2.4-0.2,2.5-0.3c1.9-0.6,2.1-1.7,2.4-3.5l0.1-0.7c0.1-0.5,0.1-0.9,0-1.3l1.6-0.6   c0.2,0.1,0.4,0.2,0.6,0.2l0.3,0c0.1,0,0.2,0,0.3,0c0.2,0,0.6,0,0.6,1.1c0,1.7-2.2,3.8-3,4.4l-0.3,0.2v0.4c0,3.3-1.8,6.4-4.2,8.5   l0,0l0,0c-2.2,1.9-4.9,3.1-7,3.1c-5,0-11.1-5.1-11.2-11.4L16.6,21.8z M13.6,33.1c1.3-1.5,4.1-1.5,5.4-1.4c0,1.6,0.1,5.3,2.4,7.9   c0.7,0.9,1.6,1.5,2.7,2c-0.9,0.6-1.6,1.5-2,2.5c-6.6-1.5-8.8-6.1-8.8-6.2C12.6,35.7,12.7,34.1,13.6,33.1z M22.6,50.2   c0.7,0,1.3,0.6,1.3,1.2c0,0.7-0.6,1.2-1.3,1.2c-0.7,0-1.3-0.6-1.3-1.2C21.4,50.7,21.9,50.2,22.6,50.2z M1.3,55.7v-1.7   c0-6.8,4.4-12.8,10.8-15c0.8,1.4,3.5,5.3,9.7,6.7v3.1c-1.2,0.3-2,1.4-2,2.6c0,1.5,1.2,2.7,2.8,2.7s2.8-1.2,2.8-2.7   c0-1.3-0.8-2.3-2-2.6v-3.3c0-1.7,1.3-3,3-3h1c0.1,0,0.2,0,0.3,0l0,0h0.1l0,0c0.1,0,0.2,0,0.3,0h1.9c1.7,0,3,1.3,3,3V47   c-1.2,0.3-2,1.4-2,2.6c0,1.5,1.2,2.7,2.7,2.7c1.5,0,2.7-1.2,2.7-2.7c0-1.3-0.8-2.3-2-2.6v-1.5c0,0,0,0,0,0c5.7-1.5,8.2-5.2,8.9-6.6   c2.1,0.6,4,1.7,5.6,3.1c-4.5,1.7-7.8,6.1-7.8,11.2c0,0.8,0.1,1.7,0.3,2.4H1.3z M53.2,63.7c-5.8,0-10.5-4.7-10.5-10.5   s4.7-10.5,10.5-10.5s10.5,4.7,10.5,10.5S59,63.7,53.2,63.7z" />
+        </g>
+        <g fill="white" id="crew">
+            <!-- writer by Nhor from the Noun Project -->
+            <circle cx="27" cy="25" r="1" />
+            <circle cx="37" cy="25" r="1" />
+            <path d="M41.305,37.431A13.952,13.952,0,0,0,45.949,28H46a4,4,0,0,0,0-8A13.989,13.989,0,0,0,39.36,8.113,7.459,7.459,0,0,0,38.631,6H42V4H37.088A7.472,7.472,0,0,0,26.912,4H22V6h3.369a7.459,7.459,0,0,0-.729,2.113A13.989,13.989,0,0,0,18,20a4,4,0,0,0,0,8h.051A13.952,13.952,0,0,0,22.7,37.431,13.054,13.054,0,0,0,13,50V62h2V56h2.066A8.825,8.825,0,0,0,19,60.38V62h2V60a1,1,0,0,0-.293-.707A6.608,6.608,0,0,1,19,55a6.715,6.715,0,0,1,1.707-4.293A1,1,0,0,0,21,50V48H19v1.62A8.825,8.825,0,0,0,17.066,54H15V50a11.051,11.051,0,0,1,7.152-10.3,9.992,9.992,0,0,0,19.7,0A11.051,11.051,0,0,1,49,50v4H46.934A8.825,8.825,0,0,0,45,49.62V48H43v2a1,1,0,0,0,.293.707A6.608,6.608,0,0,1,45,55a6.715,6.715,0,0,1-1.707,4.293A1,1,0,0,0,43,60v2h2V60.38A8.825,8.825,0,0,0,46.934,56H49v6h2V50A13.054,13.054,0,0,0,41.305,37.431Zm1.134-14.683A4.982,4.982,0,0,0,33.1,24H30.9a4.982,4.982,0,0,0-9.338-1.252L20,20.667v-.673l2.1-.014a.918.918,0,0,0,.189-.019,7.08,7.08,0,0,0,4.717-3.345A7,7,0,0,0,33,20h1a1,1,0,0,0,1-1V17.9A6.98,6.98,0,0,0,40,20h4v.667ZM41,25a3,3,0,1,1-3-3A3,3,0,0,1,41,25ZM29,25a3,3,0,1,1-3-3A3,3,0,0,1,29,25Zm19-1a2,2,0,0,1-2,2V22A2,2,0,0,1,48,24ZM27.174,6.865a5.5,5.5,0,0,1,9.652,0c-.07-.026-.143-.043-.214-.068-.263-.092-.527-.178-.8-.255-.158-.045-.316-.083-.476-.123-.249-.061-.5-.122-.753-.17-.218-.041-.437-.069-.656-.1-.2-.028-.405-.063-.612-.082C32.88,6.025,32.441,6,32,6s-.88.025-1.318.067c-.207.019-.408.054-.612.082-.219.031-.438.059-.656.1-.254.048-.5.109-.753.17-.16.04-.318.078-.476.123-.27.077-.534.163-.8.255C27.317,6.822,27.244,6.839,27.174,6.865Zm-1.1,2.712A11.987,11.987,0,0,1,43.819,18H40a5.006,5.006,0,0,1-5-5,1,1,0,0,0-2,0v5a5.006,5.006,0,0,1-5-5,1,1,0,0,0-2,0,5.1,5.1,0,0,1-4.01,4.981l-1.808.012A12.016,12.016,0,0,1,26.077,9.577ZM16,24a2,2,0,0,1,2-2v4A2,2,0,0,1,16,24Zm4,3V24l1.039,1.386A4.986,4.986,0,0,0,30.9,26h2.2a4.986,4.986,0,0,0,9.86-.615L44,24v3a12,12,0,0,1-24,0ZM32,46a7.974,7.974,0,0,1-7.914-6.832c.276-.048.557-.08.84-.107a13.873,13.873,0,0,0,14.148,0c.283.027.564.059.84.107A7.974,7.974,0,0,1,32,46Z" />
+            <path d="M31,37h2a1,1,0,0,0,0-2H31a1,1,0,0,0,0,2Z" />
+        </g>
+    </defs>
+    <!-- step initial -->
+    <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+        <g class="svg-anim-block"><!-- writer -->
+            <text transform="translate(180.5 174.776)" fill="white">
+                <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="white" x=".428" y="15" textLength="76.144">AUTHORS</tspan>
+            </text>
+            <use xlink:href="#writer" transform="translate(185 105)" />
+        </g>
+        <g class="svg-anim-block"><!-- developer -->
+            <text transform="translate(167 409.401)" fill="white">
+                <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="white" x=".44" y="15" textLength="103.12">DEVELOPERS</tspan>
+            </text>
+            <use xlink:href="#dev" transform="translate(185 340)" />
+        </g>
+    </g>
+    <!-- step - active script -->
+    <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+        <g class="avg-anim-block"><!-- active script -->
+            <path d="M 504 197.262 C 504 180.2106 502.1712 178.101 488.81232 161.226 L 488.6712 161.0514 C 475.24176 144 475.10208 144 461.31984 144 C 442.96848 144 360 144 360 144 L 360 324 L 504 324 L 504 197.262 Z M 504 196.3836 C 504 180.2106 503.85888 180.2106 475.10208 180.2106 L 475.10208 180.2106 C 475.10208 144.1764 475.10208 144 462.16368 144" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <text transform="translate(380 149)" fill="white">
+                <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="white" x="24.6" y="15" textLength="59.248">ACTIVE </tspan>
+                <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="white" x="23.712" y="33.447998" textLength="56.576">SCRIPT</tspan>
+            </text>
+        </g>
+        <g class="avg-anim-path">
+            <line x1="245.66129" y1="152.74376" x2="370.76411" y2="212.54134" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" />
+        </g>
+        <g class="avg-anim-path">
+            <line x1="378" y1="207" x2="486" y2="207" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="avg-anim-path">
+            <line x1="378" y1="216" x2="486" y2="216" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="avg-anim-path">
+            <line x1="378" y1="225" x2="486" y2="225" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="avg-anim-path">
+            <line x1="378" y1="234" x2="450" y2="234" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <line x1="245.66129" y1="362.17037" x2="474.23374" y2="255.39438" marker-end="url(#FilledArrow_Marker_2)" stroke="#ea5037" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" />
+        </g>
+        <g class="avg-anim-block">
+            <rect x="468" y="234" width="54" height="18" fill="black" />
+            <rect x="468" y="234" width="54" height="18" stroke="#ea5037" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <text transform="translate(473 234.804)" fill="white">
+                <tspan font-family="Helvetica Neue" font-size="14" font-weight="500" fill="white" x="13.831" y="13" textLength="16.338">JS</tspan>
+            </text>
+        </g>
+        <g class="avg-anim-path">
+            <line x1="378" y1="243" x2="450" y2="243" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="avg-anim-path">
+            <line x1="378" y1="251" x2="450" y2="251" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <line x1="245.66129" y1="355.94745" x2="348.93146" y2="283.60159" marker-end="url(#FilledArrow_Marker_2)" stroke="#ea5037" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" />
+        </g>
+
+        <g class="avg-anim-block">
+            <rect x="342" y="261" width="54" height="18" fill="black" />
+            <rect x="342" y="261" width="54" height="18" stroke="#ea5037" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <text transform="translate(347 261.804)" fill="white">
+                <tspan font-family="Helvetica Neue" font-size="14" font-weight="500" fill="white" x="13.831" y="13" textLength="16.338">JS</tspan>
+            </text>
+        </g>
+        <g class="avg-anim-path">
+            <line x1="414" y1="261" x2="486" y2="261" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="avg-anim-path">
+            <line x1="414" y1="269.5" x2="486" y2="269.5" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="avg-anim-path">
+            <line x1="414" y1="278" x2="486" y2="278" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="avg-anim-path">
+            <line x1="378" y1="288" x2="450" y2="288" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <line x1="245.66129" y1="365.51437" x2="450.93772" y2="295.36782" marker-end="url(#FilledArrow_Marker_2)" stroke="#ea5037" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" />
+        </g>
+        <g class="avg-anim-block">
+            <rect x="459" y="288" width="54" height="18" fill="black" />
+            <rect x="459" y="288" width="54" height="18" stroke="#ea5037" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <text transform="translate(464 288.804)" fill="white">
+                <tspan font-family="Helvetica Neue" font-size="14" font-weight="500" fill="white" x="13.831" y="13" textLength="16.338">JS</tspan>
+            </text>
+        </g>
+        <g class="avg-anim-path">
+            <line x1="378" y1="297" x2="450" y2="297" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="avg-anim-path">
+            <line x1="378" y1="305" x2="450" y2="305" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+    </g>
+    <!-- step html page -->
+    <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+        <!-- <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1"> -->
+            <g class="svg-anim-path">
+                <line x1="245.66129" y1="374.625" x2="366.98" y2="374.625" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" />
+            </g>
+            <g class="svg-anim-block">
+                <rect x="375" y="356.625" width="114" height="36" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+                <text transform="translate(380 365.401)" fill="white">
+                    <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="white" x="8.088" y="15" textLength="53.632">FOUNT</tspan>
+                    <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="white" x="60.248" y="15" textLength="35.664">AIN+</tspan>
+                </text>
+            </g>
+        <!-- </g> -->
+        <g class="svg-anim-path">
+            <path d="M 432 324 L 432 335.9 L 432 344.725 L 432 346.725" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="svg-anim-path">
+            <path d="M 432 392.625 L 432 404.525 L 432 413.35 L 432 415.35" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="svg-anim-block"><!-- html doc -->
+            <path d="M 360 425.25 L 504 425.25 L 504 605.25 L 360 605.25 Z M 374.4 425.25 L 374.4 605.25 M 489.6 605.25 L 489.6 425.25" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <text transform="translate(394.4 430.25)" fill="white">
+                <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="white" x="15.816" y="15" textLength="43.568">HTML</tspan>
+            </text>
+        </g>
+        <g class="svg-anim-path">
+            <line x1="387" y1="461.25" x2="477" y2="461.25" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="svg-anim-path">
+            <line x1="387" y1="470.25" x2="477" y2="470.25" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="svg-anim-path">
+            <line x1="387" y1="479.25" x2="477" y2="479.25" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="svg-anim-block">
+            <text transform="translate(387 491.11)" fill="white">
+                <tspan font-family="Helvetica Neue" font-size="10" font-weight="500" fill="white" x="0" y="10" textLength="13.16">Q0</tspan>
+            </text>
+            <text transform="translate(405 491.11)" fill="#54ff7a">
+                <tspan font-family="Helvetica Neue" font-size="10" font-weight="500" fill="#54ff7a" x="4.315" y="10" textLength="12.22">ST</tspan>
+                <tspan font-family="Helvetica Neue" font-size="10" font-weight="500" fill="#54ff7a" x="15.615" y="10" textLength="34.07">ANDBY</tspan>
+            </text>
+            <text transform="translate(459 491.11)" fill="#54ff7a">
+                <tspan font-family="Helvetica Neue" font-size="10" font-weight="500" fill="#54ff7a" x="1.405" y="10" textLength="15.19">GO</tspan>
+            </text>
+        </g>
+        <g class="svg-anim-path">
+            <line x1="387" y1="515.25" x2="477" y2="515.25" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="svg-anim-path">
+            <line x1="387" y1="524.25" x2="477" y2="524.25" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="svg-anim-block">
+            <text transform="translate(387 536.11)" fill="white">
+                <tspan font-family="Helvetica Neue" font-size="10" font-weight="500" fill="white" x="0" y="10" textLength="13.16">Q1</tspan>
+            </text>
+
+            <text transform="translate(405 536.11)" fill="#54ff7a">
+                <tspan font-family="Helvetica Neue" font-size="10" font-weight="500" fill="#54ff7a" x="4.315" y="10" textLength="12.22">ST</tspan>
+                <tspan font-family="Helvetica Neue" font-size="10" font-weight="500" fill="#54ff7a" x="15.615" y="10" textLength="34.07">ANDBY</tspan>
+            </text>
+            <text transform="translate(459 536.11)" fill="#54ff7a">
+                <tspan font-family="Helvetica Neue" font-size="10" font-weight="500" fill="#54ff7a" x="1.405" y="10" textLength="15.19">GO</tspan>
+            </text>
+        </g>
+        <g class="svg-anim-path">
+            <line x1="387" y1="559.75" x2="477" y2="559.75" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="svg-anim-block">
+            <text transform="translate(387 572.11)" fill="white">
+                <tspan font-family="Helvetica Neue" font-size="10" font-weight="500" fill="white" x="0" y="10" textLength="13.16">Q2</tspan>
+            </text>
+            <text transform="translate(405 572.11)" fill="#54ff7a">
+                <tspan font-family="Helvetica Neue" font-size="10" font-weight="500" fill="#54ff7a" x="4.315" y="10" textLength="12.22">ST</tspan>
+                <tspan font-family="Helvetica Neue" font-size="10" font-weight="500" fill="#54ff7a" x="15.615" y="10" textLength="34.07">ANDBY</tspan>
+            </text>
+            <text transform="translate(459 572.11)" fill="#54ff7a">
+                <tspan font-family="Helvetica Neue" font-size="10" font-weight="500" fill="#54ff7a" x="1.405" y="10" textLength="15.19">GO</tspan>
+            </text>
+        </g>
+    </g>
+    <!-- step crew -->
+    <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+        <g class="svg-anim-block"><!-- crew -->
+            <text transform="translate(188 614.026)" fill="white">
+                <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="white" x=".448" y="15" textLength="47.104">CREW</tspan>
+            </text>
+            <use xlink:href="#crew"  transform="translate(180 540)" />
+        </g>
+        <g class="svg-anim-path">
+            <line x1="243.32258" y1="567.34587" x2="350.96016" y2="519.28624" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="svg-anim-path">
+            <line x1="488.7856" y1="425.25" x2="589.46723" y2="265.67883" marker-end="url(#FilledArrow_Marker_3)" stroke="#54ff7a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <!-- laptops -->
+        <g class="svg-anim-block">
+            <path d="M 615.31744 238.99569 L 651.1544 238.99569 L 656.92475 253.57343 L 609.24338 253.57343 Z" fill="white" />
+            <path d="M 615.31744 238.99569 L 651.1544 238.99569 L 656.92475 253.57343 L 609.24338 253.57343 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5" />
+            <rect x="615.01374" y="214.69945" width="35.836952" height="22.474021" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.0947067" />
+            <rect x="616.58287" y="240.2105" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="616.58287" y="240.2105" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="620.8347" y="240.2105" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="620.8347" y="240.2105" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="625.08655" y="240.2105" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="625.08655" y="240.2105" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="629.54086" y="240.2105" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="629.54086" y="240.2105" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="633.7927" y="240.2105" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="633.7927" y="240.2105" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="638.04455" y="240.2105" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="638.04455" y="240.2105" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="642.2964" y="240.2105" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="642.2964" y="240.2105" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="646.54823" y="240.2105" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="646.54823" y="240.2105" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="615.1656" y="243.55124" width="3.297879" height=".8054631" fill="black" />
+            <rect x="615.1656" y="243.55124" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="619.78262" y="243.55124" width="3.297879" height=".8054631" fill="black" />
+            <rect x="619.78262" y="243.55124" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="624.39965" y="243.55124" width="3.297879" height=".8054631" fill="black" />
+            <rect x="624.39965" y="243.55124" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="629.23654" y="243.55124" width="3.297879" height=".8054631" fill="black" />
+            <rect x="629.23654" y="243.55124" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="633.85357" y="243.55124" width="3.297879" height=".8054631" fill="black" />
+            <rect x="633.85357" y="243.55124" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="638.4706" y="243.55124" width="3.297879" height=".8054631" fill="black" />
+            <rect x="638.4706" y="243.55124" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="643.08763" y="243.55124" width="3.297879" height=".8054631" fill="black" />
+            <rect x="643.08763" y="243.55124" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="647.70466" y="243.55124" width="3.297879" height=".8054631" fill="black" />
+            <rect x="647.70466" y="243.55124" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="613.58064" y="246.89197" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="613.58064" y="246.89197" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="618.60606" y="246.89197" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="618.60606" y="246.89197" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="623.6315" y="246.89197" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="623.6315" y="246.89197" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="628.8962" y="246.89197" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="628.8962" y="246.89197" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="633.92164" y="246.89197" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="633.92164" y="246.89197" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="638.94706" y="246.89197" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="638.94706" y="246.89197" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="643.9725" y="246.89197" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="643.9725" y="246.89197" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="648.9979" y="246.89197" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="648.9979" y="246.89197" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="626.04323" y="250.2327" width="13.970337" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <rect x="612.0729" y="250.2327" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="612.0729" y="250.2327" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="617.09832" y="250.2327" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="617.09832" y="250.2327" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="645.48023" y="250.2327" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="645.48023" y="250.2327" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="650.50565" y="250.2327" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="650.50565" y="250.2327" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <path d="M 668.0675 226.38337 L 711.6139 226.38337 C 712.75572 226.38337 713.68137 227.30902 713.68137 228.45086 L 713.68137 239.82203 C 713.68137 240.96387 712.75572 241.88951 711.6139 241.88951 L 668.0675 241.88951 C 666.92564 241.88951 666 240.96387 666 239.82203 L 666 228.45086 C 666 227.30902 666.92564 226.38337 668.0675 226.38337 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".82699393" />
+            <circle cx="689.8407" cy="234.13644" r="6.2024644" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".82699393" />
+            <circle cx="689.8407" cy="234.13644" r="4.2645216" fill="white" />
+            <circle cx="689.8407" cy="234.13644" r="4.2645216" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".82699393" />
+            <path d="M 668.9886 231.40114 L 676.0107 231.40114 C 676.38384 231.40114 676.6863 231.70362 676.6863 232.07674 L 676.6863 232.07674 C 676.6863 232.44986 676.38384 232.75233 676.0107 232.75233 L 668.9886 232.75233 C 668.61547 232.75233 668.313 232.44986 668.313 232.07674 L 668.313 232.07674 C 668.313 231.70362 668.61547 231.40114 668.9886 231.40114 Z" fill="white" />
+            <path d="M 668.9886 233.46085 L 676.0107 233.46085 C 676.38384 233.46085 676.6863 233.76332 676.6863 234.13644 L 676.6863 234.13644 C 676.6863 234.50956 676.38384 234.81204 676.0107 234.81204 L 668.9886 234.81204 C 668.61547 234.81204 668.313 234.50956 668.313 234.13644 L 668.313 234.13644 C 668.313 233.76332 668.61547 233.46085 668.9886 233.46085 Z" fill="white" />
+            <path d="M 668.9886 235.52056 L 676.0107 235.52056 C 676.38384 235.52056 676.6863 235.82303 676.6863 236.19615 L 676.6863 236.19615 C 676.6863 236.56927 676.38384 236.87174 676.0107 236.87174 L 668.9886 236.87174 C 668.61547 236.87174 668.313 236.56927 668.313 236.19615 L 668.313 236.19615 C 668.313 235.82303 668.61547 235.52056 668.9886 235.52056 Z" fill="white" />
+        </g>
+        <g class="svg-anim-path">
+            <line x1="504" y1="444.47336" x2="587.68992" y2="362.20543" marker-end="url(#FilledArrow_Marker_3)" stroke="#54ff7a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="svg-anim-block">
+            <path d="M 615.31744 344.39791 L 651.1544 344.39791 L 656.92475 358.97565 L 609.24338 358.97565 Z" fill="white" />
+            <path d="M 615.31744 344.39791 L 651.1544 344.39791 L 656.92475 358.97565 L 609.24338 358.97565 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5" />
+            <rect x="615.01374" y="320.10167" width="35.836952" height="22.474021" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.0947067" />
+            <rect x="616.58287" y="345.61272" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="616.58287" y="345.61272" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="620.8347" y="345.61272" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="620.8347" y="345.61272" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="625.08655" y="345.61272" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="625.08655" y="345.61272" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="629.54086" y="345.61272" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="629.54086" y="345.61272" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="633.7927" y="345.61272" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="633.7927" y="345.61272" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="638.04455" y="345.61272" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="638.04455" y="345.61272" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="642.2964" y="345.61272" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="642.2964" y="345.61272" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="646.54823" y="345.61272" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="646.54823" y="345.61272" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="615.1656" y="348.95346" width="3.297879" height=".8054631" fill="black" />
+            <rect x="615.1656" y="348.95346" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="619.78262" y="348.95346" width="3.297879" height=".8054631" fill="black" />
+            <rect x="619.78262" y="348.95346" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="624.39965" y="348.95346" width="3.297879" height=".8054631" fill="black" />
+            <rect x="624.39965" y="348.95346" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="629.23654" y="348.95346" width="3.297879" height=".8054631" fill="black" />
+            <rect x="629.23654" y="348.95346" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="633.85357" y="348.95346" width="3.297879" height=".8054631" fill="black" />
+            <rect x="633.85357" y="348.95346" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="638.4706" y="348.95346" width="3.297879" height=".8054631" fill="black" />
+            <rect x="638.4706" y="348.95346" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="643.08763" y="348.95346" width="3.297879" height=".8054631" fill="black" />
+            <rect x="643.08763" y="348.95346" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="647.70466" y="348.95346" width="3.297879" height=".8054631" fill="black" />
+            <rect x="647.70466" y="348.95346" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="613.58064" y="352.29419" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="613.58064" y="352.29419" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="618.60606" y="352.29419" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="618.60606" y="352.29419" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="623.6315" y="352.29419" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="623.6315" y="352.29419" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="628.8962" y="352.29419" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="628.8962" y="352.29419" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="633.92164" y="352.29419" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="633.92164" y="352.29419" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="638.94706" y="352.29419" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="638.94706" y="352.29419" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="643.9725" y="352.29419" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="643.9725" y="352.29419" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="648.9979" y="352.29419" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="648.9979" y="352.29419" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="626.04323" y="355.63492" width="13.970337" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <rect x="612.0729" y="355.63492" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="612.0729" y="355.63492" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="617.09832" y="355.63492" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="617.09832" y="355.63492" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="645.48023" y="355.63492" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="645.48023" y="355.63492" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="650.50565" y="355.63492" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="650.50565" y="355.63492" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <path d="M 668.0675 331.7856 L 711.6139 331.7856 C 712.75572 331.7856 713.68137 332.71124 713.68137 333.85308 L 713.68137 345.22425 C 713.68137 346.36609 712.75572 347.29173 711.6139 347.29173 L 668.0675 347.29173 C 666.92564 347.29173 666 346.36609 666 345.22425 L 666 333.85308 C 666 332.71124 666.92564 331.7856 668.0675 331.7856 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".82699393" />
+            <circle cx="689.8407" cy="339.53866" r="6.2024644" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".82699393" />
+            <circle cx="689.8407" cy="339.53866" r="4.2645216" fill="white" />
+            <circle cx="689.8407" cy="339.53866" r="4.2645216" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".82699393" />
+            <path d="M 668.9886 336.80336 L 676.0107 336.80336 C 676.38384 336.80336 676.6863 337.10584 676.6863 337.47896 L 676.6863 337.47896 C 676.6863 337.85208 676.38384 338.15455 676.0107 338.15455 L 668.9886 338.15455 C 668.61547 338.15455 668.313 337.85208 668.313 337.47896 L 668.313 337.47896 C 668.313 337.10584 668.61547 336.80336 668.9886 336.80336 Z" fill="white" />
+            <path d="M 668.9886 338.86307 L 676.0107 338.86307 C 676.38384 338.86307 676.6863 339.16554 676.6863 339.53866 L 676.6863 339.53866 C 676.6863 339.91178 676.38384 340.21426 676.0107 340.21426 L 668.9886 340.21426 C 668.61547 340.21426 668.313 339.91178 668.313 339.53866 L 668.313 339.53866 C 668.313 339.16554 668.61547 338.86307 668.9886 338.86307 Z" fill="white" />
+            <path d="M 668.9886 340.92278 L 676.0107 340.92278 C 676.38384 340.92278 676.6863 341.22525 676.6863 341.59837 L 676.6863 341.59837 C 676.6863 341.9715 676.38384 342.27396 676.0107 342.27396 L 668.9886 342.27396 C 668.61547 342.27396 668.313 341.9715 668.313 341.59837 L 668.313 341.59837 C 668.313 341.22525 668.61547 340.92278 668.9886 340.92278 Z" fill="white" />
+        </g>
+        <g class="svg-anim-path">
+            <line x1="504" y1="486.771" x2="585.544" y2="454.51694" marker-end="url(#FilledArrow_Marker_3)" stroke="#54ff7a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="svg-anim-block">
+            <path d="M 615.31744 449.80013 L 651.1544 449.80013 L 656.92475 464.37787 L 609.24338 464.37787 Z" fill="white" />
+            <path d="M 615.31744 449.80013 L 651.1544 449.80013 L 656.92475 464.37787 L 609.24338 464.37787 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5" />
+            <rect x="615.01374" y="425.5039" width="35.836952" height="22.474021" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.0947067" />
+            <rect x="616.58287" y="451.01494" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="616.58287" y="451.01494" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="620.8347" y="451.01494" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="620.8347" y="451.01494" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="625.08655" y="451.01494" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="625.08655" y="451.01494" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="629.54086" y="451.01494" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="629.54086" y="451.01494" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="633.7927" y="451.01494" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="633.7927" y="451.01494" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="638.04455" y="451.01494" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="638.04455" y="451.01494" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="642.2964" y="451.01494" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="642.2964" y="451.01494" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="646.54823" y="451.01494" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="646.54823" y="451.01494" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="615.1656" y="454.35568" width="3.297879" height=".8054631" fill="black" />
+            <rect x="615.1656" y="454.35568" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="619.78262" y="454.35568" width="3.297879" height=".8054631" fill="black" />
+            <rect x="619.78262" y="454.35568" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="624.39965" y="454.35568" width="3.297879" height=".8054631" fill="black" />
+            <rect x="624.39965" y="454.35568" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="629.23654" y="454.35568" width="3.297879" height=".8054631" fill="black" />
+            <rect x="629.23654" y="454.35568" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="633.85357" y="454.35568" width="3.297879" height=".8054631" fill="black" />
+            <rect x="633.85357" y="454.35568" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="638.4706" y="454.35568" width="3.297879" height=".8054631" fill="black" />
+            <rect x="638.4706" y="454.35568" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="643.08763" y="454.35568" width="3.297879" height=".8054631" fill="black" />
+            <rect x="643.08763" y="454.35568" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="647.70466" y="454.35568" width="3.297879" height=".8054631" fill="black" />
+            <rect x="647.70466" y="454.35568" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="613.58064" y="457.6964" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="613.58064" y="457.6964" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="618.60606" y="457.6964" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="618.60606" y="457.6964" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="623.6315" y="457.6964" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="623.6315" y="457.6964" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="628.8962" y="457.6964" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="628.8962" y="457.6964" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="633.92164" y="457.6964" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="633.92164" y="457.6964" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="638.94706" y="457.6964" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="638.94706" y="457.6964" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="643.9725" y="457.6964" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="643.9725" y="457.6964" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="648.9979" y="457.6964" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="648.9979" y="457.6964" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="626.04323" y="461.03714" width="13.970337" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <rect x="612.0729" y="461.03714" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="612.0729" y="461.03714" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="617.09832" y="461.03714" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="617.09832" y="461.03714" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="645.48023" y="461.03714" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="645.48023" y="461.03714" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="650.50565" y="461.03714" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="650.50565" y="461.03714" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <path d="M 668.0675 437.18782 L 711.6139 437.18782 C 712.75572 437.18782 713.68137 438.11346 713.68137 439.2553 L 713.68137 450.62647 C 713.68137 451.7683 712.75572 452.69395 711.6139 452.69395 L 668.0675 452.69395 C 666.92564 452.69395 666 451.7683 666 450.62647 L 666 439.2553 C 666 438.11346 666.92564 437.18782 668.0675 437.18782 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".82699393" />
+            <circle cx="689.8407" cy="444.94088" r="6.2024644" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".82699393" />
+            <circle cx="689.8407" cy="444.94088" r="4.2645216" fill="white" />
+            <circle cx="689.8407" cy="444.94088" r="4.2645216" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".82699393" />
+            <path d="M 668.9886 442.20558 L 676.0107 442.20558 C 676.38384 442.20558 676.6863 442.50806 676.6863 442.88118 L 676.6863 442.88118 C 676.6863 443.2543 676.38384 443.55677 676.0107 443.55677 L 668.9886 443.55677 C 668.61547 443.55677 668.313 443.2543 668.313 442.88118 L 668.313 442.88118 C 668.313 442.50806 668.61547 442.20558 668.9886 442.20558 Z" fill="white" />
+            <path d="M 668.9886 444.2653 L 676.0107 444.2653 C 676.38384 444.2653 676.6863 444.56776 676.6863 444.94088 L 676.6863 444.94088 C 676.6863 445.314 676.38384 445.61648 676.0107 445.61648 L 668.9886 445.61648 C 668.61547 445.61648 668.313 445.314 668.313 444.94088 L 668.313 444.94088 C 668.313 444.56776 668.61547 444.2653 668.9886 444.2653 Z" fill="white" />
+            <path d="M 668.9886 446.325 L 676.0107 446.325 C 676.38384 446.325 676.6863 446.62747 676.6863 447.0006 L 676.6863 447.0006 C 676.6863 447.3737 676.38384 447.67618 676.0107 447.67618 L 668.9886 447.67618 C 668.61547 447.67618 668.313 447.3737 668.313 447.0006 L 668.313 447.0006 C 668.313 446.62747 668.61547 446.325 668.9886 446.325 Z" fill="white" />
+        </g>
+        <g class="svg-anim-path">
+            <line x1="504" y1="520.92232" x2="584.88058" y2="527.29426" marker-end="url(#FilledArrow_Marker_3)" stroke="#54ff7a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="svg-anim-block">
+            <path d="M 615.31744 555.20235 L 651.1544 555.20235 L 656.92475 569.7801 L 609.24338 569.7801 Z" fill="white" />
+            <path d="M 615.31744 555.20235 L 651.1544 555.20235 L 656.92475 569.7801 L 609.24338 569.7801 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5" />
+            <rect x="615.01374" y="530.9061" width="35.836952" height="22.474021" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.0947067" />
+            <rect x="616.58287" y="556.41716" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="616.58287" y="556.41716" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="620.8347" y="556.41716" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="620.8347" y="556.41716" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="625.08655" y="556.41716" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="625.08655" y="556.41716" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="629.54086" y="556.41716" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="629.54086" y="556.41716" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="633.7927" y="556.41716" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="633.7927" y="556.41716" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="638.04455" y="556.41716" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="638.04455" y="556.41716" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="642.2964" y="556.41716" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="642.2964" y="556.41716" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="646.54823" y="556.41716" width="3.0370299" height=".8054631" fill="black" />
+            <rect x="646.54823" y="556.41716" width="3.0370299" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="615.1656" y="559.7579" width="3.297879" height=".8054631" fill="black" />
+            <rect x="615.1656" y="559.7579" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="619.78262" y="559.7579" width="3.297879" height=".8054631" fill="black" />
+            <rect x="619.78262" y="559.7579" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="624.39965" y="559.7579" width="3.297879" height=".8054631" fill="black" />
+            <rect x="624.39965" y="559.7579" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="629.23654" y="559.7579" width="3.297879" height=".8054631" fill="black" />
+            <rect x="629.23654" y="559.7579" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="633.85357" y="559.7579" width="3.297879" height=".8054631" fill="black" />
+            <rect x="633.85357" y="559.7579" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="638.4706" y="559.7579" width="3.297879" height=".8054631" fill="black" />
+            <rect x="638.4706" y="559.7579" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="643.08763" y="559.7579" width="3.297879" height=".8054631" fill="black" />
+            <rect x="643.08763" y="559.7579" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="647.70466" y="559.7579" width="3.297879" height=".8054631" fill="black" />
+            <rect x="647.70466" y="559.7579" width="3.297879" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="613.58064" y="563.09863" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="613.58064" y="563.09863" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="618.60606" y="563.09863" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="618.60606" y="563.09863" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="623.6315" y="563.09863" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="623.6315" y="563.09863" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="628.8962" y="563.09863" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="628.8962" y="563.09863" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="633.92164" y="563.09863" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="633.92164" y="563.09863" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="638.94706" y="563.09863" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="638.94706" y="563.09863" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="643.9725" y="563.09863" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="643.9725" y="563.09863" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="648.9979" y="563.09863" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="648.9979" y="563.09863" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="626.04323" y="566.43936" width="13.970337" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <rect x="612.0729" y="566.43936" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="612.0729" y="566.43936" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="617.09832" y="566.43936" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="617.09832" y="566.43936" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="645.48023" y="566.43936" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="645.48023" y="566.43936" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <rect x="650.50565" y="566.43936" width="3.5895876" height=".8054631" fill="black" />
+            <rect x="650.50565" y="566.43936" width="3.5895876" height=".8054631" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" />
+            <path d="M 668.0675 542.59004 L 711.6139 542.59004 C 712.75572 542.59004 713.68137 543.51568 713.68137 544.65752 L 713.68137 556.0287 C 713.68137 557.17053 712.75572 558.09617 711.6139 558.09617 L 668.0675 558.09617 C 666.92564 558.09617 666 557.17053 666 556.0287 L 666 544.65752 C 666 543.51568 666.92564 542.59004 668.0675 542.59004 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".82699393" />
+            <circle cx="689.8407" cy="550.3431" r="6.2024644" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".82699393" />
+            <circle cx="689.8407" cy="550.3431" r="4.2645216" fill="white" />
+            <circle cx="689.8407" cy="550.3431" r="4.2645216" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".82699393" />
+            <path d="M 668.9886 547.6078 L 676.0107 547.6078 C 676.38384 547.6078 676.6863 547.91028 676.6863 548.2834 L 676.6863 548.2834 C 676.6863 548.65652 676.38384 548.959 676.0107 548.959 L 668.9886 548.959 C 668.61547 548.959 668.313 548.65652 668.313 548.2834 L 668.313 548.2834 C 668.313 547.91028 668.61547 547.6078 668.9886 547.6078 Z" fill="white" />
+            <path d="M 668.9886 549.6675 L 676.0107 549.6675 C 676.38384 549.6675 676.6863 549.97 676.6863 550.3431 L 676.6863 550.3431 C 676.6863 550.71622 676.38384 551.0187 676.0107 551.0187 L 668.9886 551.0187 C 668.61547 551.0187 668.313 550.71622 668.313 550.3431 L 668.313 550.3431 C 668.313 549.97 668.61547 549.6675 668.9886 549.6675 Z" fill="white" />
+            <path d="M 668.9886 551.72722 L 676.0107 551.72722 C 676.38384 551.72722 676.6863 552.0297 676.6863 552.4028 L 676.6863 552.4028 C 676.6863 552.77593 676.38384 553.0784 676.0107 553.0784 L 668.9886 553.0784 C 668.61547 553.0784 668.313 552.77593 668.313 552.4028 L 668.313 552.4028 C 668.313 552.0297 668.61547 551.72722 668.9886 551.72722 Z" fill="white" />
+        </g>
+    </g>
+    <!-- step youtube authoring -->
+    <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+        <g class="svg-anim-path">
+            <line x1="818.9558" y1="268.46683" x2="713.68137" y2="302.62767" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="2,2" />
+            <line x1="819.0707" y1="480.5912" x2="713.68137" y2="379.3913" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="2,2" />
+        </g>
+        <g class="svg-anim-block">
+            <rect x="819.43137" y="268.3125" width="446.19363" height="212.625" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <text transform="translate(824.43137 273.3125)" fill="white">
+                <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="white" x="150.104816" y="15" textLength="135.984">TOUCHDESIGNER</tspan>
+            </text>
+        </g>
+        <g class="svg-anim-path">
+            <line x1="245.66129" y1="139.97811" x2="819.98" y2="139.506585" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" />
+        </g>
+        <g class="svg-anim-block"><!-- youtube -->
+            <rect x="828" y="112.5" width="144" height="54" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <text transform="translate(833 130.276)" fill="white">
+                <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="white" x="29.224" y="15" textLength="75.552">YOUTUBE</tspan>
+            </text>
+        </g>
+    </g>
+    <!-- step touchdesigner -->
+    <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+        <g class="svg-anim-block"><!-- youtube top -->
+            <rect x="841.5282" y="317.25" width="118.93137" height="78.1875" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <text transform="translate(846.5282 337.89575)" fill="white">
+                <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="white" x="16.689684" y="15" textLength="80">YOUTUBE </tspan>
+                <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="white" x="38.609684" y="33.447998" textLength="31.712">TOP</tspan>
+            </text>
+            <rect x="857.8421" y="418.40222" width="87" height="37.788154" stroke="#54ff7a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <text transform="translate(862.8421 428.0723)" fill="#54ff7a">
+                <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#54ff7a" x="11.988" y="15" textLength="53.024">CUE IN</tspan>
+            </text>
+        </g>
+        <g class="svg-anim-path">
+            <line x1="901.3345" y1="417.90228" x2="901.11547" y2="403.45658" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" />
+        </g>
+        <g class="svg-anim-path">
+            <line x1="900" y1="166.5" x2="900.9286" y2="307.35022" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+        </g>
+        <g class="svg-anim-path">
+            <line x1="960.95955" y1="356.34375" x2="991.0082" y2="356.34375" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" />
+        </g>
+        <g class="svg-anim-block">
+            <rect x="999.0282" y="317.25" width="118.93137" height="78.1875" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <text transform="translate(1004.0282 347.11975)" fill="white">
+                <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="white" x="10.9056845" y="15" textLength="87.12">POSTPROC</tspan>
+            </text>
+        </g>
+        <g class="svg-anim-path">
+            <line x1="1118.45955" y1="356.34375" x2="1148.5082" y2="356.34375" marker-end="url(#FilledArrow_Marker)" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" />
+        </g>
+        <g class="svg-anim-block">
+            <rect x="1156.5282" y="337.44967" width="87" height="37.788154" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+            <text transform="translate(1161.5282 347.11975)" fill="white">
+                <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="white" x="22.052" y="15" textLength="32.896">OUT</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
